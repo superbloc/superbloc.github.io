@@ -7,6 +7,8 @@ http://livetv.ktv.zone/4/play.m3u8
 http://livetv.ktv.zone/5/play.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
 http://163.172.40.244/mm/121.m3u8
+#EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
+http://163.172.40.244/mm/463.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
