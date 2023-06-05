@@ -25,7 +25,7 @@ http://livetv.ktv.zone/11/play.m3u8
 http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
 #http://livetv.ktv.zone/12/play.m3u8
-https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNDEuOTQuMzcuMTgwIiwiY21jZCI6IiIsImV4cCI6MTY4NTY2NzExNiwiZ2lkIjoiMzBmYWI2MTItY2UyNy00MzJhLWEyM2UtYWMyMjczYjc3ZTBjIiwiaWF0IjoxNjg1NjUyNzE2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjMwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzQ0ZmNiMWM3NzYyODRmMmRhN2MxMWVmOTQ4ZDdlZjM0L3RtYy1jbWFmIiwic3ViIjoiMzBmYWI2MTItY2UyNy00MzJhLWEyM2UtYWMyMjczYjc3ZTBjIn0._qDw3yULqN5X4kI8WSZIUxUgt-3RT_njwTm2-q9T1dc/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
+https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxNDEuOTQuMzcuMTgwIiwiY21jZCI6IiIsImV4cCI6MTY4NjAxMDc2NSwiZ2lkIjoiYmE5YjYyNTYtMDcxYS00NzU3LThmMGQtMmM1MGJhYjIxODRkIiwiaWF0IjoxNjg1OTk2MzY1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjMwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzQ0ZmNiMWM3NzYyODRmMmRhN2MxMWVmOTQ4ZDdlZjM0L3RtYy1jbWFmIiwic3ViIjoiYmE5YjYyNTYtMDcxYS00NzU3LThmMGQtMmM1MGJhYjIxODRkIn0.pj3X5MubZAA-tTWHMzzr2KYip52dL7sSyFsNvP5qX28/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
