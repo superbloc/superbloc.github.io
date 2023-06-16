@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
 #https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-http://livetv.ktv.zone/3/play.m3u8
+#http://livetv.ktv.zone/3/play.m3u8
+http://163.172.40.244/mm/9.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
@@ -230,3 +231,9 @@ http://163.172.40.244/mm/35.m3u8
 http://163.172.40.244/mm/31.m3u8
 #EXTINF:-1 tvg-id="BT Sport 2" status="timeout", BT Sport 2
 http://163.172.40.244/mm/32.m3u8
+#EXTINF:-1 tvg-id="ch 10" status="timeout", ch10
+http://163.172.40.244/mm/10.m3u8
+#EXTINF:-1 tvg-id="451" status="timeout", 451
+http://163.172.40.244/mm/451.m3u8
+#EXTINF:-1 tvg-id="ch39" status="timeout", ch39
+http://163.172.40.244/mm/39.m3u8
