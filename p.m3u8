@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
 #https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 #http://livetv.ktv.zone/3/play.m3u8
-http://163.172.40.244/mm/4.m3u8
+#http://163.172.40.244/mm/4.m3u8
+http://w.bs-share.com:8000/live/247179867825237/23141543216575/397394.ts
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
