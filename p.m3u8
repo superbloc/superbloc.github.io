@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
 #https://live-tf1-hls-dai.cdn-1.diff.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#http://livetv.ktv.zone/3/play.m3u8
+http://livetv.ktv.zone/3/play.m3u8
 #http://163.172.40.244/mm/4.m3u8
-http://w.bs-share.com:8000/live/247179867825237/23141543216575/397394.ts
+#http://w.bs-share.com:8000/live/247179867825237/23141543216575/397394.ts
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
@@ -15,8 +15,8 @@ http://163.172.40.244/mm/463.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
-#http://livetv.ktv.zone/8/play.m3u8
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6apr23.m3u8
+http://livetv.ktv.zone/8/play.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/m6apr23.m3u8
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
