@@ -238,5 +238,5 @@ http://163.172.40.244/mm/817.m3u8
 http://163.172.40.244/mm/354.m3u8
 #EXTINF:-1 tvg-id="ch756" status="timeout", ch756
 http://163.172.40.244/mm/756.m3u8
-#EXTINF:-1 tvg-id="ch39" status="timeout", ch39
-http://163.172.40.244/mm/39.m3u8
+#EXTINF:-1 tvg-id="ch159" status="timeout", ch159
+http://163.172.40.244/mm/159.m3u8
