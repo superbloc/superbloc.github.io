@@ -6,7 +6,7 @@ http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
 http://livetv.ktv.zone/5/play.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
-http://163.172.40.244/nm?dlhd_channel=121
+http://163.172.40.244/nm/121.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
@@ -46,11 +46,11 @@ https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
 #EXTINF:-1 tvg-id=i"Ushuaïa TV" status=timeout,Ushuaïa TV
 https://tvenligne.com/wp-content/uploads/TVENDIRECT/Ushua%C3%AFaTV/ushuaiatv.m3u8
 #EXTINF:-1 tvg-id=1"Cineprime" status=timeout,Cineprime
-https://d5rskh55dewj4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/d0f32efe-65be-4e48-8041-b40029dcbdba?dlhd_channel=3
+https://d5rskh55dewj4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/d0f32efe-65be-4e48-8041-b40029dcbdba/3.m3u8
 #EXTINF:-1 tvg-id=i"LCI" status=timeout,LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/1330f53e0d214a9ead65ac455bf79786/index.m3u8
 #EXTINF:-1 tvg-id=i"BBC Drama" status=timeout,BBC Drama
-https://caec5a936f944a8d83ccb21f8266b684.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_BBCDrama/b5c44606-85ba-450d-a3f6-8b0022f3b883?dlhd_channel=1
+https://caec5a936f944a8d83ccb21f8266b684.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_BBCDrama/b5c44606-85ba-450d-a3f6-8b0022f3b883/1.m3u8
 #EXTINF:-1 tvg-id=i"PLUG RTL Belgique" status=timeout,PLUG RTL Belgique
 https://tvenligne.com/wp-content/uploads/TVENDIRECT/plugrtl/master.m3u8
 #EXTINF:-1 tvg-id=i"Canal J" status=timeout,Canal J
@@ -74,152 +74,152 @@ https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_w2008012
 #EXTINF:-1 tvg-id=i"Africa 24" status=timeout,Africa 24
 https://edge13.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w318620089.m3u8
 #EXTINF:-1 tvg-id="ABC USA" status="timeout",ABC USA
-http://163.172.40.244/nm?dlhd_channel=51
+http://163.172.40.244/nm/51.m3u8
 #EXTINF:-1 tvg-id="CBS USA" status="timeout",CBS USA
-http://163.172.40.244/nm?dlhd_channel=52
+http://163.172.40.244/nm/52.m3u8
 #EXTINF:-1 tvg-id="NBC USA" status="timeout",NBC USA
-http://163.172.40.244/nm?dlhd_channel=53
+http://163.172.40.244/nm/53.m3u8
 #EXTINF:-1 tvg-id="FOX USA" status="timeout",FOX USA
-http://163.172.40.244/nm?dlhd_channel=54
+http://163.172.40.244/nm/54.m3u8
 #EXTINF:-1 tvg-id="CW USA" status="timeout",CW USA
-http://163.172.40.244/nm?dlhd_channel=300
+http://163.172.40.244/nm/300.m3u8
 #EXTINF:-1 tvg-id="Freeform" status="timeout",Freeform
-http://163.172.40.244/nm?dlhd_channel=301
+http://163.172.40.244/nm/301.m3u8
 #EXTINF:-1 tvg-id="A&E Tv" status="timeout",A&E Tv
-http://163.172.40.244/nm?dlhd_channel=302
+http://163.172.40.244/nm/302.m3u8
 #EXTINF:-1 tvg-id="AMC Tv" status="timeout",AMC Tv
-http://163.172.40.244/nm?dlhd_channel=303
+http://163.172.40.244/nm/303.m3u8
 #EXTINF:-1 tvg-id="Animal Planet" status="timeout",Animal Planet
-http://163.172.40.244/nm?dlhd_channel=304
+http://163.172.40.244/nm/304.m3u8
 #EXTINF:-1 tvg-id="5USA Channel" status="timeout",5USA Channel
-http://163.172.40.244/nm?dlhd_channel=360
+http://163.172.40.244/nm/360.m3u8
 #EXTINF:-1 tvg-id="BET Network" status="timeout",BET Network
-http://163.172.40.244/nm?dlhd_channel=306
+http://163.172.40.244/nm/306.m3u8
 #EXTINF:-1 tvg-id="Bravo TV" status="timeout",Bravo TV
-http://163.172.40.244/nm?dlhd_channel=307
+http://163.172.40.244/nm/307.m3u8
 #EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" status="timeout",CBS Sports Network (CBSSN)
-http://163.172.40.244/nm?dlhd_channel=308
+http://163.172.40.244/nm/308.m3u8
 #EXTINF:-1 tvg-id="CNBC" status="timeout",CNBC
-http://163.172.40.244/nm?dlhd_channel=309
+http://163.172.40.244/nm/309.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" status="timeout",Comedy Central
-http://163.172.40.244/nm?dlhd_channel=310
+http://163.172.40.244/nm/310.m3u8
 #EXTINF:-1 tvg-id="Discovery Life" status="timeout",Discovery Life
-http://163.172.40.244/nm?dlhd_channel=311
+http://163.172.40.244/nm/311.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" status="timeout",Disney Channel
-http://163.172.40.244/nm?dlhd_channel=312
+http://163.172.40.244/nm/312.m3u8
 #EXTINF:-1 tvg-id="Discovery HD" status="timeout",Discovery HD
-http://163.172.40.244/nm?dlhd_channel=313
+http://163.172.40.244/nm/313.m3u8
 #EXTINF:-1 tvg-id="Disney XD" status="timeout",Disney XD
-http://163.172.40.244/nm?dlhd_channel=314
+http://163.172.40.244/nm/314.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment" status="timeout",E! Entertainment
-http://163.172.40.244/nm?dlhd_channel=315
+http://163.172.40.244/nm/315.m3u8
 #EXTINF:-1 tvg-id="ESPNU USA" status="timeout",ESPNU USA
-http://163.172.40.244/nm?dlhd_channel=316
+http://163.172.40.244/nm/316.m3u8
 #EXTINF:-1 tvg-id="FX TV" status="timeout",FX TV
-http://163.172.40.244/nm?dlhd_channel=317
+http://163.172.40.244/nm/317.m3u8
 #EXTINF:-1 tvg-id="Game Show Network" status="timeout",Game Show Network
-http://163.172.40.244/nm?dlhd_channel=319
+http://163.172.40.244/nm/319.m3u8
 #EXTINF:-1 tvg-id="The Hallmark Channel" status="timeout",The Hallmark Channel
-http://163.172.40.244/nm?dlhd_channel=320
+http://163.172.40.244/nm/320.m3u8
 #EXTINF:-1 tvg-id="HBO USA" status="timeout",HBO USA
-http://163.172.40.244/nm?dlhd_channel=321
+http://163.172.40.244/nm/321.m3u8
 #EXTINF:-1 tvg-id="History TV" status="timeout",History TV
-http://163.172.40.244/nm?dlhd_channel=322
+http://163.172.40.244/nm/322.m3u8
 #EXTINF:-1 tvg-id="Headline News (HLN)" status="timeout",Headline News (HLN)
-http://163.172.40.244/nm?dlhd_channel=323
+http://163.172.40.244/nm/323.m3u8
 #EXTINF:-1 tvg-id="Investigation Discovery (ID)" status="timeout",Investigation Discovery (ID)
-http://163.172.40.244/nm?dlhd_channel=324
+http://163.172.40.244/nm/324.m3u8
 #EXTINF:-1 tvg-id="ION Television" status="timeout",ION Television
-http://163.172.40.244/nm?dlhd_channel=325
+http://163.172.40.244/nm/325.m3u8
 #EXTINF:-1 tvg-id="Lifetime Movie Network" status="timeout",Lifetime Movie Network
-http://163.172.40.244/nm?dlhd_channel=326
+http://163.172.40.244/nm/326.m3u8
 #EXTINF:-1 tvg-id="MSNBC" status="timeout",MSNBC
-http://163.172.40.244/nm?dlhd_channel=327
+http://163.172.40.244/nm/327.m3u8
 #EXTINF:-1 tvg-id="National Geographic (NGC)" status="timeout",National Geographic (NGC)
-http://163.172.40.244/nm?dlhd_channel=328
+http://163.172.40.244/nm/328.m3u8
 #EXTINF:-1 tvg-id="NICK JR" status="timeout",NICK JR
-http://163.172.40.244/nm?dlhd_channel=329
+http://163.172.40.244/nm/329.m3u8
 #EXTINF:-1 tvg-id="NICK" status="timeout",NICK
-http://163.172.40.244/nm?dlhd_channel=330
+http://163.172.40.244/nm/330.m3u8
 #EXTINF:-1 tvg-id="Oprah Winfrey Network" status="timeout",Oprah Winfrey Network
-http://163.172.40.244/nm?dlhd_channel=331
+http://163.172.40.244/nm/331.m3u8
 #EXTINF:-1 tvg-id="Oxygen Tv" status="timeout",Oxygen Tv
-http://163.172.40.244/nm?dlhd_channel=332
+http://163.172.40.244/nm/332.m3u8
 #EXTINF:-1 tvg-id="Showtime USA" status="timeout",Showtime USA
-http://163.172.40.244/nm?dlhd_channel=333
+http://163.172.40.244/nm/333.m3u8
 #EXTINF:-1 tvg-id="Paramount Network" status="timeout",Paramount Network
-http://163.172.40.244/nm?dlhd_channel=334
+http://163.172.40.244/nm/334.m3u8
 #EXTINF:-1 tvg-id="Starz" status="timeout",Starz
-http://163.172.40.244/nm?dlhd_channel=335
+http://163.172.40.244/nm/335.m3u8
 #EXTINF:-1 tvg-id="TBS" status="timeout",TBS
-http://163.172.40.244/nm?dlhd_channel=336
+http://163.172.40.244/nm/336.m3u8
 #EXTINF:-1 tvg-id="TLC" status="timeout",TLC
-http://163.172.40.244/nm?dlhd_channel=337
+http://163.172.40.244/nm/337.m3u8
 #EXTINF:-1 tvg-id="TNT USA" status="timeout",TNT USA
-http://163.172.40.244/nm?dlhd_channel=338
+http://163.172.40.244/nm/338.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" status="timeout",Cartoon Network
-http://163.172.40.244/nm?dlhd_channel=339
+http://163.172.40.244/nm/339.m3u8
 #EXTINF:-1 tvg-id="Travel Channel" status="timeout",Travel Channel
-http://163.172.40.244/nm?dlhd_channel=340
+http://163.172.40.244/nm/340.m3u8
 #EXTINF:-1 tvg-id="tru TV" status="timeout",tru TV
-http://163.172.40.244/nm?dlhd_channel=341
+http://163.172.40.244/nm/341.m3u8
 #EXTINF:-1 tvg-id="TVLAND" status="timeout",TVLAND
-http://163.172.40.244/nm?dlhd_channel=342
+http://163.172.40.244/nm/342.m3u8
 #EXTINF:-1 tvg-id="USA Network" status="timeout",USA Network
-http://163.172.40.244/nm?dlhd_channel=343
+http://163.172.40.244/nm/343.m3u8
 #EXTINF:-1 tvg-id="VH1 USA" status="timeout",VH1 USA
-http://163.172.40.244/nm?dlhd_channel=344
+http://163.172.40.244/nm/344.m3u8
 #EXTINF:-1 tvg-id="CNN USA" status="timeout",CNN USA
-http://163.172.40.244/nm?dlhd_channel=345
+http://163.172.40.244/nm/345.m3u8
 #EXTINF:-1 tvg-id="Fox News" status="timeout",Fox News
-http://163.172.40.244/nm?dlhd_channel=347
+http://163.172.40.244/nm/347.m3u8
 #EXTINF:-1 tvg-id="Dave Channel" status="timeout",Dave Channel
-http://163.172.40.244/nm?dlhd_channel=348
+http://163.172.40.244/nm/348.m3u8
 #EXTINF:-1 tvg-id="BBC News UK" status="timeout",BBC News UK
-http://163.172.40.244/nm?dlhd_channel=349
+http://163.172.40.244/nm/349.m3u8
 #EXTINF:-1 tvg-id="ITV 1 UK" status="timeout",ITV 1 UK
-http://163.172.40.244/nm?dlhd_channel=350
+http://163.172.40.244/nm/350.m3u8
 #EXTINF:-1 tvg-id="ITV 2 UK" status="timeout",ITV 2 UK
-http://163.172.40.244/nm?dlhd_channel=351
+http://163.172.40.244/nm/351.m3u8
 #EXTINF:-1 tvg-id="ITV 3 UK" status="timeout",ITV 3 UK
-http://163.172.40.244/nm?dlhd_channel=352
+http://163.172.40.244/nm/352.m3u8
 #EXTINF:-1 tvg-id="ITV 4 UK" status="timeout",ITV 4 UK
-http://163.172.40.244/nm?dlhd_channel=353
+http://163.172.40.244/nm/353.m3u8
 #EXTINF:-1 tvg-id="Channel 4 UK" status="timeout",Channel 4 UK
-http://163.172.40.244/nm?dlhd_channel=354
+http://163.172.40.244/nm/354.m3u8
 #EXTINF:-1 tvg-id="Channel 5 UK" status="timeout",Channel 5 UK
-http://163.172.40.244/nm?dlhd_channel=355
+http://163.172.40.244/nm/355.m3u8
 #EXTINF:-1 tvg-id="BBC One UK" status="timeout",BBC One UK
-http://163.172.40.244/nm?dlhd_channel=356
+http://163.172.40.244/nm/356.m3u8
 #EXTINF:-1 tvg-id="BBC Two UK" status="timeout",BBC Two UK
-http://163.172.40.244/nm?dlhd_channel=357
+http://163.172.40.244/nm/357.m3u8
 #EXTINF:-1 tvg-id="BBC Three UK" status="timeout",BBC Three UK
-http://163.172.40.244/nm?dlhd_channel=358
+http://163.172.40.244/nm/358.m3u8
 #EXTINF:-1 tvg-id="BBC Four UK" status="timeout",BBC Four UK
-http://163.172.40.244/nm?dlhd_channel=359
+http://163.172.40.244/nm/359.m3u8
 #EXTINF:-1 tvg-id="BBC America" status="timeout",BBC America
-http://163.172.40.244/nm?dlhd_channel=305
+http://163.172.40.244/nm/305.m3u8
 #EXTINF:-1 tvg-id="Sky Witness HD" status="timeout",Sky Witness HD
-http://163.172.40.244/nm?dlhd_channel=361
+http://163.172.40.244/nm/361.m3u8
 #EXTINF:-1 tvg-id="Sky Atlantic" status="timeout",Sky Atlantic
-http://163.172.40.244/nm?dlhd_channel=362
+http://163.172.40.244/nm/362.m3u8
 #EXTINF:-1 tvg-id="E4 Channel" status="timeout",E4 Channel
-http://163.172.40.244/nm?dlhd_channel=363
+http://163.172.40.244/nm/363.m3u8
 #EXTINF:-1 tvg-id="RTE 1" status="timeout",RTE 1
-http://163.172.40.244/nm?dlhd_channel=364
+http://163.172.40.244/nm/364.m3u8
 #EXTINF:-1 tvg-id="RTE 2" status="timeout",RTE 2
-http://163.172.40.244/nm?dlhd_channel=365
+http://163.172.40.244/nm/365.m3u8
 #EXTINF:-1 tvg-id="Sky Sports News UK" status="timeout",Sky Sports News UK
-http://163.172.40.244/nm?dlhd_channel=366
+http://163.172.40.244/nm/366.m3u8
 #EXTINF:-1 tvg-id="MTV UK" status="timeout",MTV UK
-http://163.172.40.244/nm?dlhd_channel=367
+http://163.172.40.244/nm/367.m3u8
 #EXTINF:-1 tvg-id="MTV USA" status="timeout",MTV USA
-http://163.172.40.244/nm?dlhd_channel=371
+http://163.172.40.244/nm/371.m3u8
 #EXTINF:-1 tvg-id="RMC Sport" status="timeout", RMC Sport
-http://163.172.40.244/nm?dlhd_channel=119
+http://163.172.40.244/nm/119.m3u8
 #EXTINF:-1 tvg-id="BEIN Sport 1" status="timeout", BEIN Sport 1
-http://163.172.40.244/nm?dlhd_channel=116
+http://163.172.40.244/nm/116.m3u8
 #EXTINF:-1 tvg-id="Sky sport UK foot" status="timeout", Sky sport UK foot
-http://163.172.40.244/nm?dlhd_channel=35
+http://163.172.40.244/nm/35.m3u8
 #EXTINF:-1 tvg-id="BT Sport 1" status="timeout", BT Sport 1
-http://163.172.40.244/nm?dlhd_channel=31
+http://163.172.40.244/nm/31.m3u8
