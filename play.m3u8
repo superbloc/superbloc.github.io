@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"test" status=timeout,test channel
-http://163.172.40.244/nm/link
+http://163.172.40.244/nm/link/333
