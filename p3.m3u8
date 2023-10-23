@@ -1,0 +1,2753 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=i"ABC USA" status=timeout,ABC USA
+http://163.172.40.244/nm/m3u8/51
+#EXTINF:-1 tvg-id=i"A&E USA" status=timeout,A&E USA
+http://163.172.40.244/nm/m3u8/302
+#EXTINF:-1 tvg-id=i"AMC USA" status=timeout,AMC USA
+http://163.172.40.244/nm/m3u8/303
+#EXTINF:-1 tvg-id=i"Animal Planet" status=timeout,Animal Planet
+http://163.172.40.244/nm/m3u8/304
+#EXTINF:-1 tvg-id=i"ACC Network USA" status=timeout,ACC Network USA
+http://163.172.40.244/nm/m3u8/666
+#EXTINF:-1 tvg-id=i"Astro SuperSport 1" status=timeout,Astro SuperSport 1
+http://163.172.40.244/nm/m3u8/123
+#EXTINF:-1 tvg-id=i"Astro SuperSport 2" status=timeout,Astro SuperSport 2
+http://163.172.40.244/nm/m3u8/124
+#EXTINF:-1 tvg-id=i"Astro SuperSport 3" status=timeout,Astro SuperSport 3
+http://163.172.40.244/nm/m3u8/125
+#EXTINF:-1 tvg-id=i"Astro SuperSport 4" status=timeout,Astro SuperSport 4
+http://163.172.40.244/nm/m3u8/126
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Premium" status=timeout,Arena Sport 1 Premium
+http://163.172.40.244/nm/m3u8/134
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Premium" status=timeout,Arena Sport 2 Premium
+http://163.172.40.244/nm/m3u8/135
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Premium" status=timeout,Arena Sport 3 Premium
+http://163.172.40.244/nm/m3u8/139
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Serbia" status=timeout,Arena Sport 1 Serbia
+http://163.172.40.244/nm/m3u8/429
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Serbia" status=timeout,Arena Sport 2 Serbia
+http://163.172.40.244/nm/m3u8/430
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Serbia" status=timeout,Arena Sport 3 Serbia
+http://163.172.40.244/nm/m3u8/431
+#EXTINF:-1 tvg-id=i"Arena Sport 4 Serbia" status=timeout,Arena Sport 4 Serbia
+http://163.172.40.244/nm/m3u8/581
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Croatia" status=timeout,Arena Sport 1 Croatia
+http://163.172.40.244/nm/m3u8/432
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Croatia" status=timeout,Arena Sport 2 Croatia
+http://163.172.40.244/nm/m3u8/433
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Croatia" status=timeout,Arena Sport 3 Croatia
+http://163.172.40.244/nm/m3u8/434
+#EXTINF:-1 tvg-id=i"Arena Sport 4 Croatia" status=timeout,Arena Sport 4 Croatia
+http://163.172.40.244/nm/m3u8/580
+#EXTINF:-1 tvg-id=i"Alkass One" status=timeout,Alkass One
+http://163.172.40.244/nm/m3u8/781
+#EXTINF:-1 tvg-id=i"Alkass Two" status=timeout,Alkass Two
+http://163.172.40.244/nm/m3u8/782
+#EXTINF:-1 tvg-id=i"Alkass Three" status=timeout,Alkass Three
+http://163.172.40.244/nm/m3u8/783
+#EXTINF:-1 tvg-id=i"Alkass Four" status=timeout,Alkass Four
+http://163.172.40.244/nm/m3u8/784
+#EXTINF:-1 tvg-id=i"ABS-CBN" status=timeout,ABS-CBN
+http://163.172.40.244/nm/m3u8/785
+#EXTINF:-1 tvg-id=i"Arena Sport 1 BiH" status=timeout,Arena Sport 1 BiH
+http://163.172.40.244/nm/m3u8/579
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 1 UAE" status=timeout,Abu Dhabi Sports 1 UAE
+http://163.172.40.244/nm/m3u8/600
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 2 UAE" status=timeout,Abu Dhabi Sports 2 UAE
+http://163.172.40.244/nm/m3u8/601
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 1 Premium" status=timeout,Abu Dhabi Sports 1 Premium
+http://163.172.40.244/nm/m3u8/609
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 2 Premium" status=timeout,Abu Dhabi Sports 2 Premium
+http://163.172.40.244/nm/m3u8/610
+#EXTINF:-1 tvg-id=i"Astro Cricket" status=timeout,Astro Cricket
+http://163.172.40.244/nm/m3u8/370
+#EXTINF:-1 tvg-id=i"Antena 3 Spain" status=timeout,Antena 3 Spain
+http://163.172.40.244/nm/m3u8/531
+#EXTINF:-1 tvg-id=i"ACC Network USA" status=timeout,ACC Network USA
+http://163.172.40.244/nm/m3u8/664
+#EXTINF:-1 tvg-id=i"Adult Swim" status=timeout,Adult Swim
+http://163.172.40.244/nm/m3u8/295
+#EXTINF:-1 tvg-id=i"AXN Movies Portugal" status=timeout,AXN Movies Portugal
+http://163.172.40.244/nm/m3u8/717
+#EXTINF:-1 tvg-id=i"Arte DE" status=timeout,Arte DE
+http://163.172.40.244/nm/m3u8/725
+#EXTINF:-1 tvg-id=i"AXS TV USA" status=timeout,AXS TV USA
+http://163.172.40.244/nm/m3u8/742
+#EXTINF:-1 tvg-id=i"ABCNY USA" status=timeout,ABCNY USA
+http://163.172.40.244/nm/m3u8/766
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 1" status=timeout,beIN Sports MENA English 1
+http://163.172.40.244/nm/m3u8/61
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 2" status=timeout,beIN Sports MENA English 2
+http://163.172.40.244/nm/m3u8/90
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 3" status=timeout,beIN Sports MENA English 3
+http://163.172.40.244/nm/m3u8/46
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 1" status=timeout,beIN Sports MENA 1
+http://163.172.40.244/nm/m3u8/91
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 2" status=timeout,beIN Sports MENA 2
+http://163.172.40.244/nm/m3u8/92
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 3" status=timeout,beIN Sports MENA 3
+http://163.172.40.244/nm/m3u8/93
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 4" status=timeout,beIN Sports MENA 4
+http://163.172.40.244/nm/m3u8/94
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 5" status=timeout,beIN Sports MENA 5
+http://163.172.40.244/nm/m3u8/95
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 6" status=timeout,beIN Sports MENA 6
+http://163.172.40.244/nm/m3u8/96
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 7" status=timeout,beIN Sports MENA 7
+http://163.172.40.244/nm/m3u8/97
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 1" status=timeout,beIN Sports MENA Premium 1
+http://163.172.40.244/nm/m3u8/98
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 2" status=timeout,beIN Sports MENA Premium 2
+http://163.172.40.244/nm/m3u8/99
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 3" status=timeout,beIN Sports MENA Premium 3
+http://163.172.40.244/nm/m3u8/100
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 4 France" status=timeout,beIN Sports MAX 4 France
+http://163.172.40.244/nm/m3u8/494
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 5 France" status=timeout,beIN Sports MAX 5 France
+http://163.172.40.244/nm/m3u8/495
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 6 France" status=timeout,beIN Sports MAX 6 France
+http://163.172.40.244/nm/m3u8/496
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 7 France" status=timeout,beIN Sports MAX 7 France
+http://163.172.40.244/nm/m3u8/497
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 8 France" status=timeout,beIN Sports MAX 8 France
+http://163.172.40.244/nm/m3u8/498
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 9 France" status=timeout,beIN Sports MAX 9 France
+http://163.172.40.244/nm/m3u8/499
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 10 France" status=timeout,beIN Sports MAX 10 France
+http://163.172.40.244/nm/m3u8/500
+#EXTINF:-1 tvg-id=i"beIN SPORTS 1 France" status=timeout,beIN SPORTS 1 France
+http://163.172.40.244/nm/m3u8/116
+#EXTINF:-1 tvg-id=i"beIN SPORTS 2 France" status=timeout,beIN SPORTS 2 France
+http://163.172.40.244/nm/m3u8/117
+#EXTINF:-1 tvg-id=i"beIN SPORTS 3 France" status=timeout,beIN SPORTS 3 France
+http://163.172.40.244/nm/m3u8/118
+#EXTINF:-1 tvg-id=i"beIN SPORTS 1 Turkey" status=timeout,beIN SPORTS 1 Turkey
+http://163.172.40.244/nm/m3u8/62
+#EXTINF:-1 tvg-id=i"beIN SPORTS 2 Turkey" status=timeout,beIN SPORTS 2 Turkey
+http://163.172.40.244/nm/m3u8/63
+#EXTINF:-1 tvg-id=i"beIN SPORTS 3 Turkey" status=timeout,beIN SPORTS 3 Turkey
+http://163.172.40.244/nm/m3u8/64
+#EXTINF:-1 tvg-id=i"beIN SPORTS 4 Turkey" status=timeout,beIN SPORTS 4 Turkey
+http://163.172.40.244/nm/m3u8/67
+#EXTINF:-1 tvg-id=i"BeIN Sports HD Qatar" status=timeout,BeIN Sports HD Qatar
+http://163.172.40.244/nm/m3u8/578
+#EXTINF:-1 tvg-id=i"BeIN SPORTS USA" status=timeout,BeIN SPORTS USA
+http://163.172.40.244/nm/m3u8/425
+#EXTINF:-1 tvg-id=i"beIN SPORTS en Espa単ol" status=timeout,beIN SPORTS en Espa単ol
+http://163.172.40.244/nm/m3u8/372
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 1" status=timeout,beIN SPORTS Australia 1
+http://163.172.40.244/nm/m3u8/491
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 2" status=timeout,beIN SPORTS Australia 2
+http://163.172.40.244/nm/m3u8/492
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 3" status=timeout,beIN SPORTS Australia 3
+http://163.172.40.244/nm/m3u8/493
+#EXTINF:-1 tvg-id=i"Barca TV Spain" status=timeout,Barca TV Spain
+http://163.172.40.244/nm/m3u8/522
+#EXTINF:-1 tvg-id=i"Benfica TV PT" status=timeout,Benfica TV PT
+http://163.172.40.244/nm/m3u8/380
+#EXTINF:-1 tvg-id=i"Boomerang" status=timeout,Boomerang
+http://163.172.40.244/nm/m3u8/648
+#EXTINF:-1 tvg-id=i"BNT 1 Bulgaria" status=timeout,BNT 1 Bulgaria
+http://163.172.40.244/nm/m3u8/476
+#EXTINF:-1 tvg-id=i"BNT 2 Bulgaria" status=timeout,BNT 2 Bulgaria
+http://163.172.40.244/nm/m3u8/477
+#EXTINF:-1 tvg-id=i"BNT 3 Bulgaria" status=timeout,BNT 3 Bulgaria
+http://163.172.40.244/nm/m3u8/478
+#EXTINF:-1 tvg-id=i"BR Fernsehen DE" status=timeout,BR Fernsehen DE
+http://163.172.40.244/nm/m3u8/737
+#EXTINF:-1 tvg-id=i"bTV Bulgaria" status=timeout,bTV Bulgaria
+http://163.172.40.244/nm/m3u8/479
+#EXTINF:-1 tvg-id=i"bTV Action Bulgaria" status=timeout,bTV Action Bulgaria
+http://163.172.40.244/nm/m3u8/481
+#EXTINF:-1 tvg-id=i"bTV Lady Bulgaria" status=timeout,bTV Lady Bulgaria
+http://163.172.40.244/nm/m3u8/484
+#EXTINF:-1 tvg-id=i"BBC America (BBCA)" status=timeout,BBC America (BBCA)
+http://163.172.40.244/nm/m3u8/305
+#EXTINF:-1 tvg-id=i"BET USA" status=timeout,BET USA
+http://163.172.40.244/nm/m3u8/306
+#EXTINF:-1 tvg-id=i"Bravo USA" status=timeout,Bravo USA
+http://163.172.40.244/nm/m3u8/307
+#EXTINF:-1 tvg-id=i"BBC News Channel HD" status=timeout,BBC News Channel HD
+http://163.172.40.244/nm/m3u8/349
+#EXTINF:-1 tvg-id=i"BBC One UK" status=timeout,BBC One UK
+http://163.172.40.244/nm/m3u8/356
+#EXTINF:-1 tvg-id=i"BBC Two UK" status=timeout,BBC Two UK
+http://163.172.40.244/nm/m3u8/357
+#EXTINF:-1 tvg-id=i"BBC Three UK" status=timeout,BBC Three UK
+http://163.172.40.244/nm/m3u8/358
+#EXTINF:-1 tvg-id=i"BBC Four UK" status=timeout,BBC Four UK
+http://163.172.40.244/nm/m3u8/359
+#EXTINF:-1 tvg-id=i"BIG TEN Network (BTN USA)" status=timeout,BIG TEN Network (BTN USA)
+http://163.172.40.244/nm/m3u8/397
+#EXTINF:-1 tvg-id=i"Cuatro Spain" status=timeout,Cuatro Spain
+http://163.172.40.244/nm/m3u8/535
+#EXTINF:-1 tvg-id=i"Channel 4 UK" status=timeout,Channel 4 UK
+http://163.172.40.244/nm/m3u8/354
+#EXTINF:-1 tvg-id=i"Channel 5 UK" status=timeout,Channel 5 UK
+http://163.172.40.244/nm/m3u8/355
+#EXTINF:-1 tvg-id=i"CBS Sports Network (CBSSN)" status=timeout,CBS Sports Network (CBSSN)
+http://163.172.40.244/nm/m3u8/308
+#EXTINF:-1 tvg-id=i"Canal+ France" status=timeout,Canal+ France
+http://163.172.40.244/nm/m3u8/121
+#EXTINF:-1 tvg-id=i"Canal+ Sport France" status=timeout,Canal+ Sport France
+http://163.172.40.244/nm/m3u8/122
+#EXTINF:-1 tvg-id=i"Canal+ Foot France" status=timeout,Canal+ Foot France
+http://163.172.40.244/nm/m3u8/463
+#EXTINF:-1 tvg-id=i"Canal+ Sport360" status=timeout,Canal+ Sport360
+http://163.172.40.244/nm/m3u8/464
+#EXTINF:-1 tvg-id=i"Canal 11 Portugal" status=timeout,Canal 11 Portugal
+http://163.172.40.244/nm/m3u8/540
+#EXTINF:-1 tvg-id=i"Canal+ Sport Poland" status=timeout,Canal+ Sport Poland
+http://163.172.40.244/nm/m3u8/48
+#EXTINF:-1 tvg-id=i"Canal+ Sport 2 Poland" status=timeout,Canal+ Sport 2 Poland
+http://163.172.40.244/nm/m3u8/73
+#EXTINF:-1 tvg-id=i"CANAL+ SPORT 5 Poland" status=timeout,CANAL+ SPORT 5 Poland
+http://163.172.40.244/nm/m3u8/75
+#EXTINF:-1 tvg-id=i"Canal+ Premium Poland" status=timeout,Canal+ Premium Poland
+http://163.172.40.244/nm/m3u8/566
+#EXTINF:-1 tvg-id=i"Canal+ Family Poland" status=timeout,Canal+ Family Poland
+http://163.172.40.244/nm/m3u8/567
+#EXTINF:-1 tvg-id=i"Canal+ Seriale Poland" status=timeout,Canal+ Seriale Poland
+http://163.172.40.244/nm/m3u8/570
+#EXTINF:-1 tvg-id=i"Canal+ Sport 1 Afrique" status=timeout,Canal+ Sport 1 Afrique
+http://163.172.40.244/nm/m3u8/486
+#EXTINF:-1 tvg-id=i"Canal+ Sport 2 Afrique" status=timeout,Canal+ Sport 2 Afrique
+http://163.172.40.244/nm/m3u8/487
+#EXTINF:-1 tvg-id=i"Canal+ Sport 3 Afrique" status=timeout,Canal+ Sport 3 Afrique
+http://163.172.40.244/nm/m3u8/488
+#EXTINF:-1 tvg-id=i"Canal+ Sport 4 Afrique" status=timeout,Canal+ Sport 4 Afrique
+http://163.172.40.244/nm/m3u8/489
+#EXTINF:-1 tvg-id=i"Canal+ Sport 5 Afrique" status=timeout,Canal+ Sport 5 Afrique
+http://163.172.40.244/nm/m3u8/490
+#EXTINF:-1 tvg-id=i"CANAL9 Denmark" status=timeout,CANAL9 Denmark
+http://163.172.40.244/nm/m3u8/805
+#EXTINF:-1 tvg-id=i"Combate Brasil" status=timeout,Combate Brasil
+http://163.172.40.244/nm/m3u8/89
+#EXTINF:-1 tvg-id=i"C More Football Sweden" status=timeout,C More Football Sweden
+http://163.172.40.244/nm/m3u8/747
+#EXTINF:-1 tvg-id=i"Cosmote Sport 1 HD" status=timeout,Cosmote Sport 1 HD
+http://163.172.40.244/nm/m3u8/622
+#EXTINF:-1 tvg-id=i"Cosmote Sport 2 HD" status=timeout,Cosmote Sport 2 HD
+http://163.172.40.244/nm/m3u8/623
+#EXTINF:-1 tvg-id=i"Cosmote Sport 3 HD" status=timeout,Cosmote Sport 3 HD
+http://163.172.40.244/nm/m3u8/624
+#EXTINF:-1 tvg-id=i"Cosmote Sport 4 HD" status=timeout,Cosmote Sport 4 HD
+http://163.172.40.244/nm/m3u8/625
+#EXTINF:-1 tvg-id=i"Cosmote Sport 5 HD" status=timeout,Cosmote Sport 5 HD
+http://163.172.40.244/nm/m3u8/626
+#EXTINF:-1 tvg-id=i"Cosmote Sport 6 HD" status=timeout,Cosmote Sport 6 HD
+http://163.172.40.244/nm/m3u8/627
+#EXTINF:-1 tvg-id=i"Cosmote Sport 7 HD" status=timeout,Cosmote Sport 7 HD
+http://163.172.40.244/nm/m3u8/628
+#EXTINF:-1 tvg-id=i"Cosmote Sport 8 HD" status=timeout,Cosmote Sport 8 HD
+http://163.172.40.244/nm/m3u8/629
+#EXTINF:-1 tvg-id=i"Cosmote Sport 9 HD" status=timeout,Cosmote Sport 9 HD
+http://163.172.40.244/nm/m3u8/630
+#EXTINF:-1 tvg-id=i"Channel 9 Israel" status=timeout,Channel 9 Israel
+http://163.172.40.244/nm/m3u8/546
+#EXTINF:-1 tvg-id=i"Channel 10 Israe" status=timeout,Channel 10 Israe
+http://163.172.40.244/nm/m3u8/547
+#EXTINF:-1 tvg-id=i"Channel 11 Israel" status=timeout,Channel 11 Israel
+http://163.172.40.244/nm/m3u8/548
+#EXTINF:-1 tvg-id=i"Channel 12 Israel" status=timeout,Channel 12 Israel
+http://163.172.40.244/nm/m3u8/549
+#EXTINF:-1 tvg-id=i"Channel 13 Israel" status=timeout,Channel 13 Israel
+http://163.172.40.244/nm/m3u8/551
+#EXTINF:-1 tvg-id=i"Channel 14 Israel" status=timeout,Channel 14 Israel
+http://163.172.40.244/nm/m3u8/552
+#EXTINF:-1 tvg-id=i"C More Stars Sweden" status=timeout,C More Stars Sweden
+http://163.172.40.244/nm/m3u8/8111
+#EXTINF:-1 tvg-id=i"C More First Sweden" status=timeout,C More First Sweden
+http://163.172.40.244/nm/m3u8/812
+#EXTINF:-1 tvg-id=i"C More Hits Sweden" status=timeout,C More Hits Sweden
+http://163.172.40.244/nm/m3u8/813
+#EXTINF:-1 tvg-id=i"C More Series Sweden" status=timeout,C More Series Sweden
+http://163.172.40.244/nm/m3u8/814
+#EXTINF:-1 tvg-id=i"COZI TV USA" status=timeout,COZI TV USA
+http://163.172.40.244/nm/m3u8/748
+#EXTINF:-1 tvg-id=i"CMT USA" status=timeout,CMT USA
+http://163.172.40.244/nm/m3u8/647
+#EXTINF:-1 tvg-id=i"CBS USA" status=timeout,CBS USA
+http://163.172.40.244/nm/m3u8/52
+#EXTINF:-1 tvg-id=i"CW USA" status=timeout,CW USA
+http://163.172.40.244/nm/m3u8/300
+#EXTINF:-1 tvg-id=i"CNBC USA" status=timeout,CNBC USA
+http://163.172.40.244/nm/m3u8/309
+#EXTINF:-1 tvg-id=i"Comedy Central" status=timeout,Comedy Central
+http://163.172.40.244/nm/m3u8/310
+#EXTINF:-1 tvg-id=i"Cartoon Network" status=timeout,Cartoon Network
+http://163.172.40.244/nm/m3u8/339
+#EXTINF:-1 tvg-id=i"CNN USA" status=timeout,CNN USA
+http://163.172.40.244/nm/m3u8/345
+#EXTINF:-1 tvg-id=i"Cinemax USA" status=timeout,Cinemax USA
+http://163.172.40.244/nm/m3u8/374
+#EXTINF:-1 tvg-id=i"CTV Canada" status=timeout,CTV Canada
+http://163.172.40.244/nm/m3u8/602
+#EXTINF:-1 tvg-id=i"CTV 2 Canada" status=timeout,CTV 2 Canada
+http://163.172.40.244/nm/m3u8/838
+#EXTINF:-1 tvg-id=i"Crime+ Investigation USA" status=timeout,Crime+ Investigation USA
+http://163.172.40.244/nm/m3u8/669
+#EXTINF:-1 tvg-id=i"Comet USA" status=timeout,Comet USA
+http://163.172.40.244/nm/m3u8/696
+#EXTINF:-1 tvg-id=i"Cooking Channel USA" status=timeout,Cooking Channel USA
+http://163.172.40.244/nm/m3u8/697
+#EXTINF:-1 tvg-id=i"Cleo TV" status=timeout,Cleo TV
+http://163.172.40.244/nm/m3u8/715
+#EXTINF:-1 tvg-id=i"C SPAN 1" status=timeout,C SPAN 1
+http://163.172.40.244/nm/m3u8/750
+#EXTINF:-1 tvg-id=i"CBSNY USA" status=timeout,CBSNY USA
+http://163.172.40.244/nm/m3u8/767
+#EXTINF:-1 tvg-id=i"Citytv" status=timeout,Citytv
+http://163.172.40.244/nm/m3u8/831
+#EXTINF:-1 tvg-id=i"CBC CA" status=timeout,CBC CA
+http://163.172.40.244/nm/m3u8/832
+#EXTINF:-1 tvg-id=i"DAZN 1 Bar DE" status=timeout,DAZN 1 Bar DE
+http://163.172.40.244/nm/m3u8/426
+#EXTINF:-1 tvg-id=i"DAZN 2 Bar DE" status=timeout,DAZN 2 Bar DE
+http://163.172.40.244/nm/m3u8/427
+#EXTINF:-1 tvg-id=i"DAZN 1 Spain" status=timeout,DAZN 1 Spain
+http://163.172.40.244/nm/m3u8/445
+#EXTINF:-1 tvg-id=i"DAZN 2 Spain" status=timeout,DAZN 2 Spain
+http://163.172.40.244/nm/m3u8/446
+#EXTINF:-1 tvg-id=i"DAZN 3 Spain" status=timeout,DAZN 3 Spain
+http://163.172.40.244/nm/m3u8/447
+#EXTINF:-1 tvg-id=i"DAZN 4 Spain" status=timeout,DAZN 4 Spain
+http://163.172.40.244/nm/m3u8/448
+#EXTINF:-1 tvg-id=i"DAZN F1 ES" status=timeout,DAZN F1 ES
+http://163.172.40.244/nm/m3u8/537
+#EXTINF:-1 tvg-id=i"DAZN LaLiga" status=timeout,DAZN LaLiga
+http://163.172.40.244/nm/m3u8/538
+#EXTINF:-1 tvg-id=i"DAZN LaLiga 2" status=timeout,DAZN LaLiga 2
+http://163.172.40.244/nm/m3u8/43
+#EXTINF:-1 tvg-id=i"DR1 Denmark" status=timeout,DR1 Denmark
+http://163.172.40.244/nm/m3u8/801
+#EXTINF:-1 tvg-id=i"DR2 Denmark" status=timeout,DR2 Denmark
+http://163.172.40.244/nm/m3u8/802
+#EXTINF:-1 tvg-id=i"Digi Sport 1 Romania" status=timeout,Digi Sport 1 Romania
+http://163.172.40.244/nm/m3u8/400
+#EXTINF:-1 tvg-id=i"Digi Sport 2 Romania" status=timeout,Digi Sport 2 Romania
+http://163.172.40.244/nm/m3u8/401
+#EXTINF:-1 tvg-id=i"Digi Sport 3 Romania" status=timeout,Digi Sport 3 Romania
+http://163.172.40.244/nm/m3u8/402
+#EXTINF:-1 tvg-id=i"Digi Sport 4 Romania" status=timeout,Digi Sport 4 Romania
+http://163.172.40.244/nm/m3u8/403
+#EXTINF:-1 tvg-id=i"Diema Sport Bulgaria" status=timeout,Diema Sport Bulgaria
+http://163.172.40.244/nm/m3u8/465
+#EXTINF:-1 tvg-id=i"Diema Sport 2 Bulgaria" status=timeout,Diema Sport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/466
+#EXTINF:-1 tvg-id=i"Diema Sport 3 Bulgaria" status=timeout,Diema Sport 3 Bulgaria
+http://163.172.40.244/nm/m3u8/467
+#EXTINF:-1 tvg-id=i"Diema Bulgaria" status=timeout,Diema Bulgaria
+http://163.172.40.244/nm/m3u8/482
+#EXTINF:-1 tvg-id=i"Diema Family Bulgaria" status=timeout,Diema Family Bulgaria
+http://163.172.40.244/nm/m3u8/485
+#EXTINF:-1 tvg-id=i"Dubai Sports 1 UAE" status=timeout,Dubai Sports 1 UAE
+http://163.172.40.244/nm/m3u8/604
+#EXTINF:-1 tvg-id=i"Dubai Sports 2 UAE" status=timeout,Dubai Sports 2 UAE
+http://163.172.40.244/nm/m3u8/605
+#EXTINF:-1 tvg-id=i"Dubai Sports 3 UAE" status=timeout,Dubai Sports 3 UAE
+http://163.172.40.244/nm/m3u8/606
+#EXTINF:-1 tvg-id=i"Dubai Racing 1 UAE" status=timeout,Dubai Racing 1 UAE
+http://163.172.40.244/nm/m3u8/607
+#EXTINF:-1 tvg-id=i"Dubai Racing 2 UAE" status=timeout,Dubai Racing 2 UAE
+http://163.172.40.244/nm/m3u8/608
+#EXTINF:-1 tvg-id=i"DSTV Mzansi Magic" status=timeout,DSTV Mzansi Magic
+http://163.172.40.244/nm/m3u8/786
+#EXTINF:-1 tvg-id=i"DSTV M-Net" status=timeout,DSTV M-Net
+http://163.172.40.244/nm/m3u8/827
+#EXTINF:-1 tvg-id=i"DSTV kykNET & kie" status=timeout,DSTV kykNET & kie
+http://163.172.40.244/nm/m3u8/828
+#EXTINF:-1 tvg-id=i"Discovery Life Channel" status=timeout,Discovery Life Channel
+http://163.172.40.244/nm/m3u8/311
+#EXTINF:-1 tvg-id=i"Disney Channel" status=timeout,Disney Channel
+http://163.172.40.244/nm/m3u8/312
+#EXTINF:-1 tvg-id=i"Discovery Channel" status=timeout,Discovery Channel
+http://163.172.40.244/nm/m3u8/313
+#EXTINF:-1 tvg-id=i"Discovery Family" status=timeout,Discovery Family
+http://163.172.40.244/nm/m3u8/657
+#EXTINF:-1 tvg-id=i"Disney XD" status=timeout,Disney XD
+http://163.172.40.244/nm/m3u8/314
+#EXTINF:-1 tvg-id=i"Destination America" status=timeout,Destination America
+http://163.172.40.244/nm/m3u8/651
+#EXTINF:-1 tvg-id=i"Disney JR" status=timeout,Disney JR
+http://163.172.40.244/nm/m3u8/652
+#EXTINF:-1 tvg-id=i"Dave" status=timeout,Dave
+http://163.172.40.244/nm/m3u8/348
+#EXTINF:-1 tvg-id=i"ESPN USA" status=timeout,ESPN USA
+http://163.172.40.244/nm/m3u8/44
+#EXTINF:-1 tvg-id=i"ESPN2 USA" status=timeout,ESPN2 USA
+http://163.172.40.244/nm/m3u8/45
+#EXTINF:-1 tvg-id=i"ESPNU USA" status=timeout,ESPNU USA
+http://163.172.40.244/nm/m3u8/316
+#EXTINF:-1 tvg-id=i"ESPN 1 NL" status=timeout,ESPN 1 NL
+http://163.172.40.244/nm/m3u8/379
+#EXTINF:-1 tvg-id=i"ESPN 2 NL" status=timeout,ESPN 2 NL
+http://163.172.40.244/nm/m3u8/386
+#EXTINF:-1 tvg-id=i"Eleven Sports 1 Poland" status=timeout,Eleven Sports 1 Poland
+http://163.172.40.244/nm/m3u8/71
+#EXTINF:-1 tvg-id=i"Eleven Sports 2 Poland" status=timeout,Eleven Sports 2 Poland
+http://163.172.40.244/nm/m3u8/72
+#EXTINF:-1 tvg-id=i"Eleven Sports 3 Poland" status=timeout,Eleven Sports 3 Poland
+http://163.172.40.244/nm/m3u8/428
+#EXTINF:-1 tvg-id=i"Eleven Sports 1 Portugal" status=timeout,Eleven Sports 1 Portugal
+http://163.172.40.244/nm/m3u8/455
+#EXTINF:-1 tvg-id=i"Eleven Sports 2 Portugal" status=timeout,Eleven Sports 2 Portugal
+http://163.172.40.244/nm/m3u8/456
+#EXTINF:-1 tvg-id=i"Eleven Sports 3 Portugal" status=timeout,Eleven Sports 3 Portugal
+http://163.172.40.244/nm/m3u8/457
+#EXTINF:-1 tvg-id=i"Eleven Sports 4 Portugal" status=timeout,Eleven Sports 4 Portugal
+http://163.172.40.244/nm/m3u8/458
+#EXTINF:-1 tvg-id=i"Eleven Sports 5 Portugal" status=timeout,Eleven Sports 5 Portugal
+http://163.172.40.244/nm/m3u8/459
+#EXTINF:-1 tvg-id=i"EuroSport 1 UK" status=timeout,EuroSport 1 UK
+http://163.172.40.244/nm/m3u8/41
+#EXTINF:-1 tvg-id=i"EuroSport 2 UK" status=timeout,EuroSport 2 UK
+http://163.172.40.244/nm/m3u8/42
+#EXTINF:-1 tvg-id=i"EuroSport 1 Poland" status=timeout,EuroSport 1 Poland
+http://163.172.40.244/nm/m3u8/57
+#EXTINF:-1 tvg-id=i"EuroSport 2 Poland" status=timeout,EuroSport 2 Poland
+http://163.172.40.244/nm/m3u8/58
+#EXTINF:-1 tvg-id=i"EuroSport 1 Spain" status=timeout,EuroSport 1 Spain
+http://163.172.40.244/nm/m3u8/524
+#EXTINF:-1 tvg-id=i"EuroSport 2 Spain" status=timeout,EuroSport 2 Spain
+http://163.172.40.244/nm/m3u8/525
+#EXTINF:-1 tvg-id=i"EuroSport 1 Italy" status=timeout,EuroSport 1 Italy
+http://163.172.40.244/nm/m3u8/878
+#EXTINF:-1 tvg-id=i"EuroSport 2 Italy" status=timeout,EuroSport 2 Italy
+http://163.172.40.244/nm/m3u8/879
+#EXTINF:-1 tvg-id=i"Eurosport 1 Bulgaria" status=timeout,Eurosport 1 Bulgaria
+http://163.172.40.244/nm/m3u8/469
+#EXTINF:-1 tvg-id=i"Eurosport 2 Bulgaria" status=timeout,Eurosport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/470
+#EXTINF:-1 tvg-id=i"ESPN Premium Argentina" status=timeout,ESPN Premium Argentina
+http://163.172.40.244/nm/m3u8/387
+#EXTINF:-1 tvg-id=i"ESPN Brasil" status=timeout,ESPN Brasil
+http://163.172.40.244/nm/m3u8/81
+#EXTINF:-1 tvg-id=i"ESPN2 Brasil" status=timeout,ESPN2 Brasil
+http://163.172.40.244/nm/m3u8/82
+#EXTINF:-1 tvg-id=i"ESPN3 Brasil" status=timeout,ESPN3 Brasil
+http://163.172.40.244/nm/m3u8/83
+#EXTINF:-1 tvg-id=i"ESPN4 Brasil" status=timeout,ESPN4 Brasil
+http://163.172.40.244/nm/m3u8/85
+#EXTINF:-1 tvg-id=i"ESPN SUR" status=timeout,ESPN SUR
+http://163.172.40.244/nm/m3u8/149
+#EXTINF:-1 tvg-id=i"ESPN2 SUR" status=timeout,ESPN2 SUR
+http://163.172.40.244/nm/m3u8/150
+#EXTINF:-1 tvg-id=i"ESPN Deportes" status=timeout,ESPN Deportes
+http://163.172.40.244/nm/m3u8/375
+#EXTINF:-1 tvg-id=i"ESPNews" status=timeout,ESPNews
+http://163.172.40.244/nm/m3u8/288
+#EXTINF:-1 tvg-id=i"E! Entertainment Television" status=timeout,E! Entertainment Television
+http://163.172.40.244/nm/m3u8/315
+#EXTINF:-1 tvg-id=i"E4 Channel" status=timeout,E4 Channel
+http://163.172.40.244/nm/m3u8/363
+#EXTINF:-1 tvg-id=i"Fox Sports 1 USA" status=timeout,Fox Sports 1 USA
+http://163.172.40.244/nm/m3u8/39
+#EXTINF:-1 tvg-id=i"Fox Sports 2 USA" status=timeout,Fox Sports 2 USA
+http://163.172.40.244/nm/m3u8/758
+#EXTINF:-1 tvg-id=i"FOX Soccer Plus" status=timeout,FOX Soccer Plus
+http://163.172.40.244/nm/m3u8/756
+#EXTINF:-1 tvg-id=i"Fox Cricket" status=timeout,Fox Cricket
+http://163.172.40.244/nm/m3u8/369
+#EXTINF:-1 tvg-id=i"FOX Deportes USA" status=timeout,FOX Deportes USA
+http://163.172.40.244/nm/m3u8/643
+#EXTINF:-1 tvg-id=i"FOX Sports 502 AU" status=timeout,FOX Sports 502 AU
+http://163.172.40.244/nm/m3u8/820
+#EXTINF:-1 tvg-id=i"FOX Sports 503 AU" status=timeout,FOX Sports 503 AU
+http://163.172.40.244/nm/m3u8/821
+#EXTINF:-1 tvg-id=i"FOX Sports 504 AU" status=timeout,FOX Sports 504 AU
+http://163.172.40.244/nm/m3u8/822
+#EXTINF:-1 tvg-id=i"FOX Sports 505 AU" status=timeout,FOX Sports 505 AU
+http://163.172.40.244/nm/m3u8/823
+#EXTINF:-1 tvg-id=i"FOX Sports 506 AU" status=timeout,FOX Sports 506 AU
+http://163.172.40.244/nm/m3u8/824
+#EXTINF:-1 tvg-id=i"FOX Sports 507 AU" status=timeout,FOX Sports 507 AU
+http://163.172.40.244/nm/m3u8/825
+#EXTINF:-1 tvg-id=i"Fox Sports Argentina" status=timeout,Fox Sports Argentina
+http://163.172.40.244/nm/m3u8/767
+#EXTINF:-1 tvg-id=i"Fox Sports 2 Argentina" status=timeout,Fox Sports 2 Argentina
+http://163.172.40.244/nm/m3u8/788
+#EXTINF:-1 tvg-id=i"Fox Sports 3 Argentina" status=timeout,Fox Sports 3 Argentina
+http://163.172.40.244/nm/m3u8/789
+#EXTINF:-1 tvg-id=i"Fox Sports Premium MX" status=timeout,Fox Sports Premium MX
+http://163.172.40.244/nm/m3u8/830
+#EXTINF:-1 tvg-id=i"FilmBox Premium Poland" status=timeout,FilmBox Premium Poland
+http://163.172.40.244/nm/m3u8/568
+#EXTINF:-1 tvg-id=i"Fight Network" status=timeout,Fight Network
+http://163.172.40.244/nm/m3u8/757
+#EXTINF:-1 tvg-id=i"Fox Business" status=timeout,Fox Business
+http://163.172.40.244/nm/m3u8/297
+#EXTINF:-1 tvg-id=i"FOX HD Bulgaria" status=timeout,FOX HD Bulgaria
+http://163.172.40.244/nm/m3u8/483
+#EXTINF:-1 tvg-id=i"FOX USA" status=timeout,FOX USA
+http://163.172.40.244/nm/m3u8/54
+#EXTINF:-1 tvg-id=i"FX USA" status=timeout,FX USA
+http://163.172.40.244/nm/m3u8/317
+#EXTINF:-1 tvg-id=i"FXX USA" status=timeout,FXX USA
+http://163.172.40.244/nm/m3u8/298
+#EXTINF:-1 tvg-id=i"Freeform" status=timeout,Freeform
+http://163.172.40.244/nm/m3u8/301
+#EXTINF:-1 tvg-id=i"Fox News" status=timeout,Fox News
+http://163.172.40.244/nm/m3u8/347
+#EXTINF:-1 tvg-id=i"FX Movie Channel" status=timeout,FX Movie Channel
+http://163.172.40.244/nm/m3u8/381
+#EXTINF:-1 tvg-id=i"FYI" status=timeout,FYI
+http://163.172.40.244/nm/m3u8/665
+#EXTINF:-1 tvg-id=i"Film4 UK" status=timeout,Film4 UK
+http://163.172.40.244/nm/m3u8/688
+#EXTINF:-1 tvg-id=i"Fashion TV" status=timeout,Fashion TV
+http://163.172.40.244/nm/m3u8/744
+#EXTINF:-1 tvg-id=i"FETV - Family Entertainment Television" status=timeout,FETV - Family Entertainment Television
+http://163.172.40.244/nm/m3u8/751
+#EXTINF:-1 tvg-id=i"FOXNY USA" status=timeout,FOXNY USA
+http://163.172.40.244/nm/m3u8/768
+#EXTINF:-1 tvg-id=i"Fox Weather Channel" status=timeout,Fox Weather Channel
+http://163.172.40.244/nm/m3u8/775
+#EXTINF:-1 tvg-id=i"GOL PLAY Spain" status=timeout,GOL PLAY Spain
+http://163.172.40.244/nm/m3u8/530
+#EXTINF:-1 tvg-id=i"GOLF Channel USA" status=timeout,GOLF Channel USA
+http://163.172.40.244/nm/m3u8/318
+#EXTINF:-1 tvg-id=i"Game Show Network" status=timeout,Game Show Network
+http://163.172.40.244/nm/m3u8/319
+#EXTINF:-1 tvg-id=i"Gol Mundial 1" status=timeout,Gol Mundial 1
+http://163.172.40.244/nm/m3u8/292
+#EXTINF:-1 tvg-id=i"Gold UK" status=timeout,Gold UK
+http://163.172.40.244/nm/m3u8/687
+#EXTINF:-1 tvg-id=i"Galavisi贸n USA" status=timeout,Galavisi贸n USA
+http://163.172.40.244/nm/m3u8/743
+#EXTINF:-1 tvg-id=i"CBC CA" status=timeout,CBC CA
+http://163.172.40.244/nm/m3u8/699
+#EXTINF:-1 tvg-id=i"Grit Channel" status=timeout,Grit Channel
+http://163.172.40.244/nm/m3u8/752
+#EXTINF:-1 tvg-id=i"Globo SP" status=timeout,Globo SP
+http://163.172.40.244/nm/m3u8/760
+#EXTINF:-1 tvg-id=i"Globo RIO" status=timeout,Globo RIO
+http://163.172.40.244/nm/m3u8/761
+#EXTINF:-1 tvg-id=i"Global CA" status=timeout,Global CA
+http://163.172.40.244/nm/m3u8/836
+#EXTINF:-1 tvg-id=i"The Hallmark Channel" status=timeout,The Hallmark Channel
+http://163.172.40.244/nm/m3u8/320
+#EXTINF:-1 tvg-id=i"Hallmark Movies & Mysterie" status=timeout,Hallmark Movies & Mysterie
+http://163.172.40.244/nm/m3u8/296
+#EXTINF:-1 tvg-id=i"HBO USA" status=timeout,HBO USA
+http://163.172.40.244/nm/m3u8/321
+#EXTINF:-1 tvg-id=i"HBO2 USA" status=timeout,HBO2 USA
+http://163.172.40.244/nm/m3u8/689
+#EXTINF:-1 tvg-id=i"HBO Comedy USA" status=timeout,HBO Comedy USA
+http://163.172.40.244/nm/m3u8/690
+#EXTINF:-1 tvg-id=i"HBO Family USA" status=timeout,HBO Family USA
+http://163.172.40.244/nm/m3u8/691
+#EXTINF:-1 tvg-id=i"HBO Latino USA" status=timeout,HBO Latino USA
+http://163.172.40.244/nm/m3u8/692
+#EXTINF:-1 tvg-id=i"HBO Signature USA" status=timeout,HBO Signature USA
+http://163.172.40.244/nm/m3u8/693
+#EXTINF:-1 tvg-id=i"HBO Zone USA" status=timeout,HBO Zone USA
+http://163.172.40.244/nm/m3u8/694
+#EXTINF:-1 tvg-id=i"HBO Poland" status=timeout,HBO Poland
+http://163.172.40.244/nm/m3u8/569
+#EXTINF:-1 tvg-id=i"History USA" status=timeout,History USA
+http://163.172.40.244/nm/m3u8/322
+#EXTINF:-1 tvg-id=i"Headline News" status=timeout,Headline News
+http://163.172.40.244/nm/m3u8/323
+#EXTINF:-1 tvg-id=i"HGTV" status=timeout,HGTV
+http://163.172.40.244/nm/m3u8/382
+#EXTINF:-1 tvg-id=i"HOT3 Israel" status=timeout,HOT3 Israel
+http://163.172.40.244/nm/m3u8/553
+#EXTINF:-1 tvg-id=i"HR Fernsehen DE" status=timeout,HR Fernsehen DE
+http://163.172.40.244/nm/m3u8/740
+#EXTINF:-1 tvg-id=i"ITV 1 UK" status=timeout,ITV 1 UK
+http://163.172.40.244/nm/m3u8/350
+#EXTINF:-1 tvg-id=i"ITV 2 UK" status=timeout,ITV 2 UK
+http://163.172.40.244/nm/m3u8/351
+#EXTINF:-1 tvg-id=i"ITV 3 UK" status=timeout,ITV 3 UK
+http://163.172.40.244/nm/m3u8/352
+#EXTINF:-1 tvg-id=i"ITV 4 UK" status=timeout,ITV 4 UK
+http://163.172.40.244/nm/m3u8/353
+#EXTINF:-1 tvg-id=i"Italia 1 Italy" status=timeout,Italia 1 Italy
+http://163.172.40.244/nm/m3u8/854
+#EXTINF:-1 tvg-id=i"Investigation Discovery (ID USA)" status=timeout,Investigation Discovery (ID USA)
+http://163.172.40.244/nm/m3u8/324
+#EXTINF:-1 tvg-id=i"ION USA" status=timeout,ION USA
+http://163.172.40.244/nm/m3u8/325
+#EXTINF:-1 tvg-id=i"IFC TV USA" status=timeout,IFC TV USA
+http://163.172.40.244/nm/m3u8/656
+#EXTINF:-1 tvg-id=i"Kanal 4 Denmark" status=timeout,Kanal 4 Denmark
+http://163.172.40.244/nm/m3u8/803
+#EXTINF:-1 tvg-id=i"Kanal 5 Denmark" status=timeout,Kanal 5 Denmark
+http://163.172.40.244/nm/m3u8/804
+#EXTINF:-1 tvg-id=i"Kabel Eins (Kabel 1) DE" status=timeout,Kabel Eins (Kabel 1) DE
+http://163.172.40.244/nm/m3u8/731
+#EXTINF:-1 tvg-id=i"LaLiga SmartBank TV" status=timeout,LaLiga SmartBank TV
+http://163.172.40.244/nm/m3u8/539
+#EXTINF:-1 tvg-id=i"L'Equipe France" status=timeout,L'Equipe France
+http://163.172.40.244/nm/m3u8/645
+#EXTINF:-1 tvg-id=i"La Sexta Spain" status=timeout,La Sexta Spain
+http://163.172.40.244/nm/m3u8/534
+#EXTINF:-1 tvg-id=i"Liverpool TV (LFC TV)" status=timeout,Liverpool TV (LFC TV)
+http://163.172.40.244/nm/m3u8/826
+#EXTINF:-1 tvg-id=i"Lifetime Network" status=timeout,Lifetime Network
+http://163.172.40.244/nm/m3u8/326
+#EXTINF:-1 tvg-id=i"Lifetime Movies Network" status=timeout,Lifetime Movies Network
+http://163.172.40.244/nm/m3u8/389
+#EXTINF:-1 tvg-id=i"Longhorn Network USA" status=timeout,Longhorn Network USA
+http://163.172.40.244/nm/m3u8/667
+#EXTINF:-1 tvg-id=i"La7 Italy" status=timeout,La7 Italy
+http://163.172.40.244/nm/m3u8/855
+#EXTINF:-1 tvg-id=i"LA7d HD+ Italy" status=timeout,LA7d HD+ Italy
+http://163.172.40.244/nm/m3u8/856
+#EXTINF:-1 tvg-id=i"Match Football 1 Russia" status=timeout,Match Football 1 Russia
+http://163.172.40.244/nm/m3u8/136
+#EXTINF:-1 tvg-id=i"Match Football 2 Russia" status=timeout,Match Football 2 Russia
+http://163.172.40.244/nm/m3u8/137
+#EXTINF:-1 tvg-id=i"Match Football 3 Russia" status=timeout,Match Football 3 Russia
+http://163.172.40.244/nm/m3u8/138
+#EXTINF:-1 tvg-id=i"Match Premier Russia" status=timeout,Match Premier Russia
+http://163.172.40.244/nm/m3u8/573
+#EXTINF:-1 tvg-id=i"Match TV Russia" status=timeout,Match TV Russia
+http://163.172.40.244/nm/m3u8/127
+#EXTINF:-1 tvg-id=i"МАТЧ! БОЕЦ Russia" status=timeout,МАТЧ! БОЕЦ Russia
+http://163.172.40.244/nm/m3u8/395
+#EXTINF:-1 tvg-id=i"Movistar Laliga" status=timeout,Movistar Laliga
+http://163.172.40.244/nm/m3u8/84
+#EXTINF:-1 tvg-id=i"Movistar Liga de Campeones" status=timeout,Movistar Liga de Campeones
+http://163.172.40.244/nm/m3u8/435
+#EXTINF:-1 tvg-id=i"Movistar Deportes Spain" status=timeout,Movistar Deportes Spain
+http://163.172.40.244/nm/m3u8/436
+#EXTINF:-1 tvg-id=i"Movistar Deportes 2 Spain" status=timeout,Movistar Deportes 2 Spain
+http://163.172.40.244/nm/m3u8/438
+#EXTINF:-1 tvg-id=i"Movistar Deportes 3 Spain" status=timeout,Movistar Deportes 3 Spain
+http://163.172.40.244/nm/m3u8/526
+#EXTINF:-1 tvg-id=i"Movistar Deportes 4 Spain" status=timeout,Movistar Deportes 4 Spain
+http://163.172.40.244/nm/m3u8/527
+#EXTINF:-1 tvg-id=i"Movistar Golf Spain" status=timeout,Movistar Golf Spain
+http://163.172.40.244/nm/m3u8/528
+#EXTINF:-1 tvg-id=i"Motowizja Poland" status=timeout,Motowizja Poland
+http://163.172.40.244/nm/m3u8/563
+#EXTINF:-1 tvg-id=i"MSG USA" status=timeout,MSG USA
+http://163.172.40.244/nm/m3u8/765
+#EXTINF:-1 tvg-id=i"MSNBC" status=timeout,MSNBC
+http://163.172.40.244/nm/m3u8/327
+#EXTINF:-1 tvg-id=i"Magnolia Network" status=timeout,Magnolia Network
+http://163.172.40.244/nm/m3u8/299
+#EXTINF:-1 tvg-id=i"MTV UK" status=timeout,MTV UK
+http://163.172.40.244/nm/m3u8/367
+#EXTINF:-1 tvg-id=i"MTV USA" status=timeout,MTV USA
+http://163.172.40.244/nm/m3u8/371
+#EXTINF:-1 tvg-id=i"MUTV UK" status=timeout,MUTV UK
+http://163.172.40.244/nm/m3u8/377
+#EXTINF:-1 tvg-id=i"MAVTV USA" status=timeout,MAVTV USA
+http://163.172.40.244/nm/m3u8/646
+#EXTINF:-1 tvg-id=i"Max Sport 1 Croatia" status=timeout,Max Sport 1 Croatia
+http://163.172.40.244/nm/m3u8/779
+#EXTINF:-1 tvg-id=i"Max Sport 2 Croatia" status=timeout,Max Sport 2 Croatia
+http://163.172.40.244/nm/m3u8/780
+#EXTINF:-1 tvg-id=i"Marquee Sports Network" status=timeout,Marquee Sports Network
+http://163.172.40.244/nm/m3u8/770
+#EXTINF:-1 tvg-id=i"Max Sport 1 Bulgaria" status=timeout,Max Sport 1 Bulgaria
+http://163.172.40.244/nm/m3u8/472
+#EXTINF:-1 tvg-id=i"Max Sport 2 Bulgaria" status=timeout,Max Sport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/473
+#EXTINF:-1 tvg-id=i"Max Sport 3 Bulgaria" status=timeout,Max Sport 3 Bulgaria
+http://163.172.40.244/nm/m3u8/474
+#EXTINF:-1 tvg-id=i"Max Sport 4 Bulgaria" status=timeout,Max Sport 4 Bulgaria
+http://163.172.40.244/nm/m3u8/475
+#EXTINF:-1 tvg-id=i"MLB Network USA" status=timeout,MLB Network USA
+http://163.172.40.244/nm/m3u8/399
+#EXTINF:-1 tvg-id=i"MASN USA" status=timeout,MASN USA
+http://163.172.40.244/nm/m3u8/829
+#EXTINF:-1 tvg-id=i"MY9TV USA" status=timeout,MY9TV USA
+http://163.172.40.244/nm/m3u8/654
+#EXTINF:-1 tvg-id=i"Motor Trend" status=timeout,Motor Trend
+http://163.172.40.244/nm/m3u8/661
+#EXTINF:-1 tvg-id=i"METV USA" status=timeout,METV USA
+http://163.172.40.244/nm/m3u8/662
+#EXTINF:-1 tvg-id=i"MDR DE" status=timeout,MDR DE
+http://163.172.40.244/nm/m3u8/733
+#EXTINF:-1 tvg-id=i"Mundotoro TV Spain" status=timeout,Mundotoro TV Spain
+http://163.172.40.244/nm/m3u8/749
+#EXTINF:-1 tvg-id=i"MTV Denmark" status=timeout,MTV Denmark
+http://163.172.40.244/nm/m3u8/806
+#EXTINF:-1 tvg-id=i"NHL Network USA" status=timeout,NHL Network USA
+http://163.172.40.244/nm/m3u8/663
+#EXTINF:-1 tvg-id=i"Nova Sport Bulgaria" status=timeout,Nova Sport Bulgaria
+http://163.172.40.244/nm/m3u8/468
+#EXTINF:-1 tvg-id=i"Nova Sport Serbia" status=timeout,Nova Sport Serbia
+http://163.172.40.244/nm/m3u8/582
+#EXTINF:-1 tvg-id=i"Nova Sports 1 Greece" status=timeout,Nova Sports 1 Greece
+http://163.172.40.244/nm/m3u8/631
+#EXTINF:-1 tvg-id=i"Nova Sports 2 Greece" status=timeout,Nova Sports 2 Greece
+http://163.172.40.244/nm/m3u8/632
+#EXTINF:-1 tvg-id=i"Nova Sports 3 Greece" status=timeout,Nova Sports 3 Greece
+http://163.172.40.244/nm/m3u8/633
+#EXTINF:-1 tvg-id=i"Nova Sports 4 Greece" status=timeout,Nova Sports 4 Greece
+http://163.172.40.244/nm/m3u8/634
+#EXTINF:-1 tvg-id=i"Nova Sports 5 Greece" status=timeout,Nova Sports 5 Greece
+http://163.172.40.244/nm/m3u8/635
+#EXTINF:-1 tvg-id=i"Nova Sports 6 Greece" status=timeout,Nova Sports 6 Greece
+http://163.172.40.244/nm/m3u8/636
+#EXTINF:-1 tvg-id=i"Nova Sports Premier League Greece" status=timeout,Nova Sports Premier League Greece
+http://163.172.40.244/nm/m3u8/599
+#EXTINF:-1 tvg-id=i"Nova Sports Start Greece" status=timeout,Nova Sports Start Greece
+http://163.172.40.244/nm/m3u8/637
+#EXTINF:-1 tvg-id=i"Nova Sports Prime Greece" status=timeout,Nova Sports Prime Greece
+http://163.172.40.244/nm/m3u8/638
+#EXTINF:-1 tvg-id=i"Nova Sports News Greece" status=timeout,Nova Sports News Greece
+http://163.172.40.244/nm/m3u8/639
+#EXTINF:-1 tvg-id=i"NESN USA" status=timeout,NESN USA
+http://163.172.40.244/nm/m3u8/762
+#EXTINF:-1 tvg-id=i"NBC USA" status=timeout,NBC USA
+http://163.172.40.244/nm/m3u8/53
+#EXTINF:-1 tvg-id=i"NBA TV USA" status=timeout,NBA TV USA
+http://163.172.40.244/nm/m3u8/404
+#EXTINF:-1 tvg-id=i"NBC Sports Chicago" status=timeout,NBC Sports Chicago
+http://163.172.40.244/nm/m3u8/776
+#EXTINF:-1 tvg-id=i"NBC Sports Philadelphia" status=timeout,NBC Sports Philadelphia
+http://163.172.40.244/nm/m3u8/777
+#EXTINF:-1 tvg-id=i"NBC Sports Washington" status=timeout,NBC Sports Washington
+http://163.172.40.244/nm/m3u8/778
+#EXTINF:-1 tvg-id=i"NFL Network" status=timeout,NFL Network
+http://163.172.40.244/nm/m3u8/405
+#EXTINF:-1 tvg-id=i"NBC Sports Bay Area" status=timeout,NBC Sports Bay Area
+http://163.172.40.244/nm/m3u8/753
+#EXTINF:-1 tvg-id=i"NBC Sports Boston" status=timeout,NBC Sports Boston
+http://163.172.40.244/nm/m3u8/754
+#EXTINF:-1 tvg-id=i"NBC Sports California" status=timeout,NBC Sports California
+http://163.172.40.244/nm/m3u8/755
+#EXTINF:-1 tvg-id=i"NBCNY USA" status=timeout,NBCNY USA
+http://163.172.40.244/nm/m3u8/769
+#EXTINF:-1 tvg-id=i"Nova TV Bulgaria" status=timeout,Nova TV Bulgaria
+http://163.172.40.244/nm/m3u8/480
+#EXTINF:-1 tvg-id=i"National Geographic (NGC)" status=timeout,National Geographic (NGC)
+http://163.172.40.244/nm/m3u8/328
+#EXTINF:-1 tvg-id=i"NICK JR" status=timeout,NICK JR
+http://163.172.40.244/nm/m3u8/329
+#EXTINF:-1 tvg-id=i"NICK" status=timeout,NICK
+http://163.172.40.244/nm/m3u8/330
+#EXTINF:-1 tvg-id=i"Nick Music" status=timeout,Nick Music
+http://163.172.40.244/nm/m3u8/666
+#EXTINF:-1 tvg-id=i"Nicktoons" status=timeout,Nicktoons
+http://163.172.40.244/nm/m3u8/649
+#EXTINF:-1 tvg-id=i"NDR DE" status=timeout,NDR DE
+http://163.172.40.244/nm/m3u8/736
+#EXTINF:-1 tvg-id=i"NewsNation USA" status=timeout,NewsNation USA
+http://163.172.40.244/nm/m3u8/292
+#EXTINF:-1 tvg-id=i"Newsmax USA" status=timeout,Newsmax USA
+http://163.172.40.244/nm/m3u8/613
+#EXTINF:-1 tvg-id=i"Nat Geo Wild USA" status=timeout,Nat Geo Wild USA
+http://163.172.40.244/nm/m3u8/745
+#EXTINF:-1 tvg-id=i"Noovo CA" status=timeout,Noovo CA
+http://163.172.40.244/nm/m3u8/835
+#EXTINF:-1 tvg-id=i"New! CWPIX 11" status=timeout,New! CWPIX 11
+http://163.172.40.244/nm/m3u8/771
+#EXTINF:-1 tvg-id=i"OnTime Sports" status=timeout,OnTime Sports
+http://163.172.40.244/nm/m3u8/611
+#EXTINF:-1 tvg-id=i"OnTime Sports 2" status=timeout,OnTime Sports 2
+http://163.172.40.244/nm/m3u8/612
+#EXTINF:-1 tvg-id=i"ONE 1 HD Israel" status=timeout,ONE 1 HD Israel
+http://163.172.40.244/nm/m3u8/541
+#EXTINF:-1 tvg-id=i"ONE 2 HD Israel" status=timeout,ONE 2 HD Israel
+http://163.172.40.244/nm/m3u8/542
+#EXTINF:-1 tvg-id=i"Orange Sport 1 Romania" status=timeout,Orange Sport 1 Romania
+http://163.172.40.244/nm/m3u8/439
+#EXTINF:-1 tvg-id=i"Orange Sport 2 Romania" status=timeout,Orange Sport 2 Romania
+http://163.172.40.244/nm/m3u8/440
+#EXTINF:-1 tvg-id=i"Orange Sport 3 Romania" status=timeout,Orange Sport 3 Romania
+http://163.172.40.244/nm/m3u8/441
+#EXTINF:-1 tvg-id=i"Orange Sport 4 Romania" status=timeout,Orange Sport 4 Romania
+http://163.172.40.244/nm/m3u8/442
+#EXTINF:-1 tvg-id=i"Oprah Winfrey Network (OWN)" status=timeout,Oprah Winfrey Network (OWN)
+http://163.172.40.244/nm/m3u8/331
+#EXTINF:-1 tvg-id=i"Oxygen True Crime" status=timeout,Oxygen True Crime
+http://163.172.40.244/nm/m3u8/332
+#EXTINF:-1 tvg-id=i"Polsat Poland" status=timeout,Polsat Poland
+http://163.172.40.244/nm/m3u8/562
+#EXTINF:-1 tvg-id=i"Polsat Sport Poland" status=timeout,Polsat Sport Poland
+http://163.172.40.244/nm/m3u8/47
+#EXTINF:-1 tvg-id=i"Polsat Sport Extra Poland" status=timeout,Polsat Sport Extra Poland
+http://163.172.40.244/nm/m3u8/50
+#EXTINF:-1 tvg-id=i"Polsat Sport News Poland" status=timeout,Polsat Sport News Poland
+http://163.172.40.244/nm/m3u8/129
+#EXTINF:-1 tvg-id=i"Polsat News Poland" status=timeout,Polsat News Poland
+http://163.172.40.244/nm/m3u8/443
+#EXTINF:-1 tvg-id=i"Polsat Film Poland" status=timeout,Polsat Film Poland
+http://163.172.40.244/nm/m3u8/564
+#EXTINF:-1 tvg-id=i"Porto Canal Portugal" status=timeout,Porto Canal Portugal
+http://163.172.40.244/nm/m3u8/718
+#EXTINF:-1 tvg-id=i"ProSieben (PRO7) DE" status=timeout,ProSieben (PRO7) DE
+http://163.172.40.244/nm/m3u8/730
+#EXTINF:-1 tvg-id=i"PTV Sports" status=timeout,PTV Sports
+http://163.172.40.244/nm/m3u8/450
+#EXTINF:-1 tvg-id=i"Premier Brasil" status=timeout,Premier Brasil
+http://163.172.40.244/nm/m3u8/88
+#EXTINF:-1 tvg-id=i"Prima Sport 1" status=timeout,Prima Sport 1
+http://163.172.40.244/nm/m3u8/583
+#EXTINF:-1 tvg-id=i"Prima Sport 2" status=timeout,Prima Sport 2
+http://163.172.40.244/nm/m3u8/584
+#EXTINF:-1 tvg-id=i"Prima Sport 3" status=timeout,Prima Sport 3
+http://163.172.40.244/nm/m3u8/585
+#EXTINF:-1 tvg-id=i"Prima Sport 4" status=timeout,Prima Sport 4
+http://163.172.40.244/nm/m3u8/586
+#EXTINF:-1 tvg-id=i"Paramount Network" status=timeout,Paramount Network
+http://163.172.40.244/nm/m3u8/334
+#EXTINF:-1 tvg-id=i"POP TV USA" status=timeout,POP TV USA
+http://163.172.40.244/nm/m3u8/653
+#EXTINF:-1 tvg-id=i"RTE 1" status=timeout,RTE 1
+http://163.172.40.244/nm/m3u8/364
+#EXTINF:-1 tvg-id=i"RTE 2" status=timeout,RTE 2
+http://163.172.40.244/nm/m3u8/365
+#EXTINF:-1 tvg-id=i"RMC Sport 1 France" status=timeout,RMC Sport 1 France
+http://163.172.40.244/nm/m3u8/119
+#EXTINF:-1 tvg-id=i"RMC Sport 2 France" status=timeout,RMC Sport 2 France
+http://163.172.40.244/nm/m3u8/120
+#EXTINF:-1 tvg-id=i"RTP 1 Portugal" status=timeout,RTP 1 Portugal
+http://163.172.40.244/nm/m3u8/719
+#EXTINF:-1 tvg-id=i"RTP 2 Portugal" status=timeout,RTP 2 Portugal
+http://163.172.40.244/nm/m3u8/720
+#EXTINF:-1 tvg-id=i"RTP 3 Portugal" status=timeout,RTP 3 Portugal
+http://163.172.40.244/nm/m3u8/721
+#EXTINF:-1 tvg-id=i"Rai 1 Italy" status=timeout,Rai 1 Italy
+http://163.172.40.244/nm/m3u8/850
+#EXTINF:-1 tvg-id=i"Rai 2 Italy" status=timeout,Rai 2 Italy
+http://163.172.40.244/nm/m3u8/851
+#EXTINF:-1 tvg-id=i"Rai 3 Italy" status=timeout,Rai 3 Italy
+http://163.172.40.244/nm/m3u8/852
+#EXTINF:-1 tvg-id=i"Rai 3 Italy" status=timeout,Rai 3 Italy
+http://163.172.40.244/nm/m3u8/853
+#EXTINF:-1 tvg-id=i"Rai Sport Italy" status=timeout,Rai Sport Italy
+http://163.172.40.244/nm/m3u8/882
+#EXTINF:-1 tvg-id=i"Rai Premium Italy" status=timeout,Rai Premium Italy
+http://163.172.40.244/nm/m3u8/858
+#EXTINF:-1 tvg-id=i"Real Madrid TV Spain" status=timeout,Real Madrid TV Spain
+http://163.172.40.244/nm/m3u8/523
+#EXTINF:-1 tvg-id=i"RDS CA" status=timeout,RDS CA
+http://163.172.40.244/nm/m3u8/839
+#EXTINF:-1 tvg-id=i"RDS 2 CA" status=timeout,RDS 2 CA
+http://163.172.40.244/nm/m3u8/840
+#EXTINF:-1 tvg-id=i"RDS Info CA" status=timeout,RDS Info CA
+http://163.172.40.244/nm/m3u8/841
+#EXTINF:-1 tvg-id=i"Ring Bulgaria" status=timeout,Ring Bulgaria
+http://163.172.40.244/nm/m3u8/471
+#EXTINF:-1 tvg-id=i"RTL7 Netherland" status=timeout,RTL7 Netherland
+http://163.172.40.244/nm/m3u8/390
+#EXTINF:-1 tvg-id=i"Racing Tv UK" status=timeout,Racing Tv UK
+http://163.172.40.244/nm/m3u8/555
+#EXTINF:-1 tvg-id=i"Reelz Channel" status=timeout,Reelz Channel
+http://163.172.40.244/nm/m3u8/293
+#EXTINF:-1 tvg-id=i"Sky Sports Football UK" status=timeout,Sky Sports Football UK
+http://163.172.40.244/nm/m3u8/35
+#EXTINF:-1 tvg-id=i"Sky Sports Arena UK" status=timeout,Sky Sports Arena UK
+http://163.172.40.244/nm/m3u8/36
+#EXTINF:-1 tvg-id=i"Sky Sports Action UK" status=timeout,Sky Sports Action UK
+http://163.172.40.244/nm/m3u8/37
+#EXTINF:-1 tvg-id=i"Sky Sports Main Event" status=timeout,Sky Sports Main Event
+http://163.172.40.244/nm/m3u8/38
+#EXTINF:-1 tvg-id=i"Sky sports Premier League" status=timeout,Sky sports Premier League
+http://163.172.40.244/nm/m3u8/130
+#EXTINF:-1 tvg-id=i"Sky Sports F1 UK" status=timeout,Sky Sports F1 UK
+http://163.172.40.244/nm/m3u8/60
+#EXTINF:-1 tvg-id=i"Sky Sports Cricket" status=timeout,Sky Sports Cricket
+http://163.172.40.244/nm/m3u8/65
+#EXTINF:-1 tvg-id=i"Sky Sports Golf UK" status=timeout,Sky Sports Golf UK
+http://163.172.40.244/nm/m3u8/70
+#EXTINF:-1 tvg-id=i"Sky Sports Golf Italy" status=timeout,Sky Sports Golf Italy
+http://163.172.40.244/nm/m3u8/574
+#EXTINF:-1 tvg-id=i"Sky Sport MotoGP Italy" status=timeout,Sky Sport MotoGP Italy
+http://163.172.40.244/nm/m3u8/575
+#EXTINF:-1 tvg-id=i"Sky Sport Tennis Italy" status=timeout,Sky Sport Tennis Italy
+http://163.172.40.244/nm/m3u8/576
+#EXTINF:-1 tvg-id=i"Sky Sport F1 Italy" status=timeout,Sky Sport F1 Italy
+http://163.172.40.244/nm/m3u8/577
+#EXTINF:-1 tvg-id=i"Sky Sports News UK" status=timeout,Sky Sports News UK
+http://163.172.40.244/nm/m3u8/366
+#EXTINF:-1 tvg-id=i"Sky Sports MIX UK" status=timeout,Sky Sports MIX UK
+http://163.172.40.244/nm/m3u8/449
+#EXTINF:-1 tvg-id=i"Sky Sport Top Event DE" status=timeout,Sky Sport Top Event DE
+http://163.172.40.244/nm/m3u8/556
+#EXTINF:-1 tvg-id=i"Sky Sport Mix DE" status=timeout,Sky Sport Mix DE
+http://163.172.40.244/nm/m3u8/557
+#EXTINF:-1 tvg-id=i"Sky Sport Bundesliga 1 HD" status=timeout,Sky Sport Bundesliga 1 HD
+http://163.172.40.244/nm/m3u8/558
+#EXTINF:-1 tvg-id=i"Sky Sport Austria 1 HD" status=timeout,Sky Sport Austria 1 HD
+http://163.172.40.244/nm/m3u8/559
+#EXTINF:-1 tvg-id=i"SportsNet New York (SNY)" status=timeout,SportsNet New York (SNY)
+http://163.172.40.244/nm/m3u8/759
+#EXTINF:-1 tvg-id=i"Sky Sport Football Italy" status=timeout,Sky Sport Football Italy
+http://163.172.40.244/nm/m3u8/460
+#EXTINF:-1 tvg-id=i"Sky Sport UNO Italy" status=timeout,Sky Sport UNO Italy
+http://163.172.40.244/nm/m3u8/461
+#EXTINF:-1 tvg-id=i"Sky Sport Arena Italy" status=timeout,Sky Sport Arena Italy
+http://163.172.40.244/nm/m3u8/462
+#EXTINF:-1 tvg-id=i"Sky Sports Racing UK" status=timeout,Sky Sports Racing UK
+http://163.172.40.244/nm/m3u8/554
+#EXTINF:-1 tvg-id=i"Sky UNO Italy" status=timeout,Sky UNO Italy
+http://163.172.40.244/nm/m3u8/881
+#EXTINF:-1 tvg-id=i"Sky Sport 1 NZ" status=timeout,Sky Sport 1 NZ
+http://163.172.40.244/nm/m3u8/588
+#EXTINF:-1 tvg-id=i"Sky Sport 2 NZ" status=timeout,Sky Sport 2 NZ
+http://163.172.40.244/nm/m3u8/589
+#EXTINF:-1 tvg-id=i"Sky Sport 3 NZ" status=timeout,Sky Sport 3 NZ
+http://163.172.40.244/nm/m3u8/590
+#EXTINF:-1 tvg-id=i"Sky Sport 4 NZ" status=timeout,Sky Sport 4 NZ
+http://163.172.40.244/nm/m3u8/591
+#EXTINF:-1 tvg-id=i"Sky Sport 5 NZ" status=timeout,Sky Sport 5 NZ
+http://163.172.40.244/nm/m3u8/592
+#EXTINF:-1 tvg-id=i"Sky Sport 6 NZ" status=timeout,Sky Sport 6 NZ
+http://163.172.40.244/nm/m3u8/593
+#EXTINF:-1 tvg-id=i"Sky Sport 7 NZ" status=timeout,Sky Sport 7 NZ
+http://163.172.40.244/nm/m3u8/594
+#EXTINF:-1 tvg-id=i"Sky Sport 8 NZ" status=timeout,Sky Sport 8 NZ
+http://163.172.40.244/nm/m3u8/595
+#EXTINF:-1 tvg-id=i"Sky Sport 9 NZ" status=timeout,Sky Sport 9 NZ
+http://163.172.40.244/nm/m3u8/596
+#EXTINF:-1 tvg-id=i"Sky Sport Select NZ" status=timeout,Sky Sport Select NZ
+http://163.172.40.244/nm/m3u8/587
+#EXTINF:-1 tvg-id=i"Sport TV1 Portugal" status=timeout,Sport TV1 Portugal
+http://163.172.40.244/nm/m3u8/49
+#EXTINF:-1 tvg-id=i"Sport TV2 Portugal" status=timeout,Sport TV2 Portugal
+http://163.172.40.244/nm/m3u8/74
+#EXTINF:-1 tvg-id=i"Sport TV4 Portugal" status=timeout,Sport TV4 Portugal
+http://163.172.40.244/nm/m3u8/289
+#EXTINF:-1 tvg-id=i"Sport TV3 Portugal" status=timeout,Sport TV3 Portugal
+http://163.172.40.244/nm/m3u8/454
+#EXTINF:-1 tvg-id=i"Sport TV5 Portugal" status=timeout,Sport TV5 Portugal
+http://163.172.40.244/nm/m3u8/290
+#EXTINF:-1 tvg-id=i"Sport TV6 Portugal" status=timeout,Sport TV6 Portugal
+http://163.172.40.244/nm/m3u8/291
+#EXTINF:-1 tvg-id=i"SIC Portugal" status=timeout,SIC Portugal
+http://163.172.40.244/nm/m3u8/722
+#EXTINF:-1 tvg-id=i"SEC Network USA" status=timeout,SEC Network USA
+http://163.172.40.244/nm/m3u8/385
+#EXTINF:-1 tvg-id=i"SporTV Brasil" status=timeout,SporTV Brasil
+http://163.172.40.244/nm/m3u8/78
+#EXTINF:-1 tvg-id=i"SporTV2 Brasil" status=timeout,SporTV2 Brasil
+http://163.172.40.244/nm/m3u8/79
+#EXTINF:-1 tvg-id=i"SporTV3 Brasil" status=timeout,SporTV3 Brasil
+http://163.172.40.244/nm/m3u8/80
+#EXTINF:-1 tvg-id=i"Sport Klub 1 Serbia" status=timeout,Sport Klub 1 Serbia
+http://163.172.40.244/nm/m3u8/101
+#EXTINF:-1 tvg-id=i"Sport Klub 2 Serbia" status=timeout,Sport Klub 2 Serbia
+http://163.172.40.244/nm/m3u8/102
+#EXTINF:-1 tvg-id=i"Sport Klub 3 Serbia" status=timeout,Sport Klub 3 Serbia
+http://163.172.40.244/nm/m3u8/103
+#EXTINF:-1 tvg-id=i"Sport Klub 4 Serbia" status=timeout,Sport Klub 4 Serbia
+http://163.172.40.244/nm/m3u8/104
+#EXTINF:-1 tvg-id=i"Sport Klub HD Serbia" status=timeout,Sport Klub HD Serbia
+http://163.172.40.244/nm/m3u8/453
+#EXTINF:-1 tvg-id=i"Sportsnet Ontario" status=timeout,Sportsnet Ontario
+http://163.172.40.244/nm/m3u8/406
+#EXTINF:-1 tvg-id=i"Sportsnet One" status=timeout,Sportsnet One
+http://163.172.40.244/nm/m3u8/411
+#EXTINF:-1 tvg-id=i"Sportsnet West" status=timeout,Sportsnet West
+http://163.172.40.244/nm/m3u8/407
+#EXTINF:-1 tvg-id=i"Sportsnet East" status=timeout,Sportsnet East
+http://163.172.40.244/nm/m3u8/408
+#EXTINF:-1 tvg-id=i"Sportsnet 360" status=timeout,Sportsnet 360
+http://163.172.40.244/nm/m3u8/409
+#EXTINF:-1 tvg-id=i"Sportsnet World" status=timeout,Sportsnet World
+http://163.172.40.244/nm/m3u8/410
+#EXTINF:-1 tvg-id=i"SuperSport Grandstand" status=timeout,SuperSport Grandstand
+http://163.172.40.244/nm/m3u8/412
+#EXTINF:-1 tvg-id=i"SuperSport PSL" status=timeout,SuperSport PSL
+http://163.172.40.244/nm/m3u8/413
+#EXTINF:-1 tvg-id=i"SuperSport Premier league" status=timeout,SuperSport Premier league
+http://163.172.40.244/nm/m3u8/414
+#EXTINF:-1 tvg-id=i"SuperSport LaLiga" status=timeout,SuperSport LaLiga
+http://163.172.40.244/nm/m3u8/415
+#EXTINF:-1 tvg-id=i"SuperSport Variety 1" status=timeout,SuperSport Variety 1
+http://163.172.40.244/nm/m3u8/416
+#EXTINF:-1 tvg-id=i"SuperSport Variety 2" status=timeout,SuperSport Variety 2
+http://163.172.40.244/nm/m3u8/417
+#EXTINF:-1 tvg-id=i"SuperSport Variety 3" status=timeout,SuperSport Variety 3
+http://163.172.40.244/nm/m3u8/418
+#EXTINF:-1 tvg-id=i"SuperSport Variety 4" status=timeout,SuperSport Variety 4
+http://163.172.40.244/nm/m3u8/419
+#EXTINF:-1 tvg-id=i"SuperSport Action" status=timeout,SuperSport Action
+http://163.172.40.244/nm/m3u8/420
+#EXTINF:-1 tvg-id=i"SuperSport Rugby" status=timeout,SuperSport Rugby
+http://163.172.40.244/nm/m3u8/421
+#EXTINF:-1 tvg-id=i"SuperSport Golf" status=timeout,SuperSport Golf
+http://163.172.40.244/nm/m3u8/422
+#EXTINF:-1 tvg-id=i"SuperSport Tennis" status=timeout,SuperSport Tennis
+http://163.172.40.244/nm/m3u8/423
+#EXTINF:-1 tvg-id=i"SuperSport Motorsport" status=timeout,SuperSport Motorsport
+http://163.172.40.244/nm/m3u8/424
+#EXTINF:-1 tvg-id=i"Supersport Football" status=timeout,Supersport Football
+http://163.172.40.244/nm/m3u8/56
+#EXTINF:-1 tvg-id=i"SuperSport Cricket" status=timeout,SuperSport Cricket
+http://163.172.40.244/nm/m3u8/368
+#EXTINF:-1 tvg-id=i"SuperSport MaXimo 1" status=timeout,SuperSport MaXimo 1
+http://163.172.40.244/nm/m3u8/572
+#EXTINF:-1 tvg-id=i"Sporting TV Portugal" status=timeout,Sporting TV Portugal
+http://163.172.40.244/nm/m3u8/716
+#EXTINF:-1 tvg-id=i"SportDigital Fussball" status=timeout,SportDigital Fussball
+http://163.172.40.244/nm/m3u8/571
+#EXTINF:-1 tvg-id=i"Spectrum Sportsnet LA" status=timeout,Spectrum Sportsnet LA
+http://163.172.40.244/nm/m3u8/764
+#EXTINF:-1 tvg-id=i"Sport1+ Germany" status=timeout,Sport1+ Germany
+http://163.172.40.244/nm/m3u8/640
+#EXTINF:-1 tvg-id=i"Sport1 Germany" status=timeout,Sport1 Germany
+http://163.172.40.244/nm/m3u8/641
+#EXTINF:-1 tvg-id=i"S4C UK" status=timeout,S4C UK
+http://163.172.40.244/nm/m3u8/670
+#EXTINF:-1 tvg-id=i"SAT.1 DE" status=timeout,SAT.1 DE
+http://163.172.40.244/nm/m3u8/729
+#EXTINF:-1 tvg-id=i"Sky Cinema Premiere UK" status=timeout,Sky Cinema Premiere UK
+http://163.172.40.244/nm/m3u8/671
+#EXTINF:-1 tvg-id=i"Sky Cinema Select UK" status=timeout,Sky Cinema Select UK
+http://163.172.40.244/nm/m3u8/672
+#EXTINF:-1 tvg-id=i"Sky Cinema Hits UK" status=timeout,Sky Cinema Hits UK
+http://163.172.40.244/nm/m3u8/673
+#EXTINF:-1 tvg-id=i"Sky Cinema Greats UK" status=timeout,Sky Cinema Greats UK
+http://163.172.40.244/nm/m3u8/674
+#EXTINF:-1 tvg-id=i"Sky Cinema Animation UK" status=timeout,Sky Cinema Animation UK
+http://163.172.40.244/nm/m3u8/675
+#EXTINF:-1 tvg-id=i"Sky Cinema Family UK" status=timeout,Sky Cinema Family UK
+http://163.172.40.244/nm/m3u8/676
+#EXTINF:-1 tvg-id=i"Sky Cinema Action UK" status=timeout,Sky Cinema Action UK
+http://163.172.40.244/nm/m3u8/677
+#EXTINF:-1 tvg-id=i"The Hallmark" status=timeout,The Hallmark
+http://163.172.40.244/nm/m3u8/678
+#EXTINF:-1 tvg-id=i"Sky Cinema Thriller UK" status=timeout,Sky Cinema Thriller UK
+http://163.172.40.244/nm/m3u8/679
+#EXTINF:-1 tvg-id=i"The Hallmark" status=timeout,The Hallmark
+http://163.172.40.244/nm/m3u8/680
+#EXTINF:-1 tvg-id=i"Sky Cinema Sci-Fi Horror UK" status=timeout,Sky Cinema Sci-Fi Horror UK
+http://163.172.40.244/nm/m3u8/681
+#EXTINF:-1 tvg-id=i"Sky Cinema Collection Italy" status=timeout,Sky Cinema Collection Italy
+http://163.172.40.244/nm/m3u8/859
+#EXTINF:-1 tvg-id=i"Sky Cinema Uno Italy" status=timeout,Sky Cinema Uno Italy
+http://163.172.40.244/nm/m3u8/860
+#EXTINF:-1 tvg-id=i"Sky Cinema Action Italy" status=timeout,Sky Cinema Action Italy
+http://163.172.40.244/nm/m3u8/861
+#EXTINF:-1 tvg-id=i"8Sky Cinema Comedy Italy" status=timeout,8Sky Cinema Comedy Italy
+http://163.172.40.244/nm/m3u8/862
+#EXTINF:-1 tvg-id=i"Sky Cinema Uno +24 Italy" status=timeout,Sky Cinema Uno +24 Italy
+http://163.172.40.244/nm/m3u8/863
+#EXTINF:-1 tvg-id=i"Sky Cinema Romance Italy" status=timeout,Sky Cinema Romance Italy
+http://163.172.40.244/nm/m3u8/864
+#EXTINF:-1 tvg-id=i"Sky Cinema Family Italy" status=timeout,Sky Cinema Family Italy
+http://163.172.40.244/nm/m3u8/865
+#EXTINF:-1 tvg-id=i"Sky Cinema Due +24 Italy" status=timeout,Sky Cinema Due +24 Italy
+http://163.172.40.244/nm/m3u8/866
+#EXTINF:-1 tvg-id=i"Sky Cinema Drama Italy" status=timeout,Sky Cinema Drama Italy
+http://163.172.40.244/nm/m3u8/867
+#EXTINF:-1 tvg-id=i"8Sky Cinema Suspense Italy" status=timeout,8Sky Cinema Suspense Italy
+http://163.172.40.244/nm/m3u8/868
+#EXTINF:-1 tvg-id=i"Sky Sport 24 Italy" status=timeout,Sky Sport 24 Italy
+http://163.172.40.244/nm/m3u8/869
+#EXTINF:-1 tvg-id=i"Sky Sport Calcio Italy" status=timeout,Sky Sport Calcio Italy
+http://163.172.40.244/nm/m3u8/870
+#EXTINF:-1 tvg-id=i"Sky Calcio 1 (251) Italy" status=timeout,Sky Calcio 1 (251) Italy
+http://163.172.40.244/nm/m3u8/871
+#EXTINF:-1 tvg-id=i"Sky Calcio 2 (252) Italy" status=timeout,Sky Calcio 2 (252) Italy
+http://163.172.40.244/nm/m3u8/872
+#EXTINF:-1 tvg-id=i"Sky Calcio 3 (253) Italy" status=timeout,Sky Calcio 3 (253) Italy
+http://163.172.40.244/nm/m3u8/873
+#EXTINF:-1 tvg-id=i"Sky Calcio 4 (254) Italy" status=timeout,Sky Calcio 4 (254) Italy
+http://163.172.40.244/nm/m3u8/874
+#EXTINF:-1 tvg-id=i"Sky Calcio 5 (255) Italy" status=timeout,Sky Calcio 5 (255) Italy
+http://163.172.40.244/nm/m3u8/875
+#EXTINF:-1 tvg-id=i"Sky Calcio 6 (256) Italy" status=timeout,Sky Calcio 6 (256) Italy
+http://163.172.40.244/nm/m3u8/876
+#EXTINF:-1 tvg-id=i"Sky Calcio 7 (257) Italy" status=timeout,Sky Calcio 7 (257) Italy
+http://163.172.40.244/nm/m3u8/877
+#EXTINF:-1 tvg-id=i"Sky Serie Italy" status=timeout,Sky Serie Italy
+http://163.172.40.244/nm/m3u8/880
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 1 HD" status=timeout,StarzPlay CricLife 1 HD
+http://163.172.40.244/nm/m3u8/284
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 2 HD" status=timeout,StarzPlay CricLife 2 HD
+http://163.172.40.244/nm/m3u8/283
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 3 HD" status=timeout,StarzPlay CricLife 3 HD
+http://163.172.40.244/nm/m3u8/282
+#EXTINF:-1 tvg-id=i"Sky Showcase UK" status=timeout,Sky Showcase UK
+http://163.172.40.244/nm/m3u8/682
+#EXTINF:-1 tvg-id=i"Sky Arts UK" status=timeout,Sky Arts UK
+http://163.172.40.244/nm/m3u8/683
+#EXTINF:-1 tvg-id=i"Sky Comedy UK" status=timeout,Sky Comedy UK
+http://163.172.40.244/nm/m3u8/684
+#EXTINF:-1 tvg-id=i"Sky Crime" status=timeout,Sky Crime
+http://163.172.40.244/nm/m3u8/685
+#EXTINF:-1 tvg-id=i"Sky History" status=timeout,Sky History
+http://163.172.40.244/nm/m3u8/686
+#EXTINF:-1 tvg-id=i"SSC Sport 1" status=timeout,SSC Sport 1
+http://163.172.40.244/nm/m3u8/614
+#EXTINF:-1 tvg-id=i"SSC Sport 2" status=timeout,SSC Sport 2
+http://163.172.40.244/nm/m3u8/615
+#EXTINF:-1 tvg-id=i"SSC Sport 3" status=timeout,SSC Sport 3
+http://163.172.40.244/nm/m3u8/616
+#EXTINF:-1 tvg-id=i"SSC Sport 4" status=timeout,SSC Sport 4
+http://163.172.40.244/nm/m3u8/617
+#EXTINF:-1 tvg-id=i"SSC Sport 5" status=timeout,SSC Sport 5
+http://163.172.40.244/nm/m3u8/618
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 1" status=timeout,SSC Sport Extra 1
+http://163.172.40.244/nm/m3u8/619
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 2" status=timeout,SSC Sport Extra 2
+http://163.172.40.244/nm/m3u8/620
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 3" status=timeout,SSC Sport Extra 3
+http://163.172.40.244/nm/m3u8/621
+#EXTINF:-1 tvg-id=i"Sport 1 Israel" status=timeout,Sport 1 Israel
+http://163.172.40.244/nm/m3u8/140
+#EXTINF:-1 tvg-id=i"Sport 2 Israel" status=timeout,Sport 2 Israel
+http://163.172.40.244/nm/m3u8/141
+#EXTINF:-1 tvg-id=i"Sport 3 Israel" status=timeout,Sport 3 Israel
+http://163.172.40.244/nm/m3u8/142
+#EXTINF:-1 tvg-id=i"Sport 4 Israel" status=timeout,Sport 4 Israel
+http://163.172.40.244/nm/m3u8/143
+#EXTINF:-1 tvg-id=i"Sport 5 Israel" status=timeout,Sport 5 Israel
+http://163.172.40.244/nm/m3u8/144
+#EXTINF:-1 tvg-id=i"Sport 5 PLUS Israel" status=timeout,Sport 5 PLUS Israel
+http://163.172.40.244/nm/m3u8/145
+#EXTINF:-1 tvg-id=i"Sport 5 Live Israel" status=timeout,Sport 5 Live Israel
+http://163.172.40.244/nm/m3u8/146
+#EXTINF:-1 tvg-id=i"Sport 5 Star Israel" status=timeout,Sport 5 Star Israel
+http://163.172.40.244/nm/m3u8/147
+#EXTINF:-1 tvg-id=i"Sport 5 Gold Israel" status=timeout,Sport 5 Gold Israel
+http://163.172.40.244/nm/m3u8/148
+#EXTINF:-1 tvg-id=i"Science Channel" status=timeout,Science Channel
+http://163.172.40.244/nm/m3u8/294
+#EXTINF:-1 tvg-id=i"Showtime USA" status=timeout,Showtime USA
+http://163.172.40.244/nm/m3u8/333
+#EXTINF:-1 tvg-id=i"Showtime SHOxBET USA" status=timeout,Showtime SHOxBET USA
+http://163.172.40.244/nm/m3u8/685
+#EXTINF:-1 tvg-id=i"Starz" status=timeout,Starz
+http://163.172.40.244/nm/m3u8/335
+#EXTINF:-1 tvg-id=i"Sky Witness HD" status=timeout,Sky Witness HD
+http://163.172.40.244/nm/m3u8/361
+#EXTINF:-1 tvg-id=i"Sixx DE" status=timeout,Sixx DE
+http://163.172.40.244/nm/m3u8/732
+#EXTINF:-1 tvg-id=i"Sky Atlantic" status=timeout,Sky Atlantic
+http://163.172.40.244/nm/m3u8/362
+#EXTINF:-1 tvg-id=i"SYFY USA" status=timeout,SYFY USA
+http://163.172.40.244/nm/m3u8/373
+#EXTINF:-1 tvg-id=i"Sundance TV" status=timeout,Sundance TV
+http://163.172.40.244/nm/m3u8/658
+#EXTINF:-1 tvg-id=i"SWR DE" status=timeout,SWR DE
+http://163.172.40.244/nm/m3u8/735
+#EXTINF:-1 tvg-id=i"SUPER RTL DE" status=timeout,SUPER RTL DE
+http://163.172.40.244/nm/m3u8/738
+#EXTINF:-1 tvg-id=i"SR Fernsehen DE" status=timeout,SR Fernsehen DE
+http://163.172.40.244/nm/m3u8/739
+#EXTINF:-1 tvg-id=i"Smithsonian Channel" status=timeout,Smithsonian Channel
+http://163.172.40.244/nm/m3u8/601
+#EXTINF:-1 tvg-id=i"TNT Sports 1 UK" status=timeout,TNT Sports 1 UK
+http://163.172.40.244/nm/m3u8/31
+#EXTINF:-1 tvg-id=i"TNT Sports 2 UK" status=timeout,TNT Sports 2 UK
+http://163.172.40.244/nm/m3u8/32
+#EXTINF:-1 tvg-id=i"TNT Sports 3 UK" status=timeout,TNT Sports 3 UK
+http://163.172.40.244/nm/m3u8/33
+#EXTINF:-1 tvg-id=i"TNT Sports 4 UK" status=timeout,TNT Sports 4 UK
+http://163.172.40.244/nm/m3u8/34
+#EXTINF:-1 tvg-id=i"TSN1" status=timeout,TSN1
+http://163.172.40.244/nm/m3u8/111
+#EXTINF:-1 tvg-id=i"TSN2" status=timeout,TSN2
+http://163.172.40.244/nm/m3u8/112
+#EXTINF:-1 tvg-id=i"TSN3" status=timeout,TSN3
+http://163.172.40.244/nm/m3u8/113
+#EXTINF:-1 tvg-id=i"TSN4" status=timeout,TSN4
+http://163.172.40.244/nm/m3u8/114
+#EXTINF:-1 tvg-id=i"TSN5" status=timeout,TSN5
+http://163.172.40.244/nm/m3u8/115
+#EXTINF:-1 tvg-id=i"TVN HD Poland" status=timeout,TVN HD Poland
+http://163.172.40.244/nm/m3u8/565
+#EXTINF:-1 tvg-id=i"TVN24 Poland" status=timeout,TVN24 Poland
+http://163.172.40.244/nm/m3u8/444
+#EXTINF:-1 tvg-id=i"TVP1 Poland" status=timeout,TVP1 Poland
+http://163.172.40.244/nm/m3u8/560
+#EXTINF:-1 tvg-id=i"TVP2 Poland" status=timeout,TVP2 Poland
+http://163.172.40.244/nm/m3u8/561
+#EXTINF:-1 tvg-id=i"Telecinco Spain" status=timeout,Telecinco Spain
+http://163.172.40.244/nm/m3u8/532
+#EXTINF:-1 tvg-id=i"TVE La 1 Spain" status=timeout,TVE La 1 Spain
+http://163.172.40.244/nm/m3u8/533
+#EXTINF:-1 tvg-id=i"TVE La 2 Spain" status=timeout,TVE La 2 Spain
+http://163.172.40.244/nm/m3u8/536
+#EXTINF:-1 tvg-id=i"TVI Portugal" status=timeout,TVI Portugal
+http://163.172.40.244/nm/m3u8/723
+#EXTINF:-1 tvg-id=i"TVI Reality Portugal" status=timeout,TVI Reality Portugal
+http://163.172.40.244/nm/m3u8/724
+#EXTINF:-1 tvg-id=i"Teledeporte Spain (TDP)" status=timeout,Teledeporte Spain (TDP)
+http://163.172.40.244/nm/m3u8/529
+#EXTINF:-1 tvg-id=i"TYC Sports Argentina" status=timeout,TYC Sports Argentina
+http://163.172.40.244/nm/m3u8/746
+#EXTINF:-1 tvg-id=i"TVP Sport Poland" status=timeout,TVP Sport Poland
+http://163.172.40.244/nm/m3u8/128
+#EXTINF:-1 tvg-id=i"TNT Brasil" status=timeout,TNT Brasil
+http://163.172.40.244/nm/m3u8/87
+#EXTINF:-1 tvg-id=i"TNT Sports Argentina" status=timeout,TNT Sports Argentina
+http://163.172.40.244/nm/m3u8/388
+#EXTINF:-1 tvg-id=i"TNT Sports HD Chile" status=timeout,TNT Sports HD Chile
+http://163.172.40.244/nm/m3u8/642
+#EXTINF:-1 tvg-id=i"Tennis Channel" status=timeout,Tennis Channel
+http://163.172.40.244/nm/m3u8/40
+#EXTINF:-1 tvg-id=i"Ten Sports PK" status=timeout,Ten Sports PK
+http://163.172.40.244/nm/m3u8/741
+#EXTINF:-1 tvg-id=i"TUDN USA" status=timeout,TUDN USA
+http://163.172.40.244/nm/m3u8/66
+#EXTINF:-1 tvg-id=i"Telemundo" status=timeout,Telemundo
+http://163.172.40.244/nm/m3u8/131
+#EXTINF:-1 tvg-id=i"TBS USA" status=timeout,TBS USA
+http://163.172.40.244/nm/m3u8/336
+#EXTINF:-1 tvg-id=i"TLC" status=timeout,TLC
+http://163.172.40.244/nm/m3u8/337
+#EXTINF:-1 tvg-id=i"TNT USA" status=timeout,TNT USA
+http://163.172.40.244/nm/m3u8/338
+#EXTINF:-1 tvg-id=i"TVA Sports" status=timeout,TVA Sports
+http://163.172.40.244/nm/m3u8/833
+#EXTINF:-1 tvg-id=i"TVA Sports 2" status=timeout,TVA Sports 2
+http://163.172.40.244/nm/m3u8/834
+#EXTINF:-1 tvg-id=i"Travel Channel" status=timeout,Travel Channel
+http://163.172.40.244/nm/m3u8/340
+#EXTINF:-1 tvg-id=i"TruTV USA" status=timeout,TruTV USA
+http://163.172.40.244/nm/m3u8/341
+#EXTINF:-1 tvg-id=i"TVLAND" status=timeout,TVLAND
+http://163.172.40.244/nm/m3u8/342
+#EXTINF:-1 tvg-id=i"TCM USA" status=timeout,TCM USA
+http://163.172.40.244/nm/m3u8/644
+#EXTINF:-1 tvg-id=i"TMC Channel USA" status=timeout,TMC Channel USA
+http://163.172.40.244/nm/m3u8/698
+#EXTINF:-1 tvg-id=i"The Food Network" status=timeout,The Food Network
+http://163.172.40.244/nm/m3u8/384
+#EXTINF:-1 tvg-id=i"The Weather Channel" status=timeout,The Weather Channel
+http://163.172.40.244/nm/m3u8/394
+#EXTINF:-1 tvg-id=i"TVP INFO" status=timeout,TVP INFO
+http://163.172.40.244/nm/m3u8/452
+#EXTINF:-1 tvg-id=i"TeenNick" status=timeout,TeenNick
+http://163.172.40.244/nm/m3u8/650
+#EXTINF:-1 tvg-id=i"TV ONE USA" status=timeout,TV ONE USA
+http://163.172.40.244/nm/m3u8/660
+#EXTINF:-1 tvg-id=i"TV2 Bornholm Denmark" status=timeout,TV2 Bornholm Denmark
+http://163.172.40.244/nm/m3u8/807
+#EXTINF:-1 tvg-id=i"TV2 Sport X Denmark" status=timeout,TV2 Sport X Denmark
+http://163.172.40.244/nm/m3u8/808
+#EXTINF:-1 tvg-id=i"TV3 Sport Denmark" status=timeout,TV3 Sport Denmark
+http://163.172.40.244/nm/m3u8/809
+#EXTINF:-1 tvg-id=i"TV2 Sport Denmark" status=timeout,TV2 Sport Denmark
+http://163.172.40.244/nm/m3u8/810
+#EXTINF:-1 tvg-id=i"TV2 Denmark" status=timeout,TV2 Denmark
+http://163.172.40.244/nm/m3u8/817
+#EXTINF:-1 tvg-id=i"TV2 Zulu" status=timeout,TV2 Zulu
+http://163.172.40.244/nm/m3u8/818
+#EXTINF:-1 tvg-id=i"TV3+ Denmark" status=timeout,TV3+ Denmark
+http://163.172.40.244/nm/m3u8/819
+#EXTINF:-1 tvg-id=i"TVO CA" status=timeout,TVO CA
+http://163.172.40.244/nm/m3u8/842
+#EXTINF:-1 tvg-id=i"Tennis+ 1" status=timeout,Tennis+ 1
+http://163.172.40.244/nm/m3u8/700
+#EXTINF:-1 tvg-id=i"Tennis+ 2" status=timeout,Tennis+ 2
+http://163.172.40.244/nm/m3u8/701
+#EXTINF:-1 tvg-id=i"Tennis+ 3" status=timeout,Tennis+ 3
+http://163.172.40.244/nm/m3u8/702
+#EXTINF:-1 tvg-id=i"Tennis+ 4" status=timeout,Tennis+ 4
+http://163.172.40.244/nm/m3u8/703
+#EXTINF:-1 tvg-id=i"Tennis+ 5" status=timeout,Tennis+ 5
+http://163.172.40.244/nm/m3u8/704
+#EXTINF:-1 tvg-id=i"Tennis+ 6" status=timeout,Tennis+ 6
+http://163.172.40.244/nm/m3u8/705
+#EXTINF:-1 tvg-id=i"Tennis+ 7" status=timeout,Tennis+ 7
+http://163.172.40.244/nm/m3u8/706
+#EXTINF:-1 tvg-id=i"Tennis+ 8" status=timeout,Tennis+ 8
+http://163.172.40.244/nm/m3u8/707
+#EXTINF:-1 tvg-id=i"Tennis+ 9" status=timeout,Tennis+ 9
+http://163.172.40.244/nm/m3u8/708
+#EXTINF:-1 tvg-id=i"Tennis+ 10" status=timeout,Tennis+ 10
+http://163.172.40.244/nm/m3u8/709
+#EXTINF:-1 tvg-id=i"Tennis+ 11" status=timeout,Tennis+ 11
+http://163.172.40.244/nm/m3u8/710
+#EXTINF:-1 tvg-id=i"Tennis+ 12" status=timeout,Tennis+ 12
+http://163.172.40.244/nm/m3u8/711
+#EXTINF:-1 tvg-id=i"Tennis+ 13" status=timeout,Tennis+ 13
+http://163.172.40.244/nm/m3u8/712
+#EXTINF:-1 tvg-id=i"Tennis+ 14" status=timeout,Tennis+ 14
+http://163.172.40.244/nm/m3u8/713
+#EXTINF:-1 tvg-id=i"Tennis+ 15" status=timeout,Tennis+ 15
+http://163.172.40.244/nm/m3u8/714
+#EXTINF:-1 tvg-id=i"USA Network" status=timeout,USA Network
+http://163.172.40.244/nm/m3u8/343
+#EXTINF:-1 tvg-id=i"Universal Kids USA" status=timeout,Universal Kids USA
+http://163.172.40.244/nm/m3u8/668
+#EXTINF:-1 tvg-id=i"Univision" status=timeout,Univision
+http://163.172.40.244/nm/m3u8/132
+#EXTINF:-1 tvg-id=i"Unimas" status=timeout,Unimas
+http://163.172.40.244/nm/m3u8/133
+#EXTINF:-1 tvg-id=i"Viaplay Sports 1 UK" status=timeout,Viaplay Sports 1 UK
+http://163.172.40.244/nm/m3u8/451
+#EXTINF:-1 tvg-id=i"Viaplay Sports 2 UK" status=timeout,Viaplay Sports 2 UK
+http://163.172.40.244/nm/m3u8/550
+#EXTINF:-1 tvg-id=i"Viaplay Xtra UK" status=timeout,Viaplay Xtra UK
+http://163.172.40.244/nm/m3u8/597
+#EXTINF:-1 tvg-id=i"#Vamos Spain" status=timeout,#Vamos Spain
+http://163.172.40.244/nm/m3u8/521
+#EXTINF:-1 tvg-id=i"V Film Premiere" status=timeout,V Film Premiere
+http://163.172.40.244/nm/m3u8/815
+#EXTINF:-1 tvg-id=i"V Film Family" status=timeout,V Film Family
+http://163.172.40.244/nm/m3u8/816
+#EXTINF:-1 tvg-id=i"VH1 USA" status=timeout,VH1 USA
+http://163.172.40.244/nm/m3u8/344
+#EXTINF:-1 tvg-id=i"Veronica NL Netherland" status=timeout,Veronica NL Netherland
+http://163.172.40.244/nm/m3u8/378
+#EXTINF:-1 tvg-id=i"VTV+ Uruguay" status=timeout,VTV+ Uruguay
+http://163.172.40.244/nm/m3u8/391
+#EXTINF:-1 tvg-id=i"VICE TV" status=timeout,VICE TV
+http://163.172.40.244/nm/m3u8/659
+#EXTINF:-1 tvg-id=i"Willow Cricket" status=timeout,Willow Cricket
+http://163.172.40.244/nm/m3u8/346
+#EXTINF:-1 tvg-id=i"Willow XTRA" status=timeout,Willow XTRA
+http://163.172.40.244/nm/m3u8/598
+#EXTINF:-1 tvg-id=i"WWE Network" status=timeout,WWE Network
+http://163.172.40.244/nm/m3u8/376
+#EXTINF:-1 tvg-id=i"Win Sports+ Columbia" status=timeout,Win Sports+ Columbia
+http://163.172.40.244/nm/m3u8/392
+#EXTINF:-1 tvg-id=i"WETV USA" status=timeout,WETV USA
+http://163.172.40.244/nm/m3u8/655
+#EXTINF:-1 tvg-id=i"WDR DE" status=timeout,WDR DE
+http://163.172.40.244/nm/m3u8/734
+#EXTINF:-1 tvg-id=i"YES Network USA" status=timeout,YES Network USA
+http://163.172.40.244/nm/m3u8/763
+#EXTINF:-1 tvg-id=i"Yes Movies Action Israel" status=timeout,Yes Movies Action Israel
+http://163.172.40.244/nm/m3u8/543
+#EXTINF:-1 tvg-id=i"Yes Movies Kids Israel" status=timeout,Yes Movies Kids Israel
+http://163.172.40.244/nm/m3u8/544
+#EXTINF:-1 tvg-id=i"Yes Movies Comedy Israel" status=timeout,Yes Movies Comedy Israel
+http://163.172.40.244/nm/m3u8/545
+#EXTINF:-1 tvg-id=i"Yas TV UAE" status=timeout,Yas TV UAE
+http://163.172.40.244/nm/m3u8/609
+#EXTINF:-1 tvg-id=i"Yes TV CA" status=timeout,Yes TV CA
+http://163.172.40.244/nm/m3u8/837
+#EXTINF:-1 tvg-id=i"Ziggo Sport Docu NL" status=timeout,Ziggo Sport Docu NL
+http://163.172.40.244/nm/m3u8/383
+#EXTINF:-1 tvg-id=i"Ziggo Sport Select NL" status=timeout,Ziggo Sport Select NL
+http://163.172.40.244/nm/m3u8/393
+#EXTINF:-1 tvg-id=i"Ziggo Sport Racing NL" status=timeout,Ziggo Sport Racing NL
+http://163.172.40.244/nm/m3u8/396
+#EXTINF:-1 tvg-id=i"Ziggo Sport Voetbal NL" status=timeout,Ziggo Sport Voetbal NL
+http://163.172.40.244/nm/m3u8/398
+#EXTINF:-1 tvg-id=i"BBC 1 DE" status=timeout,BBC 1 DE
+http://163.172.40.244/nm/m3u8/727
+#EXTINF:-1 tvg-id=i"ZDF Info DE" status=timeout,ZDF Info DE
+http://163.172.40.244/nm/m3u8/728
+#EXTINF:-1 tvg-id=i"20 Mediaset Italy" status=timeout,20 Mediaset Italy
+http://163.172.40.244/nm/m3u8/857
+#EXTINF:-1 tvg-id=i"6'eren Denmark" status=timeout,6'eren Denmark
+http://163.172.40.244/nm/m3u8/800
+#EXTINF:-1 tvg-id=i"#0 Spain" status=timeout,#0 Spain
+http://163.172.40.244/nm/m3u8/437
+#EXTINF:-1 tvg-id=i"5 USA" status=timeout,5 USA
+http://163.172.40.244/nm/m3u8/360
+#EXTINF:-1 tvg-id=i"3sat DE" status=timeout,3sat DE
+http://163.172.40.244/nm/m3u8/726
+#EXTINF:-1 tvg-id=i"18+ (Player-01)" status=timeout,18+ (Player-01)
+http://163.172.40.244/nm/m3u8/501
+#EXTINF:-1 tvg-id=i"18+ (Player-02)" status=timeout,18+ (Player-02)
+http://163.172.40.244/nm/m3u8/502
+#EXTINF:-1 tvg-id=i"18+ (Player-03)" status=timeout,18+ (Player-03)
+http://163.172.40.244/nm/m3u8/503
+#EXTINF:-1 tvg-id=i"18+ (Player-04)" status=timeout,18+ (Player-04)
+http://163.172.40.244/nm/m3u8/504
+#EXTINF:-1 tvg-id=i"18+ (Player-05)" status=timeout,18+ (Player-05)
+http://163.172.40.244/nm/m3u8/505
+#EXTINF:-1 tvg-id=i"18+ (Player-06)" status=timeout,18+ (Player-06)
+http://163.172.40.244/nm/m3u8/506
+#EXTINF:-1 tvg-id=i"18+ (Player-07)" status=timeout,18+ (Player-07)
+http://163.172.40.244/nm/m3u8/507
+#EXTINF:-1 tvg-id=i"18+ (Player-08)" status=timeout,18+ (Player-08)
+http://163.172.40.244/nm/m3u8/508
+#EXTINF:-1 tvg-id=i"18+ (Player-09)" status=timeout,18+ (Player-09)
+http://163.172.40.244/nm/m3u8/509
+#EXTINF:-1 tvg-id=i"18+ (Player-10)" status=timeout,18+ (Player-10)
+http://163.172.40.244/nm/m3u8/510
+#EXTINF:-1 tvg-id=i"18+ (Player-11)" status=timeout,18+ (Player-11)
+http://163.172.40.244/nm/m3u8/511
+#EXTINF:-1 tvg-id=i"18+ (Player-12)" status=timeout,18+ (Player-12)
+http://163.172.40.244/nm/m3u8/512
+#EXTINF:-1 tvg-id=i"18+ (Player-13)" status=timeout,18+ (Player-13)
+http://163.172.40.244/nm/m3u8/513
+#EXTINF:-1 tvg-id=i"18+ (Player-14)" status=timeout,18+ (Player-14)
+http://163.172.40.244/nm/m3u8/514
+#EXTINF:-1 tvg-id=i"18+ (Player-15)" status=timeout,18+ (Player-15)
+http://163.172.40.244/nm/m3u8/515
+#EXTINF:-1 tvg-id=i"18+ (Player-16)" status=timeout,18+ (Player-16)
+http://163.172.40.244/nm/m3u8/516
+#EXTINF:-1 tvg-id=i"18+ (Player-17)" status=timeout,18+ (Player-17)
+http://163.172.40.244/nm/m3u8/517
+#EXTINF:-1 tvg-id=i"18+ (Player-18)" status=timeout,18+ (Player-18)
+http://163.172.40.244/nm/m3u8/518
+#EXTINF:-1 tvg-id=i"18+ (Player-19)" status=timeout,18+ (Player-19)
+http://163.172.40.244/nm/m3u8/519
+#EXTINF:-1 tvg-id=i"18+ (Player-20)" status=timeout,18+ (Player-20)
+http://163.172.40.244/nm/m3u8/520
+#EXTINF:-1 tvg-id=i"ABC USA" status=timeout,ABC USA
+http://163.172.40.244/nm/m3u8/51
+#EXTINF:-1 tvg-id=i"A&E USA" status=timeout,A&E USA
+http://163.172.40.244/nm/m3u8/302
+#EXTINF:-1 tvg-id=i"AMC USA" status=timeout,AMC USA
+http://163.172.40.244/nm/m3u8/303
+#EXTINF:-1 tvg-id=i"Animal Planet" status=timeout,Animal Planet
+http://163.172.40.244/nm/m3u8/304
+#EXTINF:-1 tvg-id=i"ACC Network USA" status=timeout,ACC Network USA
+http://163.172.40.244/nm/m3u8/666
+#EXTINF:-1 tvg-id=i"Astro SuperSport 1" status=timeout,Astro SuperSport 1
+http://163.172.40.244/nm/m3u8/123
+#EXTINF:-1 tvg-id=i"Astro SuperSport 2" status=timeout,Astro SuperSport 2
+http://163.172.40.244/nm/m3u8/124
+#EXTINF:-1 tvg-id=i"Astro SuperSport 3" status=timeout,Astro SuperSport 3
+http://163.172.40.244/nm/m3u8/125
+#EXTINF:-1 tvg-id=i"Astro SuperSport 4" status=timeout,Astro SuperSport 4
+http://163.172.40.244/nm/m3u8/126
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Premium" status=timeout,Arena Sport 1 Premium
+http://163.172.40.244/nm/m3u8/134
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Premium" status=timeout,Arena Sport 2 Premium
+http://163.172.40.244/nm/m3u8/135
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Premium" status=timeout,Arena Sport 3 Premium
+http://163.172.40.244/nm/m3u8/139
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Serbia" status=timeout,Arena Sport 1 Serbia
+http://163.172.40.244/nm/m3u8/429
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Serbia" status=timeout,Arena Sport 2 Serbia
+http://163.172.40.244/nm/m3u8/430
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Serbia" status=timeout,Arena Sport 3 Serbia
+http://163.172.40.244/nm/m3u8/431
+#EXTINF:-1 tvg-id=i"Arena Sport 4 Serbia" status=timeout,Arena Sport 4 Serbia
+http://163.172.40.244/nm/m3u8/581
+#EXTINF:-1 tvg-id=i"Arena Sport 1 Croatia" status=timeout,Arena Sport 1 Croatia
+http://163.172.40.244/nm/m3u8/432
+#EXTINF:-1 tvg-id=i"Arena Sport 2 Croatia" status=timeout,Arena Sport 2 Croatia
+http://163.172.40.244/nm/m3u8/433
+#EXTINF:-1 tvg-id=i"Arena Sport 3 Croatia" status=timeout,Arena Sport 3 Croatia
+http://163.172.40.244/nm/m3u8/434
+#EXTINF:-1 tvg-id=i"Arena Sport 4 Croatia" status=timeout,Arena Sport 4 Croatia
+http://163.172.40.244/nm/m3u8/580
+#EXTINF:-1 tvg-id=i"Alkass One" status=timeout,Alkass One
+http://163.172.40.244/nm/m3u8/781
+#EXTINF:-1 tvg-id=i"Alkass Two" status=timeout,Alkass Two
+http://163.172.40.244/nm/m3u8/782
+#EXTINF:-1 tvg-id=i"Alkass Three" status=timeout,Alkass Three
+http://163.172.40.244/nm/m3u8/783
+#EXTINF:-1 tvg-id=i"Alkass Four" status=timeout,Alkass Four
+http://163.172.40.244/nm/m3u8/784
+#EXTINF:-1 tvg-id=i"ABS-CBN" status=timeout,ABS-CBN
+http://163.172.40.244/nm/m3u8/785
+#EXTINF:-1 tvg-id=i"Arena Sport 1 BiH" status=timeout,Arena Sport 1 BiH
+http://163.172.40.244/nm/m3u8/579
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 1 UAE" status=timeout,Abu Dhabi Sports 1 UAE
+http://163.172.40.244/nm/m3u8/600
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 2 UAE" status=timeout,Abu Dhabi Sports 2 UAE
+http://163.172.40.244/nm/m3u8/601
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 1 Premium" status=timeout,Abu Dhabi Sports 1 Premium
+http://163.172.40.244/nm/m3u8/609
+#EXTINF:-1 tvg-id=i"Abu Dhabi Sports 2 Premium" status=timeout,Abu Dhabi Sports 2 Premium
+http://163.172.40.244/nm/m3u8/610
+#EXTINF:-1 tvg-id=i"Astro Cricket" status=timeout,Astro Cricket
+http://163.172.40.244/nm/m3u8/370
+#EXTINF:-1 tvg-id=i"Antena 3 Spain" status=timeout,Antena 3 Spain
+http://163.172.40.244/nm/m3u8/531
+#EXTINF:-1 tvg-id=i"ACC Network USA" status=timeout,ACC Network USA
+http://163.172.40.244/nm/m3u8/664
+#EXTINF:-1 tvg-id=i"Adult Swim" status=timeout,Adult Swim
+http://163.172.40.244/nm/m3u8/295
+#EXTINF:-1 tvg-id=i"AXN Movies Portugal" status=timeout,AXN Movies Portugal
+http://163.172.40.244/nm/m3u8/717
+#EXTINF:-1 tvg-id=i"Arte DE" status=timeout,Arte DE
+http://163.172.40.244/nm/m3u8/725
+#EXTINF:-1 tvg-id=i"AXS TV USA" status=timeout,AXS TV USA
+http://163.172.40.244/nm/m3u8/742
+#EXTINF:-1 tvg-id=i"ABCNY USA" status=timeout,ABCNY USA
+http://163.172.40.244/nm/m3u8/766
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 1" status=timeout,beIN Sports MENA English 1
+http://163.172.40.244/nm/m3u8/61
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 2" status=timeout,beIN Sports MENA English 2
+http://163.172.40.244/nm/m3u8/90
+#EXTINF:-1 tvg-id=i"beIN Sports MENA English 3" status=timeout,beIN Sports MENA English 3
+http://163.172.40.244/nm/m3u8/46
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 1" status=timeout,beIN Sports MENA 1
+http://163.172.40.244/nm/m3u8/91
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 2" status=timeout,beIN Sports MENA 2
+http://163.172.40.244/nm/m3u8/92
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 3" status=timeout,beIN Sports MENA 3
+http://163.172.40.244/nm/m3u8/93
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 4" status=timeout,beIN Sports MENA 4
+http://163.172.40.244/nm/m3u8/94
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 5" status=timeout,beIN Sports MENA 5
+http://163.172.40.244/nm/m3u8/95
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 6" status=timeout,beIN Sports MENA 6
+http://163.172.40.244/nm/m3u8/96
+#EXTINF:-1 tvg-id=i"beIN Sports MENA 7" status=timeout,beIN Sports MENA 7
+http://163.172.40.244/nm/m3u8/97
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 1" status=timeout,beIN Sports MENA Premium 1
+http://163.172.40.244/nm/m3u8/98
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 2" status=timeout,beIN Sports MENA Premium 2
+http://163.172.40.244/nm/m3u8/99
+#EXTINF:-1 tvg-id=i"beIN Sports MENA Premium 3" status=timeout,beIN Sports MENA Premium 3
+http://163.172.40.244/nm/m3u8/100
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 4 France" status=timeout,beIN Sports MAX 4 France
+http://163.172.40.244/nm/m3u8/494
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 5 France" status=timeout,beIN Sports MAX 5 France
+http://163.172.40.244/nm/m3u8/495
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 6 France" status=timeout,beIN Sports MAX 6 France
+http://163.172.40.244/nm/m3u8/496
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 7 France" status=timeout,beIN Sports MAX 7 France
+http://163.172.40.244/nm/m3u8/497
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 8 France" status=timeout,beIN Sports MAX 8 France
+http://163.172.40.244/nm/m3u8/498
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 9 France" status=timeout,beIN Sports MAX 9 France
+http://163.172.40.244/nm/m3u8/499
+#EXTINF:-1 tvg-id=i"beIN Sports MAX 10 France" status=timeout,beIN Sports MAX 10 France
+http://163.172.40.244/nm/m3u8/500
+#EXTINF:-1 tvg-id=i"beIN SPORTS 1 France" status=timeout,beIN SPORTS 1 France
+http://163.172.40.244/nm/m3u8/116
+#EXTINF:-1 tvg-id=i"beIN SPORTS 2 France" status=timeout,beIN SPORTS 2 France
+http://163.172.40.244/nm/m3u8/117
+#EXTINF:-1 tvg-id=i"beIN SPORTS 3 France" status=timeout,beIN SPORTS 3 France
+http://163.172.40.244/nm/m3u8/118
+#EXTINF:-1 tvg-id=i"beIN SPORTS 1 Turkey" status=timeout,beIN SPORTS 1 Turkey
+http://163.172.40.244/nm/m3u8/62
+#EXTINF:-1 tvg-id=i"beIN SPORTS 2 Turkey" status=timeout,beIN SPORTS 2 Turkey
+http://163.172.40.244/nm/m3u8/63
+#EXTINF:-1 tvg-id=i"beIN SPORTS 3 Turkey" status=timeout,beIN SPORTS 3 Turkey
+http://163.172.40.244/nm/m3u8/64
+#EXTINF:-1 tvg-id=i"beIN SPORTS 4 Turkey" status=timeout,beIN SPORTS 4 Turkey
+http://163.172.40.244/nm/m3u8/67
+#EXTINF:-1 tvg-id=i"BeIN Sports HD Qatar" status=timeout,BeIN Sports HD Qatar
+http://163.172.40.244/nm/m3u8/578
+#EXTINF:-1 tvg-id=i"BeIN SPORTS USA" status=timeout,BeIN SPORTS USA
+http://163.172.40.244/nm/m3u8/425
+#EXTINF:-1 tvg-id=i"beIN SPORTS en Español" status=timeout,beIN SPORTS en Español
+http://163.172.40.244/nm/m3u8/372
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 1" status=timeout,beIN SPORTS Australia 1
+http://163.172.40.244/nm/m3u8/491
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 2" status=timeout,beIN SPORTS Australia 2
+http://163.172.40.244/nm/m3u8/492
+#EXTINF:-1 tvg-id=i"beIN SPORTS Australia 3" status=timeout,beIN SPORTS Australia 3
+http://163.172.40.244/nm/m3u8/493
+#EXTINF:-1 tvg-id=i"Barca TV Spain" status=timeout,Barca TV Spain
+http://163.172.40.244/nm/m3u8/522
+#EXTINF:-1 tvg-id=i"Benfica TV PT" status=timeout,Benfica TV PT
+http://163.172.40.244/nm/m3u8/380
+#EXTINF:-1 tvg-id=i"Boomerang" status=timeout,Boomerang
+http://163.172.40.244/nm/m3u8/648
+#EXTINF:-1 tvg-id=i"BNT 1 Bulgaria" status=timeout,BNT 1 Bulgaria
+http://163.172.40.244/nm/m3u8/476
+#EXTINF:-1 tvg-id=i"BNT 2 Bulgaria" status=timeout,BNT 2 Bulgaria
+http://163.172.40.244/nm/m3u8/477
+#EXTINF:-1 tvg-id=i"BNT 3 Bulgaria" status=timeout,BNT 3 Bulgaria
+http://163.172.40.244/nm/m3u8/478
+#EXTINF:-1 tvg-id=i"BR Fernsehen DE" status=timeout,BR Fernsehen DE
+http://163.172.40.244/nm/m3u8/737
+#EXTINF:-1 tvg-id=i"bTV Bulgaria" status=timeout,bTV Bulgaria
+http://163.172.40.244/nm/m3u8/479
+#EXTINF:-1 tvg-id=i"bTV Action Bulgaria" status=timeout,bTV Action Bulgaria
+http://163.172.40.244/nm/m3u8/481
+#EXTINF:-1 tvg-id=i"bTV Lady Bulgaria" status=timeout,bTV Lady Bulgaria
+http://163.172.40.244/nm/m3u8/484
+#EXTINF:-1 tvg-id=i"BBC America (BBCA)" status=timeout,BBC America (BBCA)
+http://163.172.40.244/nm/m3u8/305
+#EXTINF:-1 tvg-id=i"BET USA" status=timeout,BET USA
+http://163.172.40.244/nm/m3u8/306
+#EXTINF:-1 tvg-id=i"Bravo USA" status=timeout,Bravo USA
+http://163.172.40.244/nm/m3u8/307
+#EXTINF:-1 tvg-id=i"BBC News Channel HD" status=timeout,BBC News Channel HD
+http://163.172.40.244/nm/m3u8/349
+#EXTINF:-1 tvg-id=i"BBC One UK" status=timeout,BBC One UK
+http://163.172.40.244/nm/m3u8/356
+#EXTINF:-1 tvg-id=i"BBC Two UK" status=timeout,BBC Two UK
+http://163.172.40.244/nm/m3u8/357
+#EXTINF:-1 tvg-id=i"BBC Three UK" status=timeout,BBC Three UK
+http://163.172.40.244/nm/m3u8/358
+#EXTINF:-1 tvg-id=i"BBC Four UK" status=timeout,BBC Four UK
+http://163.172.40.244/nm/m3u8/359
+#EXTINF:-1 tvg-id=i"BIG TEN Network (BTN USA)" status=timeout,BIG TEN Network (BTN USA)
+http://163.172.40.244/nm/m3u8/397
+#EXTINF:-1 tvg-id=i"Cuatro Spain" status=timeout,Cuatro Spain
+http://163.172.40.244/nm/m3u8/535
+#EXTINF:-1 tvg-id=i"Channel 4 UK" status=timeout,Channel 4 UK
+http://163.172.40.244/nm/m3u8/354
+#EXTINF:-1 tvg-id=i"Channel 5 UK" status=timeout,Channel 5 UK
+http://163.172.40.244/nm/m3u8/355
+#EXTINF:-1 tvg-id=i"CBS Sports Network (CBSSN)" status=timeout,CBS Sports Network (CBSSN)
+http://163.172.40.244/nm/m3u8/308
+#EXTINF:-1 tvg-id=i"Canal+ France" status=timeout,Canal+ France
+http://163.172.40.244/nm/m3u8/121
+#EXTINF:-1 tvg-id=i"Canal+ Sport France" status=timeout,Canal+ Sport France
+http://163.172.40.244/nm/m3u8/122
+#EXTINF:-1 tvg-id=i"Canal+ Foot France" status=timeout,Canal+ Foot France
+http://163.172.40.244/nm/m3u8/463
+#EXTINF:-1 tvg-id=i"Canal+ Sport360" status=timeout,Canal+ Sport360
+http://163.172.40.244/nm/m3u8/464
+#EXTINF:-1 tvg-id=i"Canal 11 Portugal" status=timeout,Canal 11 Portugal
+http://163.172.40.244/nm/m3u8/540
+#EXTINF:-1 tvg-id=i"Canal+ Sport Poland" status=timeout,Canal+ Sport Poland
+http://163.172.40.244/nm/m3u8/48
+#EXTINF:-1 tvg-id=i"Canal+ Sport 2 Poland" status=timeout,Canal+ Sport 2 Poland
+http://163.172.40.244/nm/m3u8/73
+#EXTINF:-1 tvg-id=i"CANAL+ SPORT 5 Poland" status=timeout,CANAL+ SPORT 5 Poland
+http://163.172.40.244/nm/m3u8/75
+#EXTINF:-1 tvg-id=i"Canal+ Premium Poland" status=timeout,Canal+ Premium Poland
+http://163.172.40.244/nm/m3u8/566
+#EXTINF:-1 tvg-id=i"Canal+ Family Poland" status=timeout,Canal+ Family Poland
+http://163.172.40.244/nm/m3u8/567
+#EXTINF:-1 tvg-id=i"Canal+ Seriale Poland" status=timeout,Canal+ Seriale Poland
+http://163.172.40.244/nm/m3u8/570
+#EXTINF:-1 tvg-id=i"Canal+ Sport 1 Afrique" status=timeout,Canal+ Sport 1 Afrique
+http://163.172.40.244/nm/m3u8/486
+#EXTINF:-1 tvg-id=i"Canal+ Sport 2 Afrique" status=timeout,Canal+ Sport 2 Afrique
+http://163.172.40.244/nm/m3u8/487
+#EXTINF:-1 tvg-id=i"Canal+ Sport 3 Afrique" status=timeout,Canal+ Sport 3 Afrique
+http://163.172.40.244/nm/m3u8/488
+#EXTINF:-1 tvg-id=i"Canal+ Sport 4 Afrique" status=timeout,Canal+ Sport 4 Afrique
+http://163.172.40.244/nm/m3u8/489
+#EXTINF:-1 tvg-id=i"Canal+ Sport 5 Afrique" status=timeout,Canal+ Sport 5 Afrique
+http://163.172.40.244/nm/m3u8/490
+#EXTINF:-1 tvg-id=i"CANAL9 Denmark" status=timeout,CANAL9 Denmark
+http://163.172.40.244/nm/m3u8/805
+#EXTINF:-1 tvg-id=i"Combate Brasil" status=timeout,Combate Brasil
+http://163.172.40.244/nm/m3u8/89
+#EXTINF:-1 tvg-id=i"C More Football Sweden" status=timeout,C More Football Sweden
+http://163.172.40.244/nm/m3u8/747
+#EXTINF:-1 tvg-id=i"Cosmote Sport 1 HD" status=timeout,Cosmote Sport 1 HD
+http://163.172.40.244/nm/m3u8/622
+#EXTINF:-1 tvg-id=i"Cosmote Sport 2 HD" status=timeout,Cosmote Sport 2 HD
+http://163.172.40.244/nm/m3u8/623
+#EXTINF:-1 tvg-id=i"Cosmote Sport 3 HD" status=timeout,Cosmote Sport 3 HD
+http://163.172.40.244/nm/m3u8/624
+#EXTINF:-1 tvg-id=i"Cosmote Sport 4 HD" status=timeout,Cosmote Sport 4 HD
+http://163.172.40.244/nm/m3u8/625
+#EXTINF:-1 tvg-id=i"Cosmote Sport 5 HD" status=timeout,Cosmote Sport 5 HD
+http://163.172.40.244/nm/m3u8/626
+#EXTINF:-1 tvg-id=i"Cosmote Sport 6 HD" status=timeout,Cosmote Sport 6 HD
+http://163.172.40.244/nm/m3u8/627
+#EXTINF:-1 tvg-id=i"Cosmote Sport 7 HD" status=timeout,Cosmote Sport 7 HD
+http://163.172.40.244/nm/m3u8/628
+#EXTINF:-1 tvg-id=i"Cosmote Sport 8 HD" status=timeout,Cosmote Sport 8 HD
+http://163.172.40.244/nm/m3u8/629
+#EXTINF:-1 tvg-id=i"Cosmote Sport 9 HD" status=timeout,Cosmote Sport 9 HD
+http://163.172.40.244/nm/m3u8/630
+#EXTINF:-1 tvg-id=i"Channel 9 Israel" status=timeout,Channel 9 Israel
+http://163.172.40.244/nm/m3u8/546
+#EXTINF:-1 tvg-id=i"Channel 10 Israe" status=timeout,Channel 10 Israe
+http://163.172.40.244/nm/m3u8/547
+#EXTINF:-1 tvg-id=i"Channel 11 Israel" status=timeout,Channel 11 Israel
+http://163.172.40.244/nm/m3u8/548
+#EXTINF:-1 tvg-id=i"Channel 12 Israel" status=timeout,Channel 12 Israel
+http://163.172.40.244/nm/m3u8/549
+#EXTINF:-1 tvg-id=i"Channel 13 Israel" status=timeout,Channel 13 Israel
+http://163.172.40.244/nm/m3u8/551
+#EXTINF:-1 tvg-id=i"Channel 14 Israel" status=timeout,Channel 14 Israel
+http://163.172.40.244/nm/m3u8/552
+#EXTINF:-1 tvg-id=i"C More Stars Sweden" status=timeout,C More Stars Sweden
+http://163.172.40.244/nm/m3u8/8111
+#EXTINF:-1 tvg-id=i"C More First Sweden" status=timeout,C More First Sweden
+http://163.172.40.244/nm/m3u8/812
+#EXTINF:-1 tvg-id=i"C More Hits Sweden" status=timeout,C More Hits Sweden
+http://163.172.40.244/nm/m3u8/813
+#EXTINF:-1 tvg-id=i"C More Series Sweden" status=timeout,C More Series Sweden
+http://163.172.40.244/nm/m3u8/814
+#EXTINF:-1 tvg-id=i"COZI TV USA" status=timeout,COZI TV USA
+http://163.172.40.244/nm/m3u8/748
+#EXTINF:-1 tvg-id=i"CMT USA" status=timeout,CMT USA
+http://163.172.40.244/nm/m3u8/647
+#EXTINF:-1 tvg-id=i"CBS USA" status=timeout,CBS USA
+http://163.172.40.244/nm/m3u8/52
+#EXTINF:-1 tvg-id=i"CW USA" status=timeout,CW USA
+http://163.172.40.244/nm/m3u8/300
+#EXTINF:-1 tvg-id=i"CNBC USA" status=timeout,CNBC USA
+http://163.172.40.244/nm/m3u8/309
+#EXTINF:-1 tvg-id=i"Comedy Central" status=timeout,Comedy Central
+http://163.172.40.244/nm/m3u8/310
+#EXTINF:-1 tvg-id=i"Cartoon Network" status=timeout,Cartoon Network
+http://163.172.40.244/nm/m3u8/339
+#EXTINF:-1 tvg-id=i"CNN USA" status=timeout,CNN USA
+http://163.172.40.244/nm/m3u8/345
+#EXTINF:-1 tvg-id=i"Cinemax USA" status=timeout,Cinemax USA
+http://163.172.40.244/nm/m3u8/374
+#EXTINF:-1 tvg-id=i"CTV Canada" status=timeout,CTV Canada
+http://163.172.40.244/nm/m3u8/602
+#EXTINF:-1 tvg-id=i"CTV 2 Canada" status=timeout,CTV 2 Canada
+http://163.172.40.244/nm/m3u8/838
+#EXTINF:-1 tvg-id=i"Crime+ Investigation USA" status=timeout,Crime+ Investigation USA
+http://163.172.40.244/nm/m3u8/669
+#EXTINF:-1 tvg-id=i"Comet USA" status=timeout,Comet USA
+http://163.172.40.244/nm/m3u8/696
+#EXTINF:-1 tvg-id=i"Cooking Channel USA" status=timeout,Cooking Channel USA
+http://163.172.40.244/nm/m3u8/697
+#EXTINF:-1 tvg-id=i"Cleo TV" status=timeout,Cleo TV
+http://163.172.40.244/nm/m3u8/715
+#EXTINF:-1 tvg-id=i"C SPAN 1" status=timeout,C SPAN 1
+http://163.172.40.244/nm/m3u8/750
+#EXTINF:-1 tvg-id=i"CBSNY USA" status=timeout,CBSNY USA
+http://163.172.40.244/nm/m3u8/767
+#EXTINF:-1 tvg-id=i"Citytv" status=timeout,Citytv
+http://163.172.40.244/nm/m3u8/831
+#EXTINF:-1 tvg-id=i"CBC CA" status=timeout,CBC CA
+http://163.172.40.244/nm/m3u8/832
+#EXTINF:-1 tvg-id=i"DAZN 1 Bar DE" status=timeout,DAZN 1 Bar DE
+http://163.172.40.244/nm/m3u8/426
+#EXTINF:-1 tvg-id=i"DAZN 2 Bar DE" status=timeout,DAZN 2 Bar DE
+http://163.172.40.244/nm/m3u8/427
+#EXTINF:-1 tvg-id=i"DAZN 1 Spain" status=timeout,DAZN 1 Spain
+http://163.172.40.244/nm/m3u8/445
+#EXTINF:-1 tvg-id=i"DAZN 2 Spain" status=timeout,DAZN 2 Spain
+http://163.172.40.244/nm/m3u8/446
+#EXTINF:-1 tvg-id=i"DAZN 3 Spain" status=timeout,DAZN 3 Spain
+http://163.172.40.244/nm/m3u8/447
+#EXTINF:-1 tvg-id=i"DAZN 4 Spain" status=timeout,DAZN 4 Spain
+http://163.172.40.244/nm/m3u8/448
+#EXTINF:-1 tvg-id=i"DAZN F1 ES" status=timeout,DAZN F1 ES
+http://163.172.40.244/nm/m3u8/537
+#EXTINF:-1 tvg-id=i"DAZN LaLiga" status=timeout,DAZN LaLiga
+http://163.172.40.244/nm/m3u8/538
+#EXTINF:-1 tvg-id=i"DAZN LaLiga 2" status=timeout,DAZN LaLiga 2
+http://163.172.40.244/nm/m3u8/43
+#EXTINF:-1 tvg-id=i"DR1 Denmark" status=timeout,DR1 Denmark
+http://163.172.40.244/nm/m3u8/801
+#EXTINF:-1 tvg-id=i"DR2 Denmark" status=timeout,DR2 Denmark
+http://163.172.40.244/nm/m3u8/802
+#EXTINF:-1 tvg-id=i"Digi Sport 1 Romania" status=timeout,Digi Sport 1 Romania
+http://163.172.40.244/nm/m3u8/400
+#EXTINF:-1 tvg-id=i"Digi Sport 2 Romania" status=timeout,Digi Sport 2 Romania
+http://163.172.40.244/nm/m3u8/401
+#EXTINF:-1 tvg-id=i"Digi Sport 3 Romania" status=timeout,Digi Sport 3 Romania
+http://163.172.40.244/nm/m3u8/402
+#EXTINF:-1 tvg-id=i"Digi Sport 4 Romania" status=timeout,Digi Sport 4 Romania
+http://163.172.40.244/nm/m3u8/403
+#EXTINF:-1 tvg-id=i"Diema Sport Bulgaria" status=timeout,Diema Sport Bulgaria
+http://163.172.40.244/nm/m3u8/465
+#EXTINF:-1 tvg-id=i"Diema Sport 2 Bulgaria" status=timeout,Diema Sport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/466
+#EXTINF:-1 tvg-id=i"Diema Sport 3 Bulgaria" status=timeout,Diema Sport 3 Bulgaria
+http://163.172.40.244/nm/m3u8/467
+#EXTINF:-1 tvg-id=i"Diema Bulgaria" status=timeout,Diema Bulgaria
+http://163.172.40.244/nm/m3u8/482
+#EXTINF:-1 tvg-id=i"Diema Family Bulgaria" status=timeout,Diema Family Bulgaria
+http://163.172.40.244/nm/m3u8/485
+#EXTINF:-1 tvg-id=i"Dubai Sports 1 UAE" status=timeout,Dubai Sports 1 UAE
+http://163.172.40.244/nm/m3u8/604
+#EXTINF:-1 tvg-id=i"Dubai Sports 2 UAE" status=timeout,Dubai Sports 2 UAE
+http://163.172.40.244/nm/m3u8/605
+#EXTINF:-1 tvg-id=i"Dubai Sports 3 UAE" status=timeout,Dubai Sports 3 UAE
+http://163.172.40.244/nm/m3u8/606
+#EXTINF:-1 tvg-id=i"Dubai Racing 1 UAE" status=timeout,Dubai Racing 1 UAE
+http://163.172.40.244/nm/m3u8/607
+#EXTINF:-1 tvg-id=i"Dubai Racing 2 UAE" status=timeout,Dubai Racing 2 UAE
+http://163.172.40.244/nm/m3u8/608
+#EXTINF:-1 tvg-id=i"DSTV Mzansi Magic" status=timeout,DSTV Mzansi Magic
+http://163.172.40.244/nm/m3u8/786
+#EXTINF:-1 tvg-id=i"DSTV M-Net" status=timeout,DSTV M-Net
+http://163.172.40.244/nm/m3u8/827
+#EXTINF:-1 tvg-id=i"DSTV kykNET & kie" status=timeout,DSTV kykNET & kie
+http://163.172.40.244/nm/m3u8/828
+#EXTINF:-1 tvg-id=i"Discovery Life Channel" status=timeout,Discovery Life Channel
+http://163.172.40.244/nm/m3u8/311
+#EXTINF:-1 tvg-id=i"Disney Channel" status=timeout,Disney Channel
+http://163.172.40.244/nm/m3u8/312
+#EXTINF:-1 tvg-id=i"Discovery Channel" status=timeout,Discovery Channel
+http://163.172.40.244/nm/m3u8/313
+#EXTINF:-1 tvg-id=i"Discovery Family" status=timeout,Discovery Family
+http://163.172.40.244/nm/m3u8/657
+#EXTINF:-1 tvg-id=i"Disney XD" status=timeout,Disney XD
+http://163.172.40.244/nm/m3u8/314
+#EXTINF:-1 tvg-id=i"Destination America" status=timeout,Destination America
+http://163.172.40.244/nm/m3u8/651
+#EXTINF:-1 tvg-id=i"Disney JR" status=timeout,Disney JR
+http://163.172.40.244/nm/m3u8/652
+#EXTINF:-1 tvg-id=i"Dave" status=timeout,Dave
+http://163.172.40.244/nm/m3u8/348
+#EXTINF:-1 tvg-id=i"ESPN USA" status=timeout,ESPN USA
+http://163.172.40.244/nm/m3u8/44
+#EXTINF:-1 tvg-id=i"ESPN2 USA" status=timeout,ESPN2 USA
+http://163.172.40.244/nm/m3u8/45
+#EXTINF:-1 tvg-id=i"ESPNU USA" status=timeout,ESPNU USA
+http://163.172.40.244/nm/m3u8/316
+#EXTINF:-1 tvg-id=i"ESPN 1 NL" status=timeout,ESPN 1 NL
+http://163.172.40.244/nm/m3u8/379
+#EXTINF:-1 tvg-id=i"ESPN 2 NL" status=timeout,ESPN 2 NL
+http://163.172.40.244/nm/m3u8/386
+#EXTINF:-1 tvg-id=i"Eleven Sports 1 Poland" status=timeout,Eleven Sports 1 Poland
+http://163.172.40.244/nm/m3u8/71
+#EXTINF:-1 tvg-id=i"Eleven Sports 2 Poland" status=timeout,Eleven Sports 2 Poland
+http://163.172.40.244/nm/m3u8/72
+#EXTINF:-1 tvg-id=i"Eleven Sports 3 Poland" status=timeout,Eleven Sports 3 Poland
+http://163.172.40.244/nm/m3u8/428
+#EXTINF:-1 tvg-id=i"Eleven Sports 1 Portugal" status=timeout,Eleven Sports 1 Portugal
+http://163.172.40.244/nm/m3u8/455
+#EXTINF:-1 tvg-id=i"Eleven Sports 2 Portugal" status=timeout,Eleven Sports 2 Portugal
+http://163.172.40.244/nm/m3u8/456
+#EXTINF:-1 tvg-id=i"Eleven Sports 3 Portugal" status=timeout,Eleven Sports 3 Portugal
+http://163.172.40.244/nm/m3u8/457
+#EXTINF:-1 tvg-id=i"Eleven Sports 4 Portugal" status=timeout,Eleven Sports 4 Portugal
+http://163.172.40.244/nm/m3u8/458
+#EXTINF:-1 tvg-id=i"Eleven Sports 5 Portugal" status=timeout,Eleven Sports 5 Portugal
+http://163.172.40.244/nm/m3u8/459
+#EXTINF:-1 tvg-id=i"EuroSport 1 UK" status=timeout,EuroSport 1 UK
+http://163.172.40.244/nm/m3u8/41
+#EXTINF:-1 tvg-id=i"EuroSport 2 UK" status=timeout,EuroSport 2 UK
+http://163.172.40.244/nm/m3u8/42
+#EXTINF:-1 tvg-id=i"EuroSport 1 Poland" status=timeout,EuroSport 1 Poland
+http://163.172.40.244/nm/m3u8/57
+#EXTINF:-1 tvg-id=i"EuroSport 2 Poland" status=timeout,EuroSport 2 Poland
+http://163.172.40.244/nm/m3u8/58
+#EXTINF:-1 tvg-id=i"EuroSport 1 Spain" status=timeout,EuroSport 1 Spain
+http://163.172.40.244/nm/m3u8/524
+#EXTINF:-1 tvg-id=i"EuroSport 2 Spain" status=timeout,EuroSport 2 Spain
+http://163.172.40.244/nm/m3u8/525
+#EXTINF:-1 tvg-id=i"EuroSport 1 Italy" status=timeout,EuroSport 1 Italy
+http://163.172.40.244/nm/m3u8/878
+#EXTINF:-1 tvg-id=i"EuroSport 2 Italy" status=timeout,EuroSport 2 Italy
+http://163.172.40.244/nm/m3u8/879
+#EXTINF:-1 tvg-id=i"Eurosport 1 Bulgaria" status=timeout,Eurosport 1 Bulgaria
+http://163.172.40.244/nm/m3u8/469
+#EXTINF:-1 tvg-id=i"Eurosport 2 Bulgaria" status=timeout,Eurosport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/470
+#EXTINF:-1 tvg-id=i"ESPN Premium Argentina" status=timeout,ESPN Premium Argentina
+http://163.172.40.244/nm/m3u8/387
+#EXTINF:-1 tvg-id=i"ESPN Brasil" status=timeout,ESPN Brasil
+http://163.172.40.244/nm/m3u8/81
+#EXTINF:-1 tvg-id=i"ESPN2 Brasil" status=timeout,ESPN2 Brasil
+http://163.172.40.244/nm/m3u8/82
+#EXTINF:-1 tvg-id=i"ESPN3 Brasil" status=timeout,ESPN3 Brasil
+http://163.172.40.244/nm/m3u8/83
+#EXTINF:-1 tvg-id=i"ESPN4 Brasil" status=timeout,ESPN4 Brasil
+http://163.172.40.244/nm/m3u8/85
+#EXTINF:-1 tvg-id=i"ESPN SUR" status=timeout,ESPN SUR
+http://163.172.40.244/nm/m3u8/149
+#EXTINF:-1 tvg-id=i"ESPN2 SUR" status=timeout,ESPN2 SUR
+http://163.172.40.244/nm/m3u8/150
+#EXTINF:-1 tvg-id=i"ESPN Deportes" status=timeout,ESPN Deportes
+http://163.172.40.244/nm/m3u8/375
+#EXTINF:-1 tvg-id=i"ESPNews" status=timeout,ESPNews
+http://163.172.40.244/nm/m3u8/288
+#EXTINF:-1 tvg-id=i"E! Entertainment Television" status=timeout,E! Entertainment Television
+http://163.172.40.244/nm/m3u8/315
+#EXTINF:-1 tvg-id=i"E4 Channel" status=timeout,E4 Channel
+http://163.172.40.244/nm/m3u8/363
+#EXTINF:-1 tvg-id=i"Fox Sports 1 USA" status=timeout,Fox Sports 1 USA
+http://163.172.40.244/nm/m3u8/39
+#EXTINF:-1 tvg-id=i"Fox Sports 2 USA" status=timeout,Fox Sports 2 USA
+http://163.172.40.244/nm/m3u8/758
+#EXTINF:-1 tvg-id=i"FOX Soccer Plus" status=timeout,FOX Soccer Plus
+http://163.172.40.244/nm/m3u8/756
+#EXTINF:-1 tvg-id=i"Fox Cricket" status=timeout,Fox Cricket
+http://163.172.40.244/nm/m3u8/369
+#EXTINF:-1 tvg-id=i"FOX Deportes USA" status=timeout,FOX Deportes USA
+http://163.172.40.244/nm/m3u8/643
+#EXTINF:-1 tvg-id=i"FOX Sports 502 AU" status=timeout,FOX Sports 502 AU
+http://163.172.40.244/nm/m3u8/820
+#EXTINF:-1 tvg-id=i"FOX Sports 503 AU" status=timeout,FOX Sports 503 AU
+http://163.172.40.244/nm/m3u8/821
+#EXTINF:-1 tvg-id=i"FOX Sports 504 AU" status=timeout,FOX Sports 504 AU
+http://163.172.40.244/nm/m3u8/822
+#EXTINF:-1 tvg-id=i"FOX Sports 505 AU" status=timeout,FOX Sports 505 AU
+http://163.172.40.244/nm/m3u8/823
+#EXTINF:-1 tvg-id=i"FOX Sports 506 AU" status=timeout,FOX Sports 506 AU
+http://163.172.40.244/nm/m3u8/824
+#EXTINF:-1 tvg-id=i"FOX Sports 507 AU" status=timeout,FOX Sports 507 AU
+http://163.172.40.244/nm/m3u8/825
+#EXTINF:-1 tvg-id=i"Fox Sports Argentina" status=timeout,Fox Sports Argentina
+http://163.172.40.244/nm/m3u8/767
+#EXTINF:-1 tvg-id=i"Fox Sports 2 Argentina" status=timeout,Fox Sports 2 Argentina
+http://163.172.40.244/nm/m3u8/788
+#EXTINF:-1 tvg-id=i"Fox Sports 3 Argentina" status=timeout,Fox Sports 3 Argentina
+http://163.172.40.244/nm/m3u8/789
+#EXTINF:-1 tvg-id=i"Fox Sports Premium MX" status=timeout,Fox Sports Premium MX
+http://163.172.40.244/nm/m3u8/830
+#EXTINF:-1 tvg-id=i"FilmBox Premium Poland" status=timeout,FilmBox Premium Poland
+http://163.172.40.244/nm/m3u8/568
+#EXTINF:-1 tvg-id=i"Fight Network" status=timeout,Fight Network
+http://163.172.40.244/nm/m3u8/757
+#EXTINF:-1 tvg-id=i"Fox Business" status=timeout,Fox Business
+http://163.172.40.244/nm/m3u8/297
+#EXTINF:-1 tvg-id=i"FOX HD Bulgaria" status=timeout,FOX HD Bulgaria
+http://163.172.40.244/nm/m3u8/483
+#EXTINF:-1 tvg-id=i"FOX USA" status=timeout,FOX USA
+http://163.172.40.244/nm/m3u8/54
+#EXTINF:-1 tvg-id=i"FX USA" status=timeout,FX USA
+http://163.172.40.244/nm/m3u8/317
+#EXTINF:-1 tvg-id=i"FXX USA" status=timeout,FXX USA
+http://163.172.40.244/nm/m3u8/298
+#EXTINF:-1 tvg-id=i"Freeform" status=timeout,Freeform
+http://163.172.40.244/nm/m3u8/301
+#EXTINF:-1 tvg-id=i"Fox News" status=timeout,Fox News
+http://163.172.40.244/nm/m3u8/347
+#EXTINF:-1 tvg-id=i"FX Movie Channel" status=timeout,FX Movie Channel
+http://163.172.40.244/nm/m3u8/381
+#EXTINF:-1 tvg-id=i"FYI" status=timeout,FYI
+http://163.172.40.244/nm/m3u8/665
+#EXTINF:-1 tvg-id=i"Film4 UK" status=timeout,Film4 UK
+http://163.172.40.244/nm/m3u8/688
+#EXTINF:-1 tvg-id=i"Fashion TV" status=timeout,Fashion TV
+http://163.172.40.244/nm/m3u8/744
+#EXTINF:-1 tvg-id=i"FETV - Family Entertainment Television" status=timeout,FETV - Family Entertainment Television
+http://163.172.40.244/nm/m3u8/751
+#EXTINF:-1 tvg-id=i"FOXNY USA" status=timeout,FOXNY USA
+http://163.172.40.244/nm/m3u8/768
+#EXTINF:-1 tvg-id=i"Fox Weather Channel" status=timeout,Fox Weather Channel
+http://163.172.40.244/nm/m3u8/775
+#EXTINF:-1 tvg-id=i"GOL PLAY Spain" status=timeout,GOL PLAY Spain
+http://163.172.40.244/nm/m3u8/530
+#EXTINF:-1 tvg-id=i"GOLF Channel USA" status=timeout,GOLF Channel USA
+http://163.172.40.244/nm/m3u8/318
+#EXTINF:-1 tvg-id=i"Game Show Network" status=timeout,Game Show Network
+http://163.172.40.244/nm/m3u8/319
+#EXTINF:-1 tvg-id=i"Gol Mundial 1" status=timeout,Gol Mundial 1
+http://163.172.40.244/nm/m3u8/292
+#EXTINF:-1 tvg-id=i"Gold UK" status=timeout,Gold UK
+http://163.172.40.244/nm/m3u8/687
+#EXTINF:-1 tvg-id=i"Galavisión USA" status=timeout,Galavisión USA
+http://163.172.40.244/nm/m3u8/743
+#EXTINF:-1 tvg-id=i"CBC CA" status=timeout,CBC CA
+http://163.172.40.244/nm/m3u8/699
+#EXTINF:-1 tvg-id=i"Grit Channel" status=timeout,Grit Channel
+http://163.172.40.244/nm/m3u8/752
+#EXTINF:-1 tvg-id=i"Globo SP" status=timeout,Globo SP
+http://163.172.40.244/nm/m3u8/760
+#EXTINF:-1 tvg-id=i"Globo RIO" status=timeout,Globo RIO
+http://163.172.40.244/nm/m3u8/761
+#EXTINF:-1 tvg-id=i"Global CA" status=timeout,Global CA
+http://163.172.40.244/nm/m3u8/836
+#EXTINF:-1 tvg-id=i"The Hallmark Channel" status=timeout,The Hallmark Channel
+http://163.172.40.244/nm/m3u8/320
+#EXTINF:-1 tvg-id=i"Hallmark Movies & Mysterie" status=timeout,Hallmark Movies & Mysterie
+http://163.172.40.244/nm/m3u8/296
+#EXTINF:-1 tvg-id=i"HBO USA" status=timeout,HBO USA
+http://163.172.40.244/nm/m3u8/321
+#EXTINF:-1 tvg-id=i"HBO2 USA" status=timeout,HBO2 USA
+http://163.172.40.244/nm/m3u8/689
+#EXTINF:-1 tvg-id=i"HBO Comedy USA" status=timeout,HBO Comedy USA
+http://163.172.40.244/nm/m3u8/690
+#EXTINF:-1 tvg-id=i"HBO Family USA" status=timeout,HBO Family USA
+http://163.172.40.244/nm/m3u8/691
+#EXTINF:-1 tvg-id=i"HBO Latino USA" status=timeout,HBO Latino USA
+http://163.172.40.244/nm/m3u8/692
+#EXTINF:-1 tvg-id=i"HBO Signature USA" status=timeout,HBO Signature USA
+http://163.172.40.244/nm/m3u8/693
+#EXTINF:-1 tvg-id=i"HBO Zone USA" status=timeout,HBO Zone USA
+http://163.172.40.244/nm/m3u8/694
+#EXTINF:-1 tvg-id=i"HBO Poland" status=timeout,HBO Poland
+http://163.172.40.244/nm/m3u8/569
+#EXTINF:-1 tvg-id=i"History USA" status=timeout,History USA
+http://163.172.40.244/nm/m3u8/322
+#EXTINF:-1 tvg-id=i"Headline News" status=timeout,Headline News
+http://163.172.40.244/nm/m3u8/323
+#EXTINF:-1 tvg-id=i"HGTV" status=timeout,HGTV
+http://163.172.40.244/nm/m3u8/382
+#EXTINF:-1 tvg-id=i"HOT3 Israel" status=timeout,HOT3 Israel
+http://163.172.40.244/nm/m3u8/553
+#EXTINF:-1 tvg-id=i"HR Fernsehen DE" status=timeout,HR Fernsehen DE
+http://163.172.40.244/nm/m3u8/740
+#EXTINF:-1 tvg-id=i"ITV 1 UK" status=timeout,ITV 1 UK
+http://163.172.40.244/nm/m3u8/350
+#EXTINF:-1 tvg-id=i"ITV 2 UK" status=timeout,ITV 2 UK
+http://163.172.40.244/nm/m3u8/351
+#EXTINF:-1 tvg-id=i"ITV 3 UK" status=timeout,ITV 3 UK
+http://163.172.40.244/nm/m3u8/352
+#EXTINF:-1 tvg-id=i"ITV 4 UK" status=timeout,ITV 4 UK
+http://163.172.40.244/nm/m3u8/353
+#EXTINF:-1 tvg-id=i"Italia 1 Italy" status=timeout,Italia 1 Italy
+http://163.172.40.244/nm/m3u8/854
+#EXTINF:-1 tvg-id=i"Investigation Discovery (ID USA)" status=timeout,Investigation Discovery (ID USA)
+http://163.172.40.244/nm/m3u8/324
+#EXTINF:-1 tvg-id=i"ION USA" status=timeout,ION USA
+http://163.172.40.244/nm/m3u8/325
+#EXTINF:-1 tvg-id=i"IFC TV USA" status=timeout,IFC TV USA
+http://163.172.40.244/nm/m3u8/656
+#EXTINF:-1 tvg-id=i"Kanal 4 Denmark" status=timeout,Kanal 4 Denmark
+http://163.172.40.244/nm/m3u8/803
+#EXTINF:-1 tvg-id=i"Kanal 5 Denmark" status=timeout,Kanal 5 Denmark
+http://163.172.40.244/nm/m3u8/804
+#EXTINF:-1 tvg-id=i"Kabel Eins (Kabel 1) DE" status=timeout,Kabel Eins (Kabel 1) DE
+http://163.172.40.244/nm/m3u8/731
+#EXTINF:-1 tvg-id=i"LaLiga SmartBank TV" status=timeout,LaLiga SmartBank TV
+http://163.172.40.244/nm/m3u8/539
+#EXTINF:-1 tvg-id=i"L'Equipe France" status=timeout,L'Equipe France
+http://163.172.40.244/nm/m3u8/645
+#EXTINF:-1 tvg-id=i"La Sexta Spain" status=timeout,La Sexta Spain
+http://163.172.40.244/nm/m3u8/534
+#EXTINF:-1 tvg-id=i"Liverpool TV (LFC TV)" status=timeout,Liverpool TV (LFC TV)
+http://163.172.40.244/nm/m3u8/826
+#EXTINF:-1 tvg-id=i"Lifetime Network" status=timeout,Lifetime Network
+http://163.172.40.244/nm/m3u8/326
+#EXTINF:-1 tvg-id=i"Lifetime Movies Network" status=timeout,Lifetime Movies Network
+http://163.172.40.244/nm/m3u8/389
+#EXTINF:-1 tvg-id=i"Longhorn Network USA" status=timeout,Longhorn Network USA
+http://163.172.40.244/nm/m3u8/667
+#EXTINF:-1 tvg-id=i"La7 Italy" status=timeout,La7 Italy
+http://163.172.40.244/nm/m3u8/855
+#EXTINF:-1 tvg-id=i"LA7d HD+ Italy" status=timeout,LA7d HD+ Italy
+http://163.172.40.244/nm/m3u8/856
+#EXTINF:-1 tvg-id=i"Match Football 1 Russia" status=timeout,Match Football 1 Russia
+http://163.172.40.244/nm/m3u8/136
+#EXTINF:-1 tvg-id=i"Match Football 2 Russia" status=timeout,Match Football 2 Russia
+http://163.172.40.244/nm/m3u8/137
+#EXTINF:-1 tvg-id=i"Match Football 3 Russia" status=timeout,Match Football 3 Russia
+http://163.172.40.244/nm/m3u8/138
+#EXTINF:-1 tvg-id=i"Match Premier Russia" status=timeout,Match Premier Russia
+http://163.172.40.244/nm/m3u8/573
+#EXTINF:-1 tvg-id=i"Match TV Russia" status=timeout,Match TV Russia
+http://163.172.40.244/nm/m3u8/127
+#EXTINF:-1 tvg-id=i"МАТЧ! БОЕЦ Russia" status=timeout,МАТЧ! БОЕЦ Russia
+http://163.172.40.244/nm/m3u8/395
+#EXTINF:-1 tvg-id=i"Movistar Laliga" status=timeout,Movistar Laliga
+http://163.172.40.244/nm/m3u8/84
+#EXTINF:-1 tvg-id=i"Movistar Liga de Campeones" status=timeout,Movistar Liga de Campeones
+http://163.172.40.244/nm/m3u8/435
+#EXTINF:-1 tvg-id=i"Movistar Deportes Spain" status=timeout,Movistar Deportes Spain
+http://163.172.40.244/nm/m3u8/436
+#EXTINF:-1 tvg-id=i"Movistar Deportes 2 Spain" status=timeout,Movistar Deportes 2 Spain
+http://163.172.40.244/nm/m3u8/438
+#EXTINF:-1 tvg-id=i"Movistar Deportes 3 Spain" status=timeout,Movistar Deportes 3 Spain
+http://163.172.40.244/nm/m3u8/526
+#EXTINF:-1 tvg-id=i"Movistar Deportes 4 Spain" status=timeout,Movistar Deportes 4 Spain
+http://163.172.40.244/nm/m3u8/527
+#EXTINF:-1 tvg-id=i"Movistar Golf Spain" status=timeout,Movistar Golf Spain
+http://163.172.40.244/nm/m3u8/528
+#EXTINF:-1 tvg-id=i"Motowizja Poland" status=timeout,Motowizja Poland
+http://163.172.40.244/nm/m3u8/563
+#EXTINF:-1 tvg-id=i"MSG USA" status=timeout,MSG USA
+http://163.172.40.244/nm/m3u8/765
+#EXTINF:-1 tvg-id=i"MSNBC" status=timeout,MSNBC
+http://163.172.40.244/nm/m3u8/327
+#EXTINF:-1 tvg-id=i"Magnolia Network" status=timeout,Magnolia Network
+http://163.172.40.244/nm/m3u8/299
+#EXTINF:-1 tvg-id=i"MTV UK" status=timeout,MTV UK
+http://163.172.40.244/nm/m3u8/367
+#EXTINF:-1 tvg-id=i"MTV USA" status=timeout,MTV USA
+http://163.172.40.244/nm/m3u8/371
+#EXTINF:-1 tvg-id=i"MUTV UK" status=timeout,MUTV UK
+http://163.172.40.244/nm/m3u8/377
+#EXTINF:-1 tvg-id=i"MAVTV USA" status=timeout,MAVTV USA
+http://163.172.40.244/nm/m3u8/646
+#EXTINF:-1 tvg-id=i"Max Sport 1 Croatia" status=timeout,Max Sport 1 Croatia
+http://163.172.40.244/nm/m3u8/779
+#EXTINF:-1 tvg-id=i"Max Sport 2 Croatia" status=timeout,Max Sport 2 Croatia
+http://163.172.40.244/nm/m3u8/780
+#EXTINF:-1 tvg-id=i"Marquee Sports Network" status=timeout,Marquee Sports Network
+http://163.172.40.244/nm/m3u8/770
+#EXTINF:-1 tvg-id=i"Max Sport 1 Bulgaria" status=timeout,Max Sport 1 Bulgaria
+http://163.172.40.244/nm/m3u8/472
+#EXTINF:-1 tvg-id=i"Max Sport 2 Bulgaria" status=timeout,Max Sport 2 Bulgaria
+http://163.172.40.244/nm/m3u8/473
+#EXTINF:-1 tvg-id=i"Max Sport 3 Bulgaria" status=timeout,Max Sport 3 Bulgaria
+http://163.172.40.244/nm/m3u8/474
+#EXTINF:-1 tvg-id=i"Max Sport 4 Bulgaria" status=timeout,Max Sport 4 Bulgaria
+http://163.172.40.244/nm/m3u8/475
+#EXTINF:-1 tvg-id=i"MLB Network USA" status=timeout,MLB Network USA
+http://163.172.40.244/nm/m3u8/399
+#EXTINF:-1 tvg-id=i"MASN USA" status=timeout,MASN USA
+http://163.172.40.244/nm/m3u8/829
+#EXTINF:-1 tvg-id=i"MY9TV USA" status=timeout,MY9TV USA
+http://163.172.40.244/nm/m3u8/654
+#EXTINF:-1 tvg-id=i"Motor Trend" status=timeout,Motor Trend
+http://163.172.40.244/nm/m3u8/661
+#EXTINF:-1 tvg-id=i"METV USA" status=timeout,METV USA
+http://163.172.40.244/nm/m3u8/662
+#EXTINF:-1 tvg-id=i"MDR DE" status=timeout,MDR DE
+http://163.172.40.244/nm/m3u8/733
+#EXTINF:-1 tvg-id=i"Mundotoro TV Spain" status=timeout,Mundotoro TV Spain
+http://163.172.40.244/nm/m3u8/749
+#EXTINF:-1 tvg-id=i"MTV Denmark" status=timeout,MTV Denmark
+http://163.172.40.244/nm/m3u8/806
+#EXTINF:-1 tvg-id=i"NHL Network USA" status=timeout,NHL Network USA
+http://163.172.40.244/nm/m3u8/663
+#EXTINF:-1 tvg-id=i"Nova Sport Bulgaria" status=timeout,Nova Sport Bulgaria
+http://163.172.40.244/nm/m3u8/468
+#EXTINF:-1 tvg-id=i"Nova Sport Serbia" status=timeout,Nova Sport Serbia
+http://163.172.40.244/nm/m3u8/582
+#EXTINF:-1 tvg-id=i"Nova Sports 1 Greece" status=timeout,Nova Sports 1 Greece
+http://163.172.40.244/nm/m3u8/631
+#EXTINF:-1 tvg-id=i"Nova Sports 2 Greece" status=timeout,Nova Sports 2 Greece
+http://163.172.40.244/nm/m3u8/632
+#EXTINF:-1 tvg-id=i"Nova Sports 3 Greece" status=timeout,Nova Sports 3 Greece
+http://163.172.40.244/nm/m3u8/633
+#EXTINF:-1 tvg-id=i"Nova Sports 4 Greece" status=timeout,Nova Sports 4 Greece
+http://163.172.40.244/nm/m3u8/634
+#EXTINF:-1 tvg-id=i"Nova Sports 5 Greece" status=timeout,Nova Sports 5 Greece
+http://163.172.40.244/nm/m3u8/635
+#EXTINF:-1 tvg-id=i"Nova Sports 6 Greece" status=timeout,Nova Sports 6 Greece
+http://163.172.40.244/nm/m3u8/636
+#EXTINF:-1 tvg-id=i"Nova Sports Premier League Greece" status=timeout,Nova Sports Premier League Greece
+http://163.172.40.244/nm/m3u8/599
+#EXTINF:-1 tvg-id=i"Nova Sports Start Greece" status=timeout,Nova Sports Start Greece
+http://163.172.40.244/nm/m3u8/637
+#EXTINF:-1 tvg-id=i"Nova Sports Prime Greece" status=timeout,Nova Sports Prime Greece
+http://163.172.40.244/nm/m3u8/638
+#EXTINF:-1 tvg-id=i"Nova Sports News Greece" status=timeout,Nova Sports News Greece
+http://163.172.40.244/nm/m3u8/639
+#EXTINF:-1 tvg-id=i"NESN USA" status=timeout,NESN USA
+http://163.172.40.244/nm/m3u8/762
+#EXTINF:-1 tvg-id=i"NBC USA" status=timeout,NBC USA
+http://163.172.40.244/nm/m3u8/53
+#EXTINF:-1 tvg-id=i"NBA TV USA" status=timeout,NBA TV USA
+http://163.172.40.244/nm/m3u8/404
+#EXTINF:-1 tvg-id=i"NBC Sports Chicago" status=timeout,NBC Sports Chicago
+http://163.172.40.244/nm/m3u8/776
+#EXTINF:-1 tvg-id=i"NBC Sports Philadelphia" status=timeout,NBC Sports Philadelphia
+http://163.172.40.244/nm/m3u8/777
+#EXTINF:-1 tvg-id=i"NBC Sports Washington" status=timeout,NBC Sports Washington
+http://163.172.40.244/nm/m3u8/778
+#EXTINF:-1 tvg-id=i"NFL Network" status=timeout,NFL Network
+http://163.172.40.244/nm/m3u8/405
+#EXTINF:-1 tvg-id=i"NBC Sports Bay Area" status=timeout,NBC Sports Bay Area
+http://163.172.40.244/nm/m3u8/753
+#EXTINF:-1 tvg-id=i"NBC Sports Boston" status=timeout,NBC Sports Boston
+http://163.172.40.244/nm/m3u8/754
+#EXTINF:-1 tvg-id=i"NBC Sports California" status=timeout,NBC Sports California
+http://163.172.40.244/nm/m3u8/755
+#EXTINF:-1 tvg-id=i"NBCNY USA" status=timeout,NBCNY USA
+http://163.172.40.244/nm/m3u8/769
+#EXTINF:-1 tvg-id=i"Nova TV Bulgaria" status=timeout,Nova TV Bulgaria
+http://163.172.40.244/nm/m3u8/480
+#EXTINF:-1 tvg-id=i"National Geographic (NGC)" status=timeout,National Geographic (NGC)
+http://163.172.40.244/nm/m3u8/328
+#EXTINF:-1 tvg-id=i"NICK JR" status=timeout,NICK JR
+http://163.172.40.244/nm/m3u8/329
+#EXTINF:-1 tvg-id=i"NICK" status=timeout,NICK
+http://163.172.40.244/nm/m3u8/330
+#EXTINF:-1 tvg-id=i"Nick Music" status=timeout,Nick Music
+http://163.172.40.244/nm/m3u8/666
+#EXTINF:-1 tvg-id=i"Nicktoons" status=timeout,Nicktoons
+http://163.172.40.244/nm/m3u8/649
+#EXTINF:-1 tvg-id=i"NDR DE" status=timeout,NDR DE
+http://163.172.40.244/nm/m3u8/736
+#EXTINF:-1 tvg-id=i"NewsNation USA" status=timeout,NewsNation USA
+http://163.172.40.244/nm/m3u8/292
+#EXTINF:-1 tvg-id=i"Newsmax USA" status=timeout,Newsmax USA
+http://163.172.40.244/nm/m3u8/613
+#EXTINF:-1 tvg-id=i"Nat Geo Wild USA" status=timeout,Nat Geo Wild USA
+http://163.172.40.244/nm/m3u8/745
+#EXTINF:-1 tvg-id=i"Noovo CA" status=timeout,Noovo CA
+http://163.172.40.244/nm/m3u8/835
+#EXTINF:-1 tvg-id=i"New! CWPIX 11" status=timeout,New! CWPIX 11
+http://163.172.40.244/nm/m3u8/771
+#EXTINF:-1 tvg-id=i"OnTime Sports" status=timeout,OnTime Sports
+http://163.172.40.244/nm/m3u8/611
+#EXTINF:-1 tvg-id=i"OnTime Sports 2" status=timeout,OnTime Sports 2
+http://163.172.40.244/nm/m3u8/612
+#EXTINF:-1 tvg-id=i"ONE 1 HD Israel" status=timeout,ONE 1 HD Israel
+http://163.172.40.244/nm/m3u8/541
+#EXTINF:-1 tvg-id=i"ONE 2 HD Israel" status=timeout,ONE 2 HD Israel
+http://163.172.40.244/nm/m3u8/542
+#EXTINF:-1 tvg-id=i"Orange Sport 1 Romania" status=timeout,Orange Sport 1 Romania
+http://163.172.40.244/nm/m3u8/439
+#EXTINF:-1 tvg-id=i"Orange Sport 2 Romania" status=timeout,Orange Sport 2 Romania
+http://163.172.40.244/nm/m3u8/440
+#EXTINF:-1 tvg-id=i"Orange Sport 3 Romania" status=timeout,Orange Sport 3 Romania
+http://163.172.40.244/nm/m3u8/441
+#EXTINF:-1 tvg-id=i"Orange Sport 4 Romania" status=timeout,Orange Sport 4 Romania
+http://163.172.40.244/nm/m3u8/442
+#EXTINF:-1 tvg-id=i"Oprah Winfrey Network (OWN)" status=timeout,Oprah Winfrey Network (OWN)
+http://163.172.40.244/nm/m3u8/331
+#EXTINF:-1 tvg-id=i"Oxygen True Crime" status=timeout,Oxygen True Crime
+http://163.172.40.244/nm/m3u8/332
+#EXTINF:-1 tvg-id=i"Polsat Poland" status=timeout,Polsat Poland
+http://163.172.40.244/nm/m3u8/562
+#EXTINF:-1 tvg-id=i"Polsat Sport Poland" status=timeout,Polsat Sport Poland
+http://163.172.40.244/nm/m3u8/47
+#EXTINF:-1 tvg-id=i"Polsat Sport Extra Poland" status=timeout,Polsat Sport Extra Poland
+http://163.172.40.244/nm/m3u8/50
+#EXTINF:-1 tvg-id=i"Polsat Sport News Poland" status=timeout,Polsat Sport News Poland
+http://163.172.40.244/nm/m3u8/129
+#EXTINF:-1 tvg-id=i"Polsat News Poland" status=timeout,Polsat News Poland
+http://163.172.40.244/nm/m3u8/443
+#EXTINF:-1 tvg-id=i"Polsat Film Poland" status=timeout,Polsat Film Poland
+http://163.172.40.244/nm/m3u8/564
+#EXTINF:-1 tvg-id=i"Porto Canal Portugal" status=timeout,Porto Canal Portugal
+http://163.172.40.244/nm/m3u8/718
+#EXTINF:-1 tvg-id=i"ProSieben (PRO7) DE" status=timeout,ProSieben (PRO7) DE
+http://163.172.40.244/nm/m3u8/730
+#EXTINF:-1 tvg-id=i"PTV Sports" status=timeout,PTV Sports
+http://163.172.40.244/nm/m3u8/450
+#EXTINF:-1 tvg-id=i"Premier Brasil" status=timeout,Premier Brasil
+http://163.172.40.244/nm/m3u8/88
+#EXTINF:-1 tvg-id=i"Prima Sport 1" status=timeout,Prima Sport 1
+http://163.172.40.244/nm/m3u8/583
+#EXTINF:-1 tvg-id=i"Prima Sport 2" status=timeout,Prima Sport 2
+http://163.172.40.244/nm/m3u8/584
+#EXTINF:-1 tvg-id=i"Prima Sport 3" status=timeout,Prima Sport 3
+http://163.172.40.244/nm/m3u8/585
+#EXTINF:-1 tvg-id=i"Prima Sport 4" status=timeout,Prima Sport 4
+http://163.172.40.244/nm/m3u8/586
+#EXTINF:-1 tvg-id=i"Paramount Network" status=timeout,Paramount Network
+http://163.172.40.244/nm/m3u8/334
+#EXTINF:-1 tvg-id=i"POP TV USA" status=timeout,POP TV USA
+http://163.172.40.244/nm/m3u8/653
+#EXTINF:-1 tvg-id=i"RTE 1" status=timeout,RTE 1
+http://163.172.40.244/nm/m3u8/364
+#EXTINF:-1 tvg-id=i"RTE 2" status=timeout,RTE 2
+http://163.172.40.244/nm/m3u8/365
+#EXTINF:-1 tvg-id=i"RMC Sport 1 France" status=timeout,RMC Sport 1 France
+http://163.172.40.244/nm/m3u8/119
+#EXTINF:-1 tvg-id=i"RMC Sport 2 France" status=timeout,RMC Sport 2 France
+http://163.172.40.244/nm/m3u8/120
+#EXTINF:-1 tvg-id=i"RTP 1 Portugal" status=timeout,RTP 1 Portugal
+http://163.172.40.244/nm/m3u8/719
+#EXTINF:-1 tvg-id=i"RTP 2 Portugal" status=timeout,RTP 2 Portugal
+http://163.172.40.244/nm/m3u8/720
+#EXTINF:-1 tvg-id=i"RTP 3 Portugal" status=timeout,RTP 3 Portugal
+http://163.172.40.244/nm/m3u8/721
+#EXTINF:-1 tvg-id=i"Rai 1 Italy" status=timeout,Rai 1 Italy
+http://163.172.40.244/nm/m3u8/850
+#EXTINF:-1 tvg-id=i"Rai 2 Italy" status=timeout,Rai 2 Italy
+http://163.172.40.244/nm/m3u8/851
+#EXTINF:-1 tvg-id=i"Rai 3 Italy" status=timeout,Rai 3 Italy
+http://163.172.40.244/nm/m3u8/852
+#EXTINF:-1 tvg-id=i"Rai 3 Italy" status=timeout,Rai 3 Italy
+http://163.172.40.244/nm/m3u8/853
+#EXTINF:-1 tvg-id=i"Rai Sport Italy" status=timeout,Rai Sport Italy
+http://163.172.40.244/nm/m3u8/882
+#EXTINF:-1 tvg-id=i"Rai Premium Italy" status=timeout,Rai Premium Italy
+http://163.172.40.244/nm/m3u8/858
+#EXTINF:-1 tvg-id=i"Real Madrid TV Spain" status=timeout,Real Madrid TV Spain
+http://163.172.40.244/nm/m3u8/523
+#EXTINF:-1 tvg-id=i"RDS CA" status=timeout,RDS CA
+http://163.172.40.244/nm/m3u8/839
+#EXTINF:-1 tvg-id=i"RDS 2 CA" status=timeout,RDS 2 CA
+http://163.172.40.244/nm/m3u8/840
+#EXTINF:-1 tvg-id=i"RDS Info CA" status=timeout,RDS Info CA
+http://163.172.40.244/nm/m3u8/841
+#EXTINF:-1 tvg-id=i"Ring Bulgaria" status=timeout,Ring Bulgaria
+http://163.172.40.244/nm/m3u8/471
+#EXTINF:-1 tvg-id=i"RTL7 Netherland" status=timeout,RTL7 Netherland
+http://163.172.40.244/nm/m3u8/390
+#EXTINF:-1 tvg-id=i"Racing Tv UK" status=timeout,Racing Tv UK
+http://163.172.40.244/nm/m3u8/555
+#EXTINF:-1 tvg-id=i"Reelz Channel" status=timeout,Reelz Channel
+http://163.172.40.244/nm/m3u8/293
+#EXTINF:-1 tvg-id=i"Sky Sports Football UK" status=timeout,Sky Sports Football UK
+http://163.172.40.244/nm/m3u8/35
+#EXTINF:-1 tvg-id=i"Sky Sports Arena UK" status=timeout,Sky Sports Arena UK
+http://163.172.40.244/nm/m3u8/36
+#EXTINF:-1 tvg-id=i"Sky Sports Action UK" status=timeout,Sky Sports Action UK
+http://163.172.40.244/nm/m3u8/37
+#EXTINF:-1 tvg-id=i"Sky Sports Main Event" status=timeout,Sky Sports Main Event
+http://163.172.40.244/nm/m3u8/38
+#EXTINF:-1 tvg-id=i"Sky sports Premier League" status=timeout,Sky sports Premier League
+http://163.172.40.244/nm/m3u8/130
+#EXTINF:-1 tvg-id=i"Sky Sports F1 UK" status=timeout,Sky Sports F1 UK
+http://163.172.40.244/nm/m3u8/60
+#EXTINF:-1 tvg-id=i"Sky Sports Cricket" status=timeout,Sky Sports Cricket
+http://163.172.40.244/nm/m3u8/65
+#EXTINF:-1 tvg-id=i"Sky Sports Golf UK" status=timeout,Sky Sports Golf UK
+http://163.172.40.244/nm/m3u8/70
+#EXTINF:-1 tvg-id=i"Sky Sports Golf Italy" status=timeout,Sky Sports Golf Italy
+http://163.172.40.244/nm/m3u8/574
+#EXTINF:-1 tvg-id=i"Sky Sport MotoGP Italy" status=timeout,Sky Sport MotoGP Italy
+http://163.172.40.244/nm/m3u8/575
+#EXTINF:-1 tvg-id=i"Sky Sport Tennis Italy" status=timeout,Sky Sport Tennis Italy
+http://163.172.40.244/nm/m3u8/576
+#EXTINF:-1 tvg-id=i"Sky Sport F1 Italy" status=timeout,Sky Sport F1 Italy
+http://163.172.40.244/nm/m3u8/577
+#EXTINF:-1 tvg-id=i"Sky Sports News UK" status=timeout,Sky Sports News UK
+http://163.172.40.244/nm/m3u8/366
+#EXTINF:-1 tvg-id=i"Sky Sports MIX UK" status=timeout,Sky Sports MIX UK
+http://163.172.40.244/nm/m3u8/449
+#EXTINF:-1 tvg-id=i"Sky Sport Top Event DE" status=timeout,Sky Sport Top Event DE
+http://163.172.40.244/nm/m3u8/556
+#EXTINF:-1 tvg-id=i"Sky Sport Mix DE" status=timeout,Sky Sport Mix DE
+http://163.172.40.244/nm/m3u8/557
+#EXTINF:-1 tvg-id=i"Sky Sport Bundesliga 1 HD" status=timeout,Sky Sport Bundesliga 1 HD
+http://163.172.40.244/nm/m3u8/558
+#EXTINF:-1 tvg-id=i"Sky Sport Austria 1 HD" status=timeout,Sky Sport Austria 1 HD
+http://163.172.40.244/nm/m3u8/559
+#EXTINF:-1 tvg-id=i"SportsNet New York (SNY)" status=timeout,SportsNet New York (SNY)
+http://163.172.40.244/nm/m3u8/759
+#EXTINF:-1 tvg-id=i"Sky Sport Football Italy" status=timeout,Sky Sport Football Italy
+http://163.172.40.244/nm/m3u8/460
+#EXTINF:-1 tvg-id=i"Sky Sport UNO Italy" status=timeout,Sky Sport UNO Italy
+http://163.172.40.244/nm/m3u8/461
+#EXTINF:-1 tvg-id=i"Sky Sport Arena Italy" status=timeout,Sky Sport Arena Italy
+http://163.172.40.244/nm/m3u8/462
+#EXTINF:-1 tvg-id=i"Sky Sports Racing UK" status=timeout,Sky Sports Racing UK
+http://163.172.40.244/nm/m3u8/554
+#EXTINF:-1 tvg-id=i"Sky UNO Italy" status=timeout,Sky UNO Italy
+http://163.172.40.244/nm/m3u8/881
+#EXTINF:-1 tvg-id=i"Sky Sport 1 NZ" status=timeout,Sky Sport 1 NZ
+http://163.172.40.244/nm/m3u8/588
+#EXTINF:-1 tvg-id=i"Sky Sport 2 NZ" status=timeout,Sky Sport 2 NZ
+http://163.172.40.244/nm/m3u8/589
+#EXTINF:-1 tvg-id=i"Sky Sport 3 NZ" status=timeout,Sky Sport 3 NZ
+http://163.172.40.244/nm/m3u8/590
+#EXTINF:-1 tvg-id=i"Sky Sport 4 NZ" status=timeout,Sky Sport 4 NZ
+http://163.172.40.244/nm/m3u8/591
+#EXTINF:-1 tvg-id=i"Sky Sport 5 NZ" status=timeout,Sky Sport 5 NZ
+http://163.172.40.244/nm/m3u8/592
+#EXTINF:-1 tvg-id=i"Sky Sport 6 NZ" status=timeout,Sky Sport 6 NZ
+http://163.172.40.244/nm/m3u8/593
+#EXTINF:-1 tvg-id=i"Sky Sport 7 NZ" status=timeout,Sky Sport 7 NZ
+http://163.172.40.244/nm/m3u8/594
+#EXTINF:-1 tvg-id=i"Sky Sport 8 NZ" status=timeout,Sky Sport 8 NZ
+http://163.172.40.244/nm/m3u8/595
+#EXTINF:-1 tvg-id=i"Sky Sport 9 NZ" status=timeout,Sky Sport 9 NZ
+http://163.172.40.244/nm/m3u8/596
+#EXTINF:-1 tvg-id=i"Sky Sport Select NZ" status=timeout,Sky Sport Select NZ
+http://163.172.40.244/nm/m3u8/587
+#EXTINF:-1 tvg-id=i"Sport TV1 Portugal" status=timeout,Sport TV1 Portugal
+http://163.172.40.244/nm/m3u8/49
+#EXTINF:-1 tvg-id=i"Sport TV2 Portugal" status=timeout,Sport TV2 Portugal
+http://163.172.40.244/nm/m3u8/74
+#EXTINF:-1 tvg-id=i"Sport TV4 Portugal" status=timeout,Sport TV4 Portugal
+http://163.172.40.244/nm/m3u8/289
+#EXTINF:-1 tvg-id=i"Sport TV3 Portugal" status=timeout,Sport TV3 Portugal
+http://163.172.40.244/nm/m3u8/454
+#EXTINF:-1 tvg-id=i"Sport TV5 Portugal" status=timeout,Sport TV5 Portugal
+http://163.172.40.244/nm/m3u8/290
+#EXTINF:-1 tvg-id=i"Sport TV6 Portugal" status=timeout,Sport TV6 Portugal
+http://163.172.40.244/nm/m3u8/291
+#EXTINF:-1 tvg-id=i"SIC Portugal" status=timeout,SIC Portugal
+http://163.172.40.244/nm/m3u8/722
+#EXTINF:-1 tvg-id=i"SEC Network USA" status=timeout,SEC Network USA
+http://163.172.40.244/nm/m3u8/385
+#EXTINF:-1 tvg-id=i"SporTV Brasil" status=timeout,SporTV Brasil
+http://163.172.40.244/nm/m3u8/78
+#EXTINF:-1 tvg-id=i"SporTV2 Brasil" status=timeout,SporTV2 Brasil
+http://163.172.40.244/nm/m3u8/79
+#EXTINF:-1 tvg-id=i"SporTV3 Brasil" status=timeout,SporTV3 Brasil
+http://163.172.40.244/nm/m3u8/80
+#EXTINF:-1 tvg-id=i"Sport Klub 1 Serbia" status=timeout,Sport Klub 1 Serbia
+http://163.172.40.244/nm/m3u8/101
+#EXTINF:-1 tvg-id=i"Sport Klub 2 Serbia" status=timeout,Sport Klub 2 Serbia
+http://163.172.40.244/nm/m3u8/102
+#EXTINF:-1 tvg-id=i"Sport Klub 3 Serbia" status=timeout,Sport Klub 3 Serbia
+http://163.172.40.244/nm/m3u8/103
+#EXTINF:-1 tvg-id=i"Sport Klub 4 Serbia" status=timeout,Sport Klub 4 Serbia
+http://163.172.40.244/nm/m3u8/104
+#EXTINF:-1 tvg-id=i"Sport Klub HD Serbia" status=timeout,Sport Klub HD Serbia
+http://163.172.40.244/nm/m3u8/453
+#EXTINF:-1 tvg-id=i"Sportsnet Ontario" status=timeout,Sportsnet Ontario
+http://163.172.40.244/nm/m3u8/406
+#EXTINF:-1 tvg-id=i"Sportsnet One" status=timeout,Sportsnet One
+http://163.172.40.244/nm/m3u8/411
+#EXTINF:-1 tvg-id=i"Sportsnet West" status=timeout,Sportsnet West
+http://163.172.40.244/nm/m3u8/407
+#EXTINF:-1 tvg-id=i"Sportsnet East" status=timeout,Sportsnet East
+http://163.172.40.244/nm/m3u8/408
+#EXTINF:-1 tvg-id=i"Sportsnet 360" status=timeout,Sportsnet 360
+http://163.172.40.244/nm/m3u8/409
+#EXTINF:-1 tvg-id=i"Sportsnet World" status=timeout,Sportsnet World
+http://163.172.40.244/nm/m3u8/410
+#EXTINF:-1 tvg-id=i"SuperSport Grandstand" status=timeout,SuperSport Grandstand
+http://163.172.40.244/nm/m3u8/412
+#EXTINF:-1 tvg-id=i"SuperSport PSL" status=timeout,SuperSport PSL
+http://163.172.40.244/nm/m3u8/413
+#EXTINF:-1 tvg-id=i"SuperSport Premier league" status=timeout,SuperSport Premier league
+http://163.172.40.244/nm/m3u8/414
+#EXTINF:-1 tvg-id=i"SuperSport LaLiga" status=timeout,SuperSport LaLiga
+http://163.172.40.244/nm/m3u8/415
+#EXTINF:-1 tvg-id=i"SuperSport Variety 1" status=timeout,SuperSport Variety 1
+http://163.172.40.244/nm/m3u8/416
+#EXTINF:-1 tvg-id=i"SuperSport Variety 2" status=timeout,SuperSport Variety 2
+http://163.172.40.244/nm/m3u8/417
+#EXTINF:-1 tvg-id=i"SuperSport Variety 3" status=timeout,SuperSport Variety 3
+http://163.172.40.244/nm/m3u8/418
+#EXTINF:-1 tvg-id=i"SuperSport Variety 4" status=timeout,SuperSport Variety 4
+http://163.172.40.244/nm/m3u8/419
+#EXTINF:-1 tvg-id=i"SuperSport Action" status=timeout,SuperSport Action
+http://163.172.40.244/nm/m3u8/420
+#EXTINF:-1 tvg-id=i"SuperSport Rugby" status=timeout,SuperSport Rugby
+http://163.172.40.244/nm/m3u8/421
+#EXTINF:-1 tvg-id=i"SuperSport Golf" status=timeout,SuperSport Golf
+http://163.172.40.244/nm/m3u8/422
+#EXTINF:-1 tvg-id=i"SuperSport Tennis" status=timeout,SuperSport Tennis
+http://163.172.40.244/nm/m3u8/423
+#EXTINF:-1 tvg-id=i"SuperSport Motorsport" status=timeout,SuperSport Motorsport
+http://163.172.40.244/nm/m3u8/424
+#EXTINF:-1 tvg-id=i"Supersport Football" status=timeout,Supersport Football
+http://163.172.40.244/nm/m3u8/56
+#EXTINF:-1 tvg-id=i"SuperSport Cricket" status=timeout,SuperSport Cricket
+http://163.172.40.244/nm/m3u8/368
+#EXTINF:-1 tvg-id=i"SuperSport MaXimo 1" status=timeout,SuperSport MaXimo 1
+http://163.172.40.244/nm/m3u8/572
+#EXTINF:-1 tvg-id=i"Sporting TV Portugal" status=timeout,Sporting TV Portugal
+http://163.172.40.244/nm/m3u8/716
+#EXTINF:-1 tvg-id=i"SportDigital Fussball" status=timeout,SportDigital Fussball
+http://163.172.40.244/nm/m3u8/571
+#EXTINF:-1 tvg-id=i"Spectrum Sportsnet LA" status=timeout,Spectrum Sportsnet LA
+http://163.172.40.244/nm/m3u8/764
+#EXTINF:-1 tvg-id=i"Sport1+ Germany" status=timeout,Sport1+ Germany
+http://163.172.40.244/nm/m3u8/640
+#EXTINF:-1 tvg-id=i"Sport1 Germany" status=timeout,Sport1 Germany
+http://163.172.40.244/nm/m3u8/641
+#EXTINF:-1 tvg-id=i"S4C UK" status=timeout,S4C UK
+http://163.172.40.244/nm/m3u8/670
+#EXTINF:-1 tvg-id=i"SAT.1 DE" status=timeout,SAT.1 DE
+http://163.172.40.244/nm/m3u8/729
+#EXTINF:-1 tvg-id=i"Sky Cinema Premiere UK" status=timeout,Sky Cinema Premiere UK
+http://163.172.40.244/nm/m3u8/671
+#EXTINF:-1 tvg-id=i"Sky Cinema Select UK" status=timeout,Sky Cinema Select UK
+http://163.172.40.244/nm/m3u8/672
+#EXTINF:-1 tvg-id=i"Sky Cinema Hits UK" status=timeout,Sky Cinema Hits UK
+http://163.172.40.244/nm/m3u8/673
+#EXTINF:-1 tvg-id=i"Sky Cinema Greats UK" status=timeout,Sky Cinema Greats UK
+http://163.172.40.244/nm/m3u8/674
+#EXTINF:-1 tvg-id=i"Sky Cinema Animation UK" status=timeout,Sky Cinema Animation UK
+http://163.172.40.244/nm/m3u8/675
+#EXTINF:-1 tvg-id=i"Sky Cinema Family UK" status=timeout,Sky Cinema Family UK
+http://163.172.40.244/nm/m3u8/676
+#EXTINF:-1 tvg-id=i"Sky Cinema Action UK" status=timeout,Sky Cinema Action UK
+http://163.172.40.244/nm/m3u8/677
+#EXTINF:-1 tvg-id=i"The Hallmark" status=timeout,The Hallmark
+http://163.172.40.244/nm/m3u8/678
+#EXTINF:-1 tvg-id=i"Sky Cinema Thriller UK" status=timeout,Sky Cinema Thriller UK
+http://163.172.40.244/nm/m3u8/679
+#EXTINF:-1 tvg-id=i"The Hallmark" status=timeout,The Hallmark
+http://163.172.40.244/nm/m3u8/680
+#EXTINF:-1 tvg-id=i"Sky Cinema Sci-Fi Horror UK" status=timeout,Sky Cinema Sci-Fi Horror UK
+http://163.172.40.244/nm/m3u8/681
+#EXTINF:-1 tvg-id=i"Sky Cinema Collection Italy" status=timeout,Sky Cinema Collection Italy
+http://163.172.40.244/nm/m3u8/859
+#EXTINF:-1 tvg-id=i"Sky Cinema Uno Italy" status=timeout,Sky Cinema Uno Italy
+http://163.172.40.244/nm/m3u8/860
+#EXTINF:-1 tvg-id=i"Sky Cinema Action Italy" status=timeout,Sky Cinema Action Italy
+http://163.172.40.244/nm/m3u8/861
+#EXTINF:-1 tvg-id=i"8Sky Cinema Comedy Italy" status=timeout,8Sky Cinema Comedy Italy
+http://163.172.40.244/nm/m3u8/862
+#EXTINF:-1 tvg-id=i"Sky Cinema Uno +24 Italy" status=timeout,Sky Cinema Uno +24 Italy
+http://163.172.40.244/nm/m3u8/863
+#EXTINF:-1 tvg-id=i"Sky Cinema Romance Italy" status=timeout,Sky Cinema Romance Italy
+http://163.172.40.244/nm/m3u8/864
+#EXTINF:-1 tvg-id=i"Sky Cinema Family Italy" status=timeout,Sky Cinema Family Italy
+http://163.172.40.244/nm/m3u8/865
+#EXTINF:-1 tvg-id=i"Sky Cinema Due +24 Italy" status=timeout,Sky Cinema Due +24 Italy
+http://163.172.40.244/nm/m3u8/866
+#EXTINF:-1 tvg-id=i"Sky Cinema Drama Italy" status=timeout,Sky Cinema Drama Italy
+http://163.172.40.244/nm/m3u8/867
+#EXTINF:-1 tvg-id=i"8Sky Cinema Suspense Italy" status=timeout,8Sky Cinema Suspense Italy
+http://163.172.40.244/nm/m3u8/868
+#EXTINF:-1 tvg-id=i"Sky Sport 24 Italy" status=timeout,Sky Sport 24 Italy
+http://163.172.40.244/nm/m3u8/869
+#EXTINF:-1 tvg-id=i"Sky Sport Calcio Italy" status=timeout,Sky Sport Calcio Italy
+http://163.172.40.244/nm/m3u8/870
+#EXTINF:-1 tvg-id=i"Sky Calcio 1 (251) Italy" status=timeout,Sky Calcio 1 (251) Italy
+http://163.172.40.244/nm/m3u8/871
+#EXTINF:-1 tvg-id=i"Sky Calcio 2 (252) Italy" status=timeout,Sky Calcio 2 (252) Italy
+http://163.172.40.244/nm/m3u8/872
+#EXTINF:-1 tvg-id=i"Sky Calcio 3 (253) Italy" status=timeout,Sky Calcio 3 (253) Italy
+http://163.172.40.244/nm/m3u8/873
+#EXTINF:-1 tvg-id=i"Sky Calcio 4 (254) Italy" status=timeout,Sky Calcio 4 (254) Italy
+http://163.172.40.244/nm/m3u8/874
+#EXTINF:-1 tvg-id=i"Sky Calcio 5 (255) Italy" status=timeout,Sky Calcio 5 (255) Italy
+http://163.172.40.244/nm/m3u8/875
+#EXTINF:-1 tvg-id=i"Sky Calcio 6 (256) Italy" status=timeout,Sky Calcio 6 (256) Italy
+http://163.172.40.244/nm/m3u8/876
+#EXTINF:-1 tvg-id=i"Sky Calcio 7 (257) Italy" status=timeout,Sky Calcio 7 (257) Italy
+http://163.172.40.244/nm/m3u8/877
+#EXTINF:-1 tvg-id=i"Sky Serie Italy" status=timeout,Sky Serie Italy
+http://163.172.40.244/nm/m3u8/880
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 1 HD" status=timeout,StarzPlay CricLife 1 HD
+http://163.172.40.244/nm/m3u8/284
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 2 HD" status=timeout,StarzPlay CricLife 2 HD
+http://163.172.40.244/nm/m3u8/283
+#EXTINF:-1 tvg-id=i"StarzPlay CricLife 3 HD" status=timeout,StarzPlay CricLife 3 HD
+http://163.172.40.244/nm/m3u8/282
+#EXTINF:-1 tvg-id=i"Sky Showcase UK" status=timeout,Sky Showcase UK
+http://163.172.40.244/nm/m3u8/682
+#EXTINF:-1 tvg-id=i"Sky Arts UK" status=timeout,Sky Arts UK
+http://163.172.40.244/nm/m3u8/683
+#EXTINF:-1 tvg-id=i"Sky Comedy UK" status=timeout,Sky Comedy UK
+http://163.172.40.244/nm/m3u8/684
+#EXTINF:-1 tvg-id=i"Sky Crime" status=timeout,Sky Crime
+http://163.172.40.244/nm/m3u8/685
+#EXTINF:-1 tvg-id=i"Sky History" status=timeout,Sky History
+http://163.172.40.244/nm/m3u8/686
+#EXTINF:-1 tvg-id=i"SSC Sport 1" status=timeout,SSC Sport 1
+http://163.172.40.244/nm/m3u8/614
+#EXTINF:-1 tvg-id=i"SSC Sport 2" status=timeout,SSC Sport 2
+http://163.172.40.244/nm/m3u8/615
+#EXTINF:-1 tvg-id=i"SSC Sport 3" status=timeout,SSC Sport 3
+http://163.172.40.244/nm/m3u8/616
+#EXTINF:-1 tvg-id=i"SSC Sport 4" status=timeout,SSC Sport 4
+http://163.172.40.244/nm/m3u8/617
+#EXTINF:-1 tvg-id=i"SSC Sport 5" status=timeout,SSC Sport 5
+http://163.172.40.244/nm/m3u8/618
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 1" status=timeout,SSC Sport Extra 1
+http://163.172.40.244/nm/m3u8/619
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 2" status=timeout,SSC Sport Extra 2
+http://163.172.40.244/nm/m3u8/620
+#EXTINF:-1 tvg-id=i"SSC Sport Extra 3" status=timeout,SSC Sport Extra 3
+http://163.172.40.244/nm/m3u8/621
+#EXTINF:-1 tvg-id=i"Sport 1 Israel" status=timeout,Sport 1 Israel
+http://163.172.40.244/nm/m3u8/140
+#EXTINF:-1 tvg-id=i"Sport 2 Israel" status=timeout,Sport 2 Israel
+http://163.172.40.244/nm/m3u8/141
+#EXTINF:-1 tvg-id=i"Sport 3 Israel" status=timeout,Sport 3 Israel
+http://163.172.40.244/nm/m3u8/142
+#EXTINF:-1 tvg-id=i"Sport 4 Israel" status=timeout,Sport 4 Israel
+http://163.172.40.244/nm/m3u8/143
+#EXTINF:-1 tvg-id=i"Sport 5 Israel" status=timeout,Sport 5 Israel
+http://163.172.40.244/nm/m3u8/144
+#EXTINF:-1 tvg-id=i"Sport 5 PLUS Israel" status=timeout,Sport 5 PLUS Israel
+http://163.172.40.244/nm/m3u8/145
+#EXTINF:-1 tvg-id=i"Sport 5 Live Israel" status=timeout,Sport 5 Live Israel
+http://163.172.40.244/nm/m3u8/146
+#EXTINF:-1 tvg-id=i"Sport 5 Star Israel" status=timeout,Sport 5 Star Israel
+http://163.172.40.244/nm/m3u8/147
+#EXTINF:-1 tvg-id=i"Sport 5 Gold Israel" status=timeout,Sport 5 Gold Israel
+http://163.172.40.244/nm/m3u8/148
+#EXTINF:-1 tvg-id=i"Science Channel" status=timeout,Science Channel
+http://163.172.40.244/nm/m3u8/294
+#EXTINF:-1 tvg-id=i"Showtime USA" status=timeout,Showtime USA
+http://163.172.40.244/nm/m3u8/333
+#EXTINF:-1 tvg-id=i"Showtime SHOxBET USA" status=timeout,Showtime SHOxBET USA
+http://163.172.40.244/nm/m3u8/685
+#EXTINF:-1 tvg-id=i"Starz" status=timeout,Starz
+http://163.172.40.244/nm/m3u8/335
+#EXTINF:-1 tvg-id=i"Sky Witness HD" status=timeout,Sky Witness HD
+http://163.172.40.244/nm/m3u8/361
+#EXTINF:-1 tvg-id=i"Sixx DE" status=timeout,Sixx DE
+http://163.172.40.244/nm/m3u8/732
+#EXTINF:-1 tvg-id=i"Sky Atlantic" status=timeout,Sky Atlantic
+http://163.172.40.244/nm/m3u8/362
+#EXTINF:-1 tvg-id=i"SYFY USA" status=timeout,SYFY USA
+http://163.172.40.244/nm/m3u8/373
+#EXTINF:-1 tvg-id=i"Sundance TV" status=timeout,Sundance TV
+http://163.172.40.244/nm/m3u8/658
+#EXTINF:-1 tvg-id=i"SWR DE" status=timeout,SWR DE
+http://163.172.40.244/nm/m3u8/735
+#EXTINF:-1 tvg-id=i"SUPER RTL DE" status=timeout,SUPER RTL DE
+http://163.172.40.244/nm/m3u8/738
+#EXTINF:-1 tvg-id=i"SR Fernsehen DE" status=timeout,SR Fernsehen DE
+http://163.172.40.244/nm/m3u8/739
+#EXTINF:-1 tvg-id=i"Smithsonian Channel" status=timeout,Smithsonian Channel
+http://163.172.40.244/nm/m3u8/601
+#EXTINF:-1 tvg-id=i"TNT Sports 1 UK" status=timeout,TNT Sports 1 UK
+http://163.172.40.244/nm/m3u8/31
+#EXTINF:-1 tvg-id=i"TNT Sports 2 UK" status=timeout,TNT Sports 2 UK
+http://163.172.40.244/nm/m3u8/32
+#EXTINF:-1 tvg-id=i"TNT Sports 3 UK" status=timeout,TNT Sports 3 UK
+http://163.172.40.244/nm/m3u8/33
+#EXTINF:-1 tvg-id=i"TNT Sports 4 UK" status=timeout,TNT Sports 4 UK
+http://163.172.40.244/nm/m3u8/34
+#EXTINF:-1 tvg-id=i"TSN1" status=timeout,TSN1
+http://163.172.40.244/nm/m3u8/111
+#EXTINF:-1 tvg-id=i"TSN2" status=timeout,TSN2
+http://163.172.40.244/nm/m3u8/112
+#EXTINF:-1 tvg-id=i"TSN3" status=timeout,TSN3
+http://163.172.40.244/nm/m3u8/113
+#EXTINF:-1 tvg-id=i"TSN4" status=timeout,TSN4
+http://163.172.40.244/nm/m3u8/114
+#EXTINF:-1 tvg-id=i"TSN5" status=timeout,TSN5
+http://163.172.40.244/nm/m3u8/115
+#EXTINF:-1 tvg-id=i"TVN HD Poland" status=timeout,TVN HD Poland
+http://163.172.40.244/nm/m3u8/565
+#EXTINF:-1 tvg-id=i"TVN24 Poland" status=timeout,TVN24 Poland
+http://163.172.40.244/nm/m3u8/444
+#EXTINF:-1 tvg-id=i"TVP1 Poland" status=timeout,TVP1 Poland
+http://163.172.40.244/nm/m3u8/560
+#EXTINF:-1 tvg-id=i"TVP2 Poland" status=timeout,TVP2 Poland
+http://163.172.40.244/nm/m3u8/561
+#EXTINF:-1 tvg-id=i"Telecinco Spain" status=timeout,Telecinco Spain
+http://163.172.40.244/nm/m3u8/532
+#EXTINF:-1 tvg-id=i"TVE La 1 Spain" status=timeout,TVE La 1 Spain
+http://163.172.40.244/nm/m3u8/533
+#EXTINF:-1 tvg-id=i"TVE La 2 Spain" status=timeout,TVE La 2 Spain
+http://163.172.40.244/nm/m3u8/536
+#EXTINF:-1 tvg-id=i"TVI Portugal" status=timeout,TVI Portugal
+http://163.172.40.244/nm/m3u8/723
+#EXTINF:-1 tvg-id=i"TVI Reality Portugal" status=timeout,TVI Reality Portugal
+http://163.172.40.244/nm/m3u8/724
+#EXTINF:-1 tvg-id=i"Teledeporte Spain (TDP)" status=timeout,Teledeporte Spain (TDP)
+http://163.172.40.244/nm/m3u8/529
+#EXTINF:-1 tvg-id=i"TYC Sports Argentina" status=timeout,TYC Sports Argentina
+http://163.172.40.244/nm/m3u8/746
+#EXTINF:-1 tvg-id=i"TVP Sport Poland" status=timeout,TVP Sport Poland
+http://163.172.40.244/nm/m3u8/128
+#EXTINF:-1 tvg-id=i"TNT Brasil" status=timeout,TNT Brasil
+http://163.172.40.244/nm/m3u8/87
+#EXTINF:-1 tvg-id=i"TNT Sports Argentina" status=timeout,TNT Sports Argentina
+http://163.172.40.244/nm/m3u8/388
+#EXTINF:-1 tvg-id=i"TNT Sports HD Chile" status=timeout,TNT Sports HD Chile
+http://163.172.40.244/nm/m3u8/642
+#EXTINF:-1 tvg-id=i"Tennis Channel" status=timeout,Tennis Channel
+http://163.172.40.244/nm/m3u8/40
+#EXTINF:-1 tvg-id=i"Ten Sports PK" status=timeout,Ten Sports PK
+http://163.172.40.244/nm/m3u8/741
+#EXTINF:-1 tvg-id=i"TUDN USA" status=timeout,TUDN USA
+http://163.172.40.244/nm/m3u8/66
+#EXTINF:-1 tvg-id=i"Telemundo" status=timeout,Telemundo
+http://163.172.40.244/nm/m3u8/131
+#EXTINF:-1 tvg-id=i"TBS USA" status=timeout,TBS USA
+http://163.172.40.244/nm/m3u8/336
+#EXTINF:-1 tvg-id=i"TLC" status=timeout,TLC
+http://163.172.40.244/nm/m3u8/337
+#EXTINF:-1 tvg-id=i"TNT USA" status=timeout,TNT USA
+http://163.172.40.244/nm/m3u8/338
+#EXTINF:-1 tvg-id=i"TVA Sports" status=timeout,TVA Sports
+http://163.172.40.244/nm/m3u8/833
+#EXTINF:-1 tvg-id=i"TVA Sports 2" status=timeout,TVA Sports 2
+http://163.172.40.244/nm/m3u8/834
+#EXTINF:-1 tvg-id=i"Travel Channel" status=timeout,Travel Channel
+http://163.172.40.244/nm/m3u8/340
+#EXTINF:-1 tvg-id=i"TruTV USA" status=timeout,TruTV USA
+http://163.172.40.244/nm/m3u8/341
+#EXTINF:-1 tvg-id=i"TVLAND" status=timeout,TVLAND
+http://163.172.40.244/nm/m3u8/342
+#EXTINF:-1 tvg-id=i"TCM USA" status=timeout,TCM USA
+http://163.172.40.244/nm/m3u8/644
+#EXTINF:-1 tvg-id=i"TMC Channel USA" status=timeout,TMC Channel USA
+http://163.172.40.244/nm/m3u8/698
+#EXTINF:-1 tvg-id=i"The Food Network" status=timeout,The Food Network
+http://163.172.40.244/nm/m3u8/384
+#EXTINF:-1 tvg-id=i"The Weather Channel" status=timeout,The Weather Channel
+http://163.172.40.244/nm/m3u8/394
+#EXTINF:-1 tvg-id=i"TVP INFO" status=timeout,TVP INFO
+http://163.172.40.244/nm/m3u8/452
+#EXTINF:-1 tvg-id=i"TeenNick" status=timeout,TeenNick
+http://163.172.40.244/nm/m3u8/650
+#EXTINF:-1 tvg-id=i"TV ONE USA" status=timeout,TV ONE USA
+http://163.172.40.244/nm/m3u8/660
+#EXTINF:-1 tvg-id=i"TV2 Bornholm Denmark" status=timeout,TV2 Bornholm Denmark
+http://163.172.40.244/nm/m3u8/807
+#EXTINF:-1 tvg-id=i"TV2 Sport X Denmark" status=timeout,TV2 Sport X Denmark
+http://163.172.40.244/nm/m3u8/808
+#EXTINF:-1 tvg-id=i"TV3 Sport Denmark" status=timeout,TV3 Sport Denmark
+http://163.172.40.244/nm/m3u8/809
+#EXTINF:-1 tvg-id=i"TV2 Sport Denmark" status=timeout,TV2 Sport Denmark
+http://163.172.40.244/nm/m3u8/810
+#EXTINF:-1 tvg-id=i"TV2 Denmark" status=timeout,TV2 Denmark
+http://163.172.40.244/nm/m3u8/817
+#EXTINF:-1 tvg-id=i"TV2 Zulu" status=timeout,TV2 Zulu
+http://163.172.40.244/nm/m3u8/818
+#EXTINF:-1 tvg-id=i"TV3+ Denmark" status=timeout,TV3+ Denmark
+http://163.172.40.244/nm/m3u8/819
+#EXTINF:-1 tvg-id=i"TVO CA" status=timeout,TVO CA
+http://163.172.40.244/nm/m3u8/842
+#EXTINF:-1 tvg-id=i"Tennis+ 1" status=timeout,Tennis+ 1
+http://163.172.40.244/nm/m3u8/700
+#EXTINF:-1 tvg-id=i"Tennis+ 2" status=timeout,Tennis+ 2
+http://163.172.40.244/nm/m3u8/701
+#EXTINF:-1 tvg-id=i"Tennis+ 3" status=timeout,Tennis+ 3
+http://163.172.40.244/nm/m3u8/702
+#EXTINF:-1 tvg-id=i"Tennis+ 4" status=timeout,Tennis+ 4
+http://163.172.40.244/nm/m3u8/703
+#EXTINF:-1 tvg-id=i"Tennis+ 5" status=timeout,Tennis+ 5
+http://163.172.40.244/nm/m3u8/704
+#EXTINF:-1 tvg-id=i"Tennis+ 6" status=timeout,Tennis+ 6
+http://163.172.40.244/nm/m3u8/705
+#EXTINF:-1 tvg-id=i"Tennis+ 7" status=timeout,Tennis+ 7
+http://163.172.40.244/nm/m3u8/706
+#EXTINF:-1 tvg-id=i"Tennis+ 8" status=timeout,Tennis+ 8
+http://163.172.40.244/nm/m3u8/707
+#EXTINF:-1 tvg-id=i"Tennis+ 9" status=timeout,Tennis+ 9
+http://163.172.40.244/nm/m3u8/708
+#EXTINF:-1 tvg-id=i"Tennis+ 10" status=timeout,Tennis+ 10
+http://163.172.40.244/nm/m3u8/709
+#EXTINF:-1 tvg-id=i"Tennis+ 11" status=timeout,Tennis+ 11
+http://163.172.40.244/nm/m3u8/710
+#EXTINF:-1 tvg-id=i"Tennis+ 12" status=timeout,Tennis+ 12
+http://163.172.40.244/nm/m3u8/711
+#EXTINF:-1 tvg-id=i"Tennis+ 13" status=timeout,Tennis+ 13
+http://163.172.40.244/nm/m3u8/712
+#EXTINF:-1 tvg-id=i"Tennis+ 14" status=timeout,Tennis+ 14
+http://163.172.40.244/nm/m3u8/713
+#EXTINF:-1 tvg-id=i"Tennis+ 15" status=timeout,Tennis+ 15
+http://163.172.40.244/nm/m3u8/714
+#EXTINF:-1 tvg-id=i"USA Network" status=timeout,USA Network
+http://163.172.40.244/nm/m3u8/343
+#EXTINF:-1 tvg-id=i"Universal Kids USA" status=timeout,Universal Kids USA
+http://163.172.40.244/nm/m3u8/668
+#EXTINF:-1 tvg-id=i"Univision" status=timeout,Univision
+http://163.172.40.244/nm/m3u8/132
+#EXTINF:-1 tvg-id=i"Unimas" status=timeout,Unimas
+http://163.172.40.244/nm/m3u8/133
+#EXTINF:-1 tvg-id=i"Viaplay Sports 1 UK" status=timeout,Viaplay Sports 1 UK
+http://163.172.40.244/nm/m3u8/451
+#EXTINF:-1 tvg-id=i"Viaplay Sports 2 UK" status=timeout,Viaplay Sports 2 UK
+http://163.172.40.244/nm/m3u8/550
+#EXTINF:-1 tvg-id=i"Viaplay Xtra UK" status=timeout,Viaplay Xtra UK
+http://163.172.40.244/nm/m3u8/597
+#EXTINF:-1 tvg-id=i"#Vamos Spain" status=timeout,#Vamos Spain
+http://163.172.40.244/nm/m3u8/521
+#EXTINF:-1 tvg-id=i"V Film Premiere" status=timeout,V Film Premiere
+http://163.172.40.244/nm/m3u8/815
+#EXTINF:-1 tvg-id=i"V Film Family" status=timeout,V Film Family
+http://163.172.40.244/nm/m3u8/816
+#EXTINF:-1 tvg-id=i"VH1 USA" status=timeout,VH1 USA
+http://163.172.40.244/nm/m3u8/344
+#EXTINF:-1 tvg-id=i"Veronica NL Netherland" status=timeout,Veronica NL Netherland
+http://163.172.40.244/nm/m3u8/378
+#EXTINF:-1 tvg-id=i"VTV+ Uruguay" status=timeout,VTV+ Uruguay
+http://163.172.40.244/nm/m3u8/391
+#EXTINF:-1 tvg-id=i"VICE TV" status=timeout,VICE TV
+http://163.172.40.244/nm/m3u8/659
+#EXTINF:-1 tvg-id=i"Willow Cricket" status=timeout,Willow Cricket
+http://163.172.40.244/nm/m3u8/346
+#EXTINF:-1 tvg-id=i"Willow XTRA" status=timeout,Willow XTRA
+http://163.172.40.244/nm/m3u8/598
+#EXTINF:-1 tvg-id=i"WWE Network" status=timeout,WWE Network
+http://163.172.40.244/nm/m3u8/376
+#EXTINF:-1 tvg-id=i"Win Sports+ Columbia" status=timeout,Win Sports+ Columbia
+http://163.172.40.244/nm/m3u8/392
+#EXTINF:-1 tvg-id=i"WETV USA" status=timeout,WETV USA
+http://163.172.40.244/nm/m3u8/655
+#EXTINF:-1 tvg-id=i"WDR DE" status=timeout,WDR DE
+http://163.172.40.244/nm/m3u8/734
+#EXTINF:-1 tvg-id=i"YES Network USA" status=timeout,YES Network USA
+http://163.172.40.244/nm/m3u8/763
+#EXTINF:-1 tvg-id=i"Yes Movies Action Israel" status=timeout,Yes Movies Action Israel
+http://163.172.40.244/nm/m3u8/543
+#EXTINF:-1 tvg-id=i"Yes Movies Kids Israel" status=timeout,Yes Movies Kids Israel
+http://163.172.40.244/nm/m3u8/544
+#EXTINF:-1 tvg-id=i"Yes Movies Comedy Israel" status=timeout,Yes Movies Comedy Israel
+http://163.172.40.244/nm/m3u8/545
+#EXTINF:-1 tvg-id=i"Yas TV UAE" status=timeout,Yas TV UAE
+http://163.172.40.244/nm/m3u8/609
+#EXTINF:-1 tvg-id=i"Yes TV CA" status=timeout,Yes TV CA
+http://163.172.40.244/nm/m3u8/837
+#EXTINF:-1 tvg-id=i"Ziggo Sport Docu NL" status=timeout,Ziggo Sport Docu NL
+http://163.172.40.244/nm/m3u8/383
+#EXTINF:-1 tvg-id=i"Ziggo Sport Select NL" status=timeout,Ziggo Sport Select NL
+http://163.172.40.244/nm/m3u8/393
+#EXTINF:-1 tvg-id=i"Ziggo Sport Racing NL" status=timeout,Ziggo Sport Racing NL
+http://163.172.40.244/nm/m3u8/396
+#EXTINF:-1 tvg-id=i"Ziggo Sport Voetbal NL" status=timeout,Ziggo Sport Voetbal NL
+http://163.172.40.244/nm/m3u8/398
+#EXTINF:-1 tvg-id=i"BBC 1 DE" status=timeout,BBC 1 DE
+http://163.172.40.244/nm/m3u8/727
+#EXTINF:-1 tvg-id=i"ZDF Info DE" status=timeout,ZDF Info DE
+http://163.172.40.244/nm/m3u8/728
+#EXTINF:-1 tvg-id=i"20 Mediaset Italy" status=timeout,20 Mediaset Italy
+http://163.172.40.244/nm/m3u8/857
+#EXTINF:-1 tvg-id=i"6'eren Denmark" status=timeout,6'eren Denmark
+http://163.172.40.244/nm/m3u8/800
+#EXTINF:-1 tvg-id=i"#0 Spain" status=timeout,#0 Spain
+http://163.172.40.244/nm/m3u8/437
+#EXTINF:-1 tvg-id=i"5 USA" status=timeout,5 USA
+http://163.172.40.244/nm/m3u8/360
+#EXTINF:-1 tvg-id=i"3sat DE" status=timeout,3sat DE
+http://163.172.40.244/nm/m3u8/726
+#EXTINF:-1 tvg-id=i"18+ (Player-01)" status=timeout,18+ (Player-01)
+http://163.172.40.244/nm/m3u8/501
+#EXTINF:-1 tvg-id=i"18+ (Player-02)" status=timeout,18+ (Player-02)
+http://163.172.40.244/nm/m3u8/502
+#EXTINF:-1 tvg-id=i"18+ (Player-03)" status=timeout,18+ (Player-03)
+http://163.172.40.244/nm/m3u8/503
+#EXTINF:-1 tvg-id=i"18+ (Player-04)" status=timeout,18+ (Player-04)
+http://163.172.40.244/nm/m3u8/504
+#EXTINF:-1 tvg-id=i"18+ (Player-05)" status=timeout,18+ (Player-05)
+http://163.172.40.244/nm/m3u8/505
+#EXTINF:-1 tvg-id=i"18+ (Player-06)" status=timeout,18+ (Player-06)
+http://163.172.40.244/nm/m3u8/506
+#EXTINF:-1 tvg-id=i"18+ (Player-07)" status=timeout,18+ (Player-07)
+http://163.172.40.244/nm/m3u8/507
+#EXTINF:-1 tvg-id=i"18+ (Player-08)" status=timeout,18+ (Player-08)
+http://163.172.40.244/nm/m3u8/508
+#EXTINF:-1 tvg-id=i"18+ (Player-09)" status=timeout,18+ (Player-09)
+http://163.172.40.244/nm/m3u8/509
+#EXTINF:-1 tvg-id=i"18+ (Player-10)" status=timeout,18+ (Player-10)
+http://163.172.40.244/nm/m3u8/510
+#EXTINF:-1 tvg-id=i"18+ (Player-11)" status=timeout,18+ (Player-11)
+http://163.172.40.244/nm/m3u8/511
+#EXTINF:-1 tvg-id=i"18+ (Player-12)" status=timeout,18+ (Player-12)
+http://163.172.40.244/nm/m3u8/512
+#EXTINF:-1 tvg-id=i"18+ (Player-13)" status=timeout,18+ (Player-13)
+http://163.172.40.244/nm/m3u8/513
+#EXTINF:-1 tvg-id=i"18+ (Player-14)" status=timeout,18+ (Player-14)
+http://163.172.40.244/nm/m3u8/514
+#EXTINF:-1 tvg-id=i"18+ (Player-15)" status=timeout,18+ (Player-15)
+http://163.172.40.244/nm/m3u8/515
+#EXTINF:-1 tvg-id=i"18+ (Player-16)" status=timeout,18+ (Player-16)
+http://163.172.40.244/nm/m3u8/516
+#EXTINF:-1 tvg-id=i"18+ (Player-17)" status=timeout,18+ (Player-17)
+http://163.172.40.244/nm/m3u8/517
+#EXTINF:-1 tvg-id=i"18+ (Player-18)" status=timeout,18+ (Player-18)
+http://163.172.40.244/nm/m3u8/518
+#EXTINF:-1 tvg-id=i"18+ (Player-19)" status=timeout,18+ (Player-19)
+http://163.172.40.244/nm/m3u8/519
+#EXTINF:-1 tvg-id=i"18+ (Player-20)" status=timeout,18+ (Player-20)
+http://163.172.40.244/nm/m3u8/520
