@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-http://livetv.ktv.zone/3/play.m3u8
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
+#http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
@@ -8,13 +9,14 @@ http://livetv.ktv.zone/5/play.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
 http://163.172.40.244/nm/link?channel=121
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
-http://livetv.ktv.zone/7/play.m3u8
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25170.ts
+#http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
 http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
-http://livetv.ktv.zone/10/play.m3u8
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25175.ts
 #EXTINF:-1 tvg-id=i"W9" status=timeout,W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
@@ -26,9 +28,11 @@ http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id=i"NRJ 12 en direct" status=timeout,NRJ 12 en direct
-http://livetv.ktv.zone/14/play.m3u8
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25173.ts
+#http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
-http://livetv.ktv.zone/16/play.m3u8
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25169.ts
+#http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-id=i"Paris Première" status=timeout,Paris Première
 https://tvenligne.com/wp-content/uploads/TVENDIRECT/parispremier/live/playlist.m3u8
 #EXTINF:-1 tvg-id=i"Club RTL" status=timeout,Club RTL
