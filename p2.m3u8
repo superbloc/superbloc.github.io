@@ -227,7 +227,7 @@ http://163.172.40.244/nm/link?channel=116
 http://163.172.40.244/nm/link?channel=35
 #EXTINF:-1 tvg-id="BT Sport 1" status="timeout", BT Sport 1
 http://163.172.40.244/nm/link?channel=31
-#EXTINF:-1 tvg-id="TF1" status="timeout", TF1
-http://163.172.40.244/nm/link?channel=2
+#EXTINF:-1 tvg-id="M6" status="timeout", M6
+http://163.172.40.244/nm/link?channel=7
 #EXTINF:-1 tvg-id="RTS1" status="timeout", RTS1
 http://163.172.40.244/nm/link?channel=14
