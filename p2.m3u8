@@ -229,5 +229,7 @@ http://163.172.40.244/nm/link?channel=35
 http://163.172.40.244/nm/link?channel=31
 #EXTINF:-1 tvg-id="TF1" status="timeout", TF1
 http://163.172.40.244/nm/link?channel=469
+#EXTINF:-1 tvg-id="M6" status="timeout", M6
+http://163.172.40.244/nm/link?channel=470
 #EXTINF:-1 tvg-id="RTBF-1" status="timeout", RTBF-1
 http://163.172.40.244/nm/link?channel=4
