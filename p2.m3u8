@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
+http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
 http://livetv.ktv.zone/4/play.m3u8
