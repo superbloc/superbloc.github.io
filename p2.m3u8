@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
-http://livetv.ktv.zone/4/play.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
-http://livetv.ktv.zone/5/play.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
 http://163.172.40.244/nm/link?channel=121
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25170.ts
-#http://livetv.ktv.zone/7/play.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
 http://livetv.ktv.zone/8/play.m3u8
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
-http://livetv.ktv.zone/9/play.m3u8
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25175.ts
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
 #EXTINF:-1 tvg-id=i"W9" status=timeout,W9
 http://livetv.ktv.zone/11/play.m3u8
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
@@ -28,10 +28,10 @@ http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
 http://livetv.ktv.zone/13/play.m3u8
 #EXTINF:-1 tvg-id=i"NRJ 12 en direct" status=timeout,NRJ 12 en direct
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25173.ts
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #http://livetv.ktv.zone/14/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25169.ts
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-id=i"Paris Première" status=timeout,Paris Première
 https://tvenligne.com/wp-content/uploads/TVENDIRECT/parispremier/live/playlist.m3u8
@@ -42,7 +42,7 @@ https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/
 #EXTINF:-1 tvg-id=i"BFM Business" status=timeout,BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id=i"Gulli" status=timeout,Gulli
-https://tvenligne.com/wp-content/uploads/TVENDIRECT/gulli/live/playlist.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:-1 tvg-id=i"L'equipe" status=timeout,L'Equipe
 http://livetv.ktv.zone/23/play.m3u8
 #EXTINF:-1 tvg-id=i"Melody" status=timeout,Melody
