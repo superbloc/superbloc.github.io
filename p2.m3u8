@@ -73,10 +73,6 @@ https://qwestclassic-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&
 https://qwestjazz-rakuten.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&amp;ads_env=prod&amp;ads_ppid=3c48e8b1-f4ac-47cc-afdb-8a47361e512b&amp;ads_rtvid=271860&amp;ads_streaming_id=714e5f92-c66d-4a5d-951a-900208fbc47d&amp;ads_amagi_channel=711&amp;ads_device_type=web&amp;ads_device_model=GENERIC&amp;ads_device_year=1970&amp;ads_player_width=1920&amp;ads_rtv_content_language=eng&amp;ads_market=fr&amp;ads_rtv_content_id=2269&amp;ads_device_make=chrome&amp;ads_user_type=visitor&amp;ads_content_classification=0&amp;ads_gdpr_consent=CPjT1EAPjT1EAADABBFRCrCsAP_AAH_AAAAAHrsVZCpcBSlgYCpoAIoAKIAUEAAAgiAAABAAAoABCAAAIAQAgAAgIAAAAAAAAAAAIAJAAQAAAAEAAAAAAAAAAAAIIACAAAAAIABAAAAAAAAACAAAAAAAAAAAAAAEAAAAgABAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgZ8xVkKlwFKWBgKGgAggAogBQQAACCIAAAEAACAAAIAAAgBACAACAAAAAAAAAAAAAgAgABAAAAAQAAAAAAAAAAAAggAIAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAAEAAAAAAQAA.YAAAAAAAA4DA&amp;ads_device_lmt=0&amp;ads_player_height=1080&amp;uid=1gjp0edb0-f07o-m38-pdmm-pqwsyyx6sva/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/1280x720_3440800/chunklist.m3u8
 #EXTINF:-1 tvg-id=i"Tech &#038; CO" status=timeout,Tech &#038; CO
 https://abg2-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=07lve19vi7r0h580snv0/shls/LIVE$BFM_TECHANDCO/index.m3u8
-#EXTINF:-1 tvg-id=i"Africa 24 Sport" status=timeout,Africa 24 Sport
-https://edge18.vedge.infomaniak.com/livecast/ik:africa24sport/chunklist_wlink?channel=2008012170
-#EXTINF:-1 tvg-id=i"Africa 24" status=timeout,Africa 24
-https://edge13.vedge.infomaniak.com/livecast/ik:africa24/chunklist_wlink?channel=318620089
 #EXTINF:-1 tvg-id="ABC USA" status="timeout",ABC USA
 http://163.172.40.244/nm/link?channel=51
 #EXTINF:-1 tvg-id="CBS USA" status="timeout",CBS USA
@@ -161,6 +157,20 @@ http://163.172.40.244/nm/link?channel=336
 http://163.172.40.244/nm/link?channel=337
 #EXTINF:-1 tvg-id="TNT USA" status="timeout",TNT USA
 http://163.172.40.244/nm/link?channel=338
+#EXTINF:-1 tvg-id="SKY premiere" status="timeout",SKY premiere
+http://163.172.40.244/nm/link?channel=671
+#EXTINF:-1 tvg-id="SKY select" status="timeout",SKY select
+http://163.172.40.244/nm/link?channel=672
+#EXTINF:-1 tvg-id="SKY hits" status="timeout",SKY hits
+http://163.172.40.244/nm/link?channel=673
+#EXTINF:-1 tvg-id="SKY greats" status="timeout",SKY greats
+http://163.172.40.244/nm/link?channel=674
+#EXTINF:-1 tvg-id="SKY action" status="timeout",SKY action
+http://163.172.40.244/nm/link?channel=677
+#EXTINF:-1 tvg-id="SKY thriller" status="timeout",SKY thriller
+http://163.172.40.244/nm/link?channel=679
+#EXTINF:-1 tvg-id="SKY scifi" status="timeout",SKY scifi
+http://163.172.40.244/nm/link?channel=681
 #EXTINF:-1 tvg-id="Cartoon Network" status="timeout",Cartoon Network
 http://163.172.40.244/nm/link?channel=339
 #EXTINF:-1 tvg-id="Travel Channel" status="timeout",Travel Channel
