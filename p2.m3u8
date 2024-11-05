@@ -20,7 +20,7 @@ http://163.172.40.244/nm/link?channel=34
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
-http://www.sansat.net:88/live/JOQFMHECGVGBESN/NQQ7OERQMLZ6ZFK/127303.ts
+http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #https://live-tmc-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MC4zLjEwNC4xODEiLCJjbWNkIjoiIiwiZXhwIjoxNzIwOTI5NjEwLCJnaWQiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyIsImlhdCI6MTcyMDkxNTIxMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS80NGZjYjFjNzc2Mjg0ZjJkYTdjMTFlZjk0OGQ3ZWYzNC90bWMtY21hZiIsInN1YiI6IjBjOTU1ZDliY2Y2ZjQ1NjA5OTZmNzQ3MzJiMjczY2Q3In0.D1KLgqOYdI33M7BAln8OAaBs9u5mzyB_JPxwNuiIDO4/out/v1/44fcb1c776284f2da7c11ef948d7ef34/tmc-cmaf/index.m3u8
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
@@ -55,7 +55,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 #EXTINF:-1 tvg-id=i"Gulli" status=timeout,Gulli
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:-1 tvg-id=i"L'equipe" status=timeout,L'Equipe
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lequipe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
 #EXTINF:-1 tvg-id=1"Cineprime" status=timeout,Cineprime
 https://d5rskh55dewj4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/d0f32efe-65be-4e48-8041-b40029dcbdba/link?channel=3
 #EXTINF:-1 tvg-id=i"LCI" status=timeout,LCI
