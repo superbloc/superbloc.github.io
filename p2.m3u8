@@ -11,10 +11,12 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 http://163.172.40.244/nm/link?channel=121
 #EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
 http://163.172.40.244/nm/link?channel=122
-#EXTINF:-1 tvg-id="CANAL live2" status="timeout",CANAL+ live2
-http://163.172.40.244/nm/link?channel=153
+#EXTINF:-1 tvg-id="CANAL live3" status="timeout",CANAL+ live3
+http://163.172.40.244/nm/link?channel=68
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
 http://163.172.40.244/nm/link?channel=463
+#EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
+http://163.172.40.244/nm/link?channel=34
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
