@@ -14,7 +14,7 @@ http://163.172.40.244/nm/link?channel=122
 #EXTINF:-1 tvg-id="CANAL live1" status="timeout",CANAL+ live1
 http://163.172.40.244/nm/link?channel=86
 #EXTINF:-1 tvg-id="CANAL live3" status="timeout",CANAL+ live3
-http://163.172.40.244/nm/link?channel=68
+http://163.172.40.244/nm/link?channel=59
 #EXTINF:-1 tvg-id="CANAL live4" status="timeout",CANAL+ live4
 http://163.172.40.244/nm/link?channel=76
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
