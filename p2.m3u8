@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-https://live-tf1-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45Mi4zMC4yMiIsImNtY2QiOiIiLCJleHAiOjE3MzQxMTM2NjEsImdpZCI6ImNiNGZjMWZkNTIzZjQ2NjM4MzllNjVlMWE3NDlmYWI5IiwiaWF0IjoxNzM0MDk5MjYxLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxL2RmZTM2ZjkwOTY0OTQ3MTI5OTAyYjg0MmI4M2U2NWI0Iiwic3ViIjoiY2I0ZmMxZmQ1MjNmNDY2MzgzOWU2NWUxYTc0OWZhYjkifQ.TWaKbIgjz7pNdUOsJuodnNlWqxWtS3zwdsuSa2JXcjg/out/v1/dfe36f90964947129902b842b83e65b4/index.mpd
-#https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#https://live-tf1-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OS45Mi4zMC4yMiIsImNtY2QiOiIiLCJleHAiOjE3MzQxMTM2NjEsImdpZCI6ImNiNGZjMWZkNTIzZjQ2NjM4MzllNjVlMWE3NDlmYWI5IiwiaWF0IjoxNzM0MDk5MjYxLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxL2RmZTM2ZjkwOTY0OTQ3MTI5OTAyYjg0MmI4M2U2NWI0Iiwic3ViIjoiY2I0ZmMxZmQ1MjNmNDY2MzgzOWU2NWUxYTc0OWZhYjkifQ.TWaKbIgjz7pNdUOsJuodnNlWqxWtS3zwdsuSa2JXcjg/out/v1/dfe36f90964947129902b842b83e65b4/index.mpd
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
