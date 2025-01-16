@@ -60,7 +60,7 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&e
 #EXTINF:-1 tvg-id=i"Gulli" status=timeout,Gulli
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/gullihd.m3u8
 #EXTINF:-1 tvg-id=i"L'equipe" status=timeout,L'Equipe
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8
 #EXTINF:-1 tvg-id=1"Cineprime" status=timeout,Cineprime
 https://d5rskh55dewj4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rdfutp26xapou-ssai-prd/d0f32efe-65be-4e48-8041-b40029dcbdba/link?channel=3
 #EXTINF:-1 tvg-id=i"LCI" status=timeout,LCI
