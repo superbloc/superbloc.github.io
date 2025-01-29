@@ -14,12 +14,16 @@ http://163.172.40.244/nm/link?channel=121
 http://163.172.40.244/nm/link?channel=122
 #EXTINF:-1 tvg-id="CANAL live1" status="timeout",CANAL+ live1
 http://163.172.40.244/nm/link?channel=86
+#EXTINF:-1 tvg-id="CANAL live2" status="timeout",CANAL+ live2
+http://163.172.40.244/nm/link?channel=110
 #EXTINF:-1 tvg-id="CANAL live3" status="timeout",CANAL+ live3
 http://163.172.40.244/nm/link?channel=59
 #EXTINF:-1 tvg-id="CANAL live4" status="timeout",CANAL+ live4
 http://163.172.40.244/nm/link?channel=76
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
 http://163.172.40.244/nm/link?channel=463
+#EXTINF:-1 tvg-id="CANAL sport360" status="timeout",CANAL+ sport360
+http://163.172.40.244/nm/link?channel=464
 #EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
 http://163.172.40.244/nm/link?channel=33
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
