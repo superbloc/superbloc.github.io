@@ -22,6 +22,8 @@ http://163.172.40.244/nm/link?channel=59
 http://163.172.40.244/nm/link?channel=76
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
 http://163.172.40.244/nm/link?channel=463
+#EXTINF:-1 tvg-id="CBS sport" status="timeout",CBS sport
+http://163.172.40.244/nm/link?channel=767
 #EXTINF:-1 tvg-id="CANAL sport360" status="timeout",CANAL+ sport360
 http://163.172.40.244/nm/link?channel=464
 #EXTINF:-1 tvg-id="TNT SPORT 1" status="timeout",TNT SPORT 1
