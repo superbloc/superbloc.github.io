@@ -32,7 +32,7 @@ http://163.172.40.244/nm/link?channel=33
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
-http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
