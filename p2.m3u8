@@ -243,6 +243,8 @@ http://163.172.40.244/nm/link?channel=119
 http://163.172.40.244/nm/link?channel=116
 #EXTINF:-1 tvg-id="BEIN Sport 2" status="timeout", BEIN Sport 2
 http://163.172.40.244/nm/link?channel=117
+#EXTINF:-1 tvg-id="BEIN Sport 3" status="timeout", BEIN Sport 3
+http://163.172.40.244/nm/link?channel=118
 #EXTINF:-1 tvg-id="BEIN Sport 4" status="timeout", BEIN Sport 4
 http://163.172.40.244/nm/link?channel=494
 #EXTINF:-1 tvg-id="Sky sport UK foot" status="timeout", Sky sport UK foot
