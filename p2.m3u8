@@ -258,4 +258,4 @@ http://163.172.40.244/nm/link?channel=470
 #EXTINF:-1 tvg-id="RTBF-1" status="timeout", RTBF-1
 http://163.172.40.244/nm/link?channel=645
 #EXTINF:-1 tvg-id="DAZN-1" status="timeout", DAZN-1
-http://163.172.40.244/nm/link?channel=16
+http://163.172.40.244/nm/link?channel=55
