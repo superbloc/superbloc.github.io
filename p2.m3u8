@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DRPpuFEkBuCd/yQkK4ANHgVPDG4e.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jbM4aYgnxp4/JmZuZViwgf7Ta3.m3u8
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
@@ -42,11 +42,11 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DRPpuFEkBuCd/a3GZBHXA6i7aINFi.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jbM4aYgnxp4/X0ImoJP6NE71b9O.m3u8
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DRPpuFEkBuCd/z93wKg5yObRD1h.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jbM4aYgnxp4/qfE1sNEXf6evypzz.m3u8
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/DRPpuFEkBuCd/YWQ3b1FXixlWV0fP.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/jbM4aYgnxp4/nWxO6lJA1ZNeB8R.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id=i"Paris Première" status=timeout,Paris Première
