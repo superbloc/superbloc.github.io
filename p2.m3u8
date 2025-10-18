@@ -259,3 +259,5 @@ http://163.172.40.244/nm/link?channel=470
 http://163.172.40.244/nm/link?channel=645
 #EXTINF:-1 tvg-id="DAZN-1" status="timeout", DAZN-1
 http://163.172.40.244/nm/link?channel=55
+#EXTINF:-1 tvg-id="DAZN-1" status="timeout", extra
+http://163.172.40.244/nm/link?channel=491
