@@ -259,5 +259,15 @@ http://163.172.40.244/nm/link?channel=470
 http://163.172.40.244/nm/link?channel=645
 #EXTINF:-1 tvg-id="DAZN-1" status="timeout", DAZN-1
 http://163.172.40.244/nm/link?channel=55
-#EXTINF:-1 tvg-id="DAZN-1" status="timeout", extra
-http://163.172.40.244/nm/link?channel=491
+#EXTINF:-1 tvg-id="extra-1" status="timeout", extra-1
+http://163.172.40.244/nm/extra?channel=extra1
+#EXTINF:-1 tvg-id="extra-2" status="timeout", extra-2
+http://163.172.40.244/nm/extra?channel=extra2
+#EXTINF:-1 tvg-id="extra-3" status="timeout", extra-3
+http://163.172.40.244/nm/extra?channel=extra3
+#EXTINF:-1 tvg-id="extra-4" status="timeout", extra-4
+http://163.172.40.244/nm/extra?channel=extra4
+#EXTINF:-1 tvg-id="extra-5" status="timeout", extra-5
+http://163.172.40.244/nm/extra?channel=extra5
+#EXTINF:-1 tvg-id="extra-6" status="timeout", extra-6
+http://163.172.40.244/nm/extra?channel=extra6
