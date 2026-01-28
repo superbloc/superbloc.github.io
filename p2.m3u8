@@ -275,3 +275,7 @@ http://163.172.40.244/nm/extra?channel=extra6
 http://163.172.40.244/nm/tnt?channel=canal+
 #EXTINF:-1 tvg-id="canal+ sport player5" status="timeout", canal+sport player5
 http://163.172.40.244/nm/tnt?channel=canal+sport
+#EXTINF:-1 tvg-id="TUDN" status="timeout", TUDN
+http://163.172.40.244/nm/tnt?channel=tudn
+#EXTINF:-1 tvg-id="TNT3" status="timeout", TNT3
+http://163.172.40.244/nm/tnt?channel=tnt3
