@@ -279,3 +279,5 @@ http://163.172.40.244/nm/tnt?channel=canal+sport
 http://163.172.40.244/nm/tnt?channel=tudn
 #EXTINF:-1 tvg-id="TNT3" status="timeout", TNT3
 http://163.172.40.244/nm/tnt?channel=tnt3
+#EXTINF:-1 tvg-id="supersport" status="timeout", supersport
+http://163.172.40.244/nm/tnt?channel=supersport
