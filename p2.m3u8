@@ -271,13 +271,13 @@ http://163.172.40.244/nm/extra?channel=extra4
 http://163.172.40.244/nm/extra?channel=extra5
 #EXTINF:-1 tvg-id="extra-6" status="timeout", extra-6
 http://163.172.40.244/nm/extra?channel=extra6
-#EXTINF:-1 tvg-id="canal+ player5" status="timeout", canal+ player5
-http://163.172.40.244/nm/tnt?channel=canal+
-#EXTINF:-1 tvg-id="canal+ sport player5" status="timeout", canal+sport player5
-http://163.172.40.244/nm/tnt?channel=canal+sport
-#EXTINF:-1 tvg-id="TUDN" status="timeout", TUDN
-http://163.172.40.244/nm/tnt?channel=tudn
-#EXTINF:-1 tvg-id="TNT3" status="timeout", TNT3
-http://163.172.40.244/nm/tnt?channel=tnt3
-#EXTINF:-1 tvg-id="supersport" status="timeout", supersport
-http://163.172.40.244/nm/tnt?channel=supersport
+#EXTINF:-1 tvg-id="extra-1-player5" status="timeout", extra-1-player5
+http://163.172.40.244/nm/tnt?channel=ext1p5
+#EXTINF:-1 tvg-id="extra-2-player5" status="timeout", extra-2-player5
+http://163.172.40.244/nm/tnt?channel=ext2p5
+#EXTINF:-1 tvg-id="extra-3-player5" status="timeout", extra-3-player5
+http://163.172.40.244/nm/tnt?channel=ext3p5
+#EXTINF:-1 tvg-id="extra-4-player5" status="timeout", extra-4-player5
+http://163.172.40.244/nm/tnt?channel=ext4p5
+#EXTINF:-1 tvg-id="extra-5-player5" status="timeout", extra-5-player5
+http://163.172.40.244/nm/tnt?channel=ext5p5
