@@ -4,9 +4,11 @@ http://163.172.40.244/nm/tnt?channel=tf1
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof3.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
 http://163.172.40.244/nm/link?channel=121
 #EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
@@ -30,7 +32,8 @@ http://163.172.40.244/nm/link?channel=31
 #EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
 http://163.172.40.244/nm/link?channel=33
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
@@ -48,7 +51,8 @@ http://163.172.40.244/nm/tnt?channel=tf1_series
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
 http://163.172.40.244/nm/tnt?channel=tfx
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id=i"Paris Première" status=timeout,Paris Première
 https://tvenligne.com/wp-content/uploads/TVENDIRECT/parispremier/live/playlist.m3u8
 #EXTINF:-1 tvg-id=i"Club RTL" status=timeout,Club RTL
