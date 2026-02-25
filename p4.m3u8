@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof3.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
-http://192.168.0.15:6060/cdnlove?channel=121
+http://192.168.0.15:6060/link?channel=121
 #EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
 http://192.168.0.15:6060/cdnlove?channel=122
 #EXTINF:-1 tvg-id="CANAL live1" status="timeout",CANAL+ live1
