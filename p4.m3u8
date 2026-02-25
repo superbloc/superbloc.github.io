@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
-http://192.168.0.15:6060/tnt?channel=tf1
+http://192.168.0.19:6060/tnt?channel=tf1
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
@@ -10,27 +10,27 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof3.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
 #EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
-http://192.168.0.15:6060/link?channel=121
+http://192.168.0.19:6060/link?channel=121
 #EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
-http://192.168.0.15:6060/cdnlove?channel=122
+http://192.168.0.19:6060/cdnlove?channel=122
 #EXTINF:-1 tvg-id="CANAL live1" status="timeout",CANAL+ live1
-http://192.168.0.15:6060/link?channel=86
+http://192.168.0.19:6060/link?channel=86
 #EXTINF:-1 tvg-id="CANAL live2" status="timeout",CANAL+ live2
-http://192.168.0.15:6060/link?channel=110
+http://192.168.0.19:6060/link?channel=110
 #EXTINF:-1 tvg-id="CANAL live3" status="timeout",CANAL+ live3
-http://192.168.0.15:6060/link?channel=59
+http://192.168.0.19:6060/link?channel=59
 #EXTINF:-1 tvg-id="CANAL live4" status="timeout",CANAL+ live4
-http://192.168.0.15:6060/link?channel=76
+http://192.168.0.19:6060/link?channel=76
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
-http://192.168.0.15:6060/cdnlove?channel=463
+http://192.168.0.19:6060/cdnlove?channel=463
 #EXTINF:-1 tvg-id="CBS sport" status="timeout",CBS sport
-http://192.168.0.15:6060/link?channel=767
+http://192.168.0.19:6060/link?channel=767
 #EXTINF:-1 tvg-id="CANAL sport360" status="timeout",CANAL+ sport360
-http://192.168.0.15:6060/cdnlove?channel=464
+http://192.168.0.19:6060/cdnlove?channel=464
 #EXTINF:-1 tvg-id="TNT SPORT 1" status="timeout",TNT SPORT 1
-http://192.168.0.15:6060/link?channel=31
+http://192.168.0.19:6060/link?channel=31
 #EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
-http://192.168.0.15:6060/link?channel=33
+http://192.168.0.19:6060/link?channel=33
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
@@ -45,11 +45,11 @@ https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 #EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
-http://192.168.0.15:6060/tnt?channel=tmc
+http://192.168.0.19:6060/tnt?channel=tmc
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
-http://192.168.0.15:6060/tnt?channel=tf1_series
+http://192.168.0.19:6060/tnt?channel=tf1_series
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
-http://192.168.0.15:6060/tnt?channel=tfx
+http://192.168.0.19:6060/tnt?channel=tfx
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
@@ -70,218 +70,218 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3
 #EXTINF:-1 tvg-id=i"Chérie 25" status=timeout,Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/MD.m3u8
 #EXTINF:-1 tvg-id="ABC USA" status="timeout",ABC USA
-http://192.168.0.15:6060/link?channel=51
+http://192.168.0.19:6060/link?channel=51
 #EXTINF:-1 tvg-id="CBS USA" status="timeout",CBS USA
-http://192.168.0.15:6060/link?channel=52
+http://192.168.0.19:6060/link?channel=52
 #EXTINF:-1 tvg-id="NBC USA" status="timeout",NBC USA
-http://192.168.0.15:6060/link?channel=53
+http://192.168.0.19:6060/link?channel=53
 #EXTINF:-1 tvg-id="FOX USA" status="timeout",FOX USA
-http://192.168.0.15:6060/link?channel=54
+http://192.168.0.19:6060/link?channel=54
 #EXTINF:-1 tvg-id="CW USA" status="timeout",CW USA
-http://192.168.0.15:6060/link?channel=300
+http://192.168.0.19:6060/link?channel=300
 #EXTINF:-1 tvg-id="Freeform" status="timeout",Freeform
-http://192.168.0.15:6060/link?channel=301
+http://192.168.0.19:6060/link?channel=301
 #EXTINF:-1 tvg-id="A&E Tv" status="timeout",A&E Tv
-http://192.168.0.15:6060/link?channel=302
+http://192.168.0.19:6060/link?channel=302
 #EXTINF:-1 tvg-id="AMC Tv" status="timeout",AMC Tv
-http://192.168.0.15:6060/link?channel=303
+http://192.168.0.19:6060/link?channel=303
 #EXTINF:-1 tvg-id="Animal Planet" status="timeout",Animal Planet
-http://192.168.0.15:6060/link?channel=304
+http://192.168.0.19:6060/link?channel=304
 #EXTINF:-1 tvg-id="5USA Channel" status="timeout",5USA Channel
-http://192.168.0.15:6060/link?channel=360
+http://192.168.0.19:6060/link?channel=360
 #EXTINF:-1 tvg-id="BET Network" status="timeout",BET Network
-http://192.168.0.15:6060/link?channel=306
+http://192.168.0.19:6060/link?channel=306
 #EXTINF:-1 tvg-id="Bravo TV" status="timeout",Bravo TV
-http://192.168.0.15:6060/link?channel=307
+http://192.168.0.19:6060/link?channel=307
 #EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" status="timeout",CBS Sports Network (CBSSN)
-http://192.168.0.15:6060/link?channel=308
+http://192.168.0.19:6060/link?channel=308
 #EXTINF:-1 tvg-id="CNBC" status="timeout",CNBC
-http://192.168.0.15:6060/link?channel=309
+http://192.168.0.19:6060/link?channel=309
 #EXTINF:-1 tvg-id="Comedy Central" status="timeout",Comedy Central
-http://192.168.0.15:6060/link?channel=310
+http://192.168.0.19:6060/link?channel=310
 #EXTINF:-1 tvg-id="Discovery Life" status="timeout",Discovery Life
-http://192.168.0.15:6060/link?channel=311
+http://192.168.0.19:6060/link?channel=311
 #EXTINF:-1 tvg-id="Disney Channel" status="timeout",Disney Channel
-http://192.168.0.15:6060/link?channel=312
+http://192.168.0.19:6060/link?channel=312
 #EXTINF:-1 tvg-id="Discovery HD" status="timeout",Discovery HD
-http://192.168.0.15:6060/link?channel=313
+http://192.168.0.19:6060/link?channel=313
 #EXTINF:-1 tvg-id="Disney XD" status="timeout",Disney XD
-http://192.168.0.15:6060/link?channel=314
+http://192.168.0.19:6060/link?channel=314
 #EXTINF:-1 tvg-id="E! Entertainment" status="timeout",E! Entertainment
-http://192.168.0.15:6060/link?channel=315
+http://192.168.0.19:6060/link?channel=315
 #EXTINF:-1 tvg-id="ESPNU USA" status="timeout",ESPNU USA
-http://192.168.0.15:6060/link?channel=316
+http://192.168.0.19:6060/link?channel=316
 #EXTINF:-1 tvg-id="FX TV" status="timeout",FX TV
-http://192.168.0.15:6060/link?channel=317
+http://192.168.0.19:6060/link?channel=317
 #EXTINF:-1 tvg-id="Game Show Network" status="timeout",Game Show Network
-http://192.168.0.15:6060/link?channel=319
+http://192.168.0.19:6060/link?channel=319
 #EXTINF:-1 tvg-id="The Hallmark Channel" status="timeout",The Hallmark Channel
-http://192.168.0.15:6060/link?channel=320
+http://192.168.0.19:6060/link?channel=320
 #EXTINF:-1 tvg-id="HBO USA" status="timeout",HBO USA
-http://192.168.0.15:6060/link?channel=321
+http://192.168.0.19:6060/link?channel=321
 #EXTINF:-1 tvg-id="History TV" status="timeout",History TV
-http://192.168.0.15:6060/link?channel=322
+http://192.168.0.19:6060/link?channel=322
 #EXTINF:-1 tvg-id="Headline News (HLN)" status="timeout",Headline News (HLN)
-http://192.168.0.15:6060/link?channel=323
+http://192.168.0.19:6060/link?channel=323
 #EXTINF:-1 tvg-id="Investigation Discovery (ID)" status="timeout",Investigation Discovery (ID)
-http://192.168.0.15:6060/link?channel=324
+http://192.168.0.19:6060/link?channel=324
 #EXTINF:-1 tvg-id="ION Television" status="timeout",ION Television
-http://192.168.0.15:6060/link?channel=325
+http://192.168.0.19:6060/link?channel=325
 #EXTINF:-1 tvg-id="Lifetime Movie Network" status="timeout",Lifetime Movie Network
-http://192.168.0.15:6060/link?channel=326
+http://192.168.0.19:6060/link?channel=326
 #EXTINF:-1 tvg-id="MSNBC" status="timeout",MSNBC
-http://192.168.0.15:6060/link?channel=327
+http://192.168.0.19:6060/link?channel=327
 #EXTINF:-1 tvg-id="National Geographic (NGC)" status="timeout",National Geographic (NGC)
-http://192.168.0.15:6060/link?channel=328
+http://192.168.0.19:6060/link?channel=328
 #EXTINF:-1 tvg-id="NICK JR" status="timeout",NICK JR
-http://192.168.0.15:6060/link?channel=329
+http://192.168.0.19:6060/link?channel=329
 #EXTINF:-1 tvg-id="NICK" status="timeout",NICK
-http://192.168.0.15:6060/link?channel=330
+http://192.168.0.19:6060/link?channel=330
 #EXTINF:-1 tvg-id="Oprah Winfrey Network" status="timeout",Oprah Winfrey Network
-http://192.168.0.15:6060/link?channel=331
+http://192.168.0.19:6060/link?channel=331
 #EXTINF:-1 tvg-id="Oxygen Tv" status="timeout",Oxygen Tv
-http://192.168.0.15:6060/link?channel=332
+http://192.168.0.19:6060/link?channel=332
 #EXTINF:-1 tvg-id="Showtime USA" status="timeout",Showtime USA
-http://192.168.0.15:6060/link?channel=333
+http://192.168.0.19:6060/link?channel=333
 #EXTINF:-1 tvg-id="Syfy USA" status="timeout extreme",Syfy USA
-http://192.168.0.15:6060/link?channel=373
+http://192.168.0.19:6060/link?channel=373
 #EXTINF:-1 tvg-id="Showtime shoxbet USA" status="timeout",Showtime shoxbet USA
-http://192.168.0.15:6060/link?channel=685
+http://192.168.0.19:6060/link?channel=685
 #EXTINF:-1 tvg-id="Showtime show2 USA" status="timeout",Showtime show2 USA
-http://192.168.0.15:6060/link?channel=792
+http://192.168.0.19:6060/link?channel=792
 #EXTINF:-1 tvg-id="Showtime showcase USA" status="timeout",Showtime showcase USA
-http://192.168.0.15:6060/link?channel=793
+http://192.168.0.19:6060/link?channel=793
 #EXTINF:-1 tvg-id="Showtime extreme USA" status="timeout",Showtime extreme USA
-http://192.168.0.15:6060/link?channel=794
+http://192.168.0.19:6060/link?channel=794
 #EXTINF:-1 tvg-id="Showtime Family USA" status="timeout extreme",Showtime family USA
-http://192.168.0.15:6060/link?channel=795
+http://192.168.0.19:6060/link?channel=795
 #EXTINF:-1 tvg-id="Showtime next USA" status="timeout extreme",Showtime next USA
-http://192.168.0.15:6060/link?channel=796
+http://192.168.0.19:6060/link?channel=796
 #EXTINF:-1 tvg-id="Showtime woman USA" status="timeout extreme",Showtime woman USA
-http://192.168.0.15:6060/link?channel=797
+http://192.168.0.19:6060/link?channel=797
 #EXTINF:-1 tvg-id="Paramount Network" status="timeout",Paramount Network
-http://192.168.0.15:6060/link?channel=334
+http://192.168.0.19:6060/link?channel=334
 #EXTINF:-1 tvg-id="Starz" status="timeout",Starz
-http://192.168.0.15:6060/link?channel=335
+http://192.168.0.19:6060/link?channel=335
 #EXTINF:-1 tvg-id="TBS" status="timeout",TBS
-http://192.168.0.15:6060/link?channel=336
+http://192.168.0.19:6060/link?channel=336
 #EXTINF:-1 tvg-id="TLC" status="timeout",TLC
-http://192.168.0.15:6060/link?channel=337
+http://192.168.0.19:6060/link?channel=337
 #EXTINF:-1 tvg-id="TNT USA" status="timeout",TNT USA
-http://192.168.0.15:6060/link?channel=338
+http://192.168.0.19:6060/link?channel=338
 #EXTINF:-1 tvg-id="SKY premiere" status="timeout",SKY premiere
-http://192.168.0.15:6060/link?channel=671
+http://192.168.0.19:6060/link?channel=671
 #EXTINF:-1 tvg-id="SKY select" status="timeout",SKY select
-http://192.168.0.15:6060/link?channel=672
+http://192.168.0.19:6060/link?channel=672
 #EXTINF:-1 tvg-id="SKY hits" status="timeout",SKY hits
-http://192.168.0.15:6060/link?channel=673
+http://192.168.0.19:6060/link?channel=673
 #EXTINF:-1 tvg-id="SKY greats" status="timeout",SKY greats
-http://192.168.0.15:6060/link?channel=674
+http://192.168.0.19:6060/link?channel=674
 #EXTINF:-1 tvg-id="SKY action" status="timeout",SKY action
-http://192.168.0.15:6060/link?channel=677
+http://192.168.0.19:6060/link?channel=677
 #EXTINF:-1 tvg-id="SKY thriller" status="timeout",SKY thriller
-http://192.168.0.15:6060/link?channel=679
+http://192.168.0.19:6060/link?channel=679
 #EXTINF:-1 tvg-id="SKY scifi" status="timeout",SKY scifi
-http://192.168.0.15:6060/link?channel=681
+http://192.168.0.19:6060/link?channel=681
 #EXTINF:-1 tvg-id="Cartoon Network" status="timeout",Cartoon Network
-http://192.168.0.15:6060/link?channel=339
+http://192.168.0.19:6060/link?channel=339
 #EXTINF:-1 tvg-id="Travel Channel" status="timeout",Travel Channel
-http://192.168.0.15:6060/link?channel=340
+http://192.168.0.19:6060/link?channel=340
 #EXTINF:-1 tvg-id="tru TV" status="timeout",tru TV
-http://192.168.0.15:6060/link?channel=341
+http://192.168.0.19:6060/link?channel=341
 #EXTINF:-1 tvg-id="TVLAND" status="timeout",TVLAND
-http://192.168.0.15:6060/link?channel=342
+http://192.168.0.19:6060/link?channel=342
 #EXTINF:-1 tvg-id="USA Network" status="timeout",USA Network
-http://192.168.0.15:6060/link?channel=343
+http://192.168.0.19:6060/link?channel=343
 #EXTINF:-1 tvg-id="VH1 USA" status="timeout",VH1 USA
-http://192.168.0.15:6060/link?channel=344
+http://192.168.0.19:6060/link?channel=344
 #EXTINF:-1 tvg-id="CNN USA" status="timeout",CNN USA
-http://192.168.0.15:6060/link?channel=345
+http://192.168.0.19:6060/link?channel=345
 #EXTINF:-1 tvg-id="Fox News" status="timeout",Fox News
-http://192.168.0.15:6060/link?channel=347
+http://192.168.0.19:6060/link?channel=347
 #EXTINF:-1 tvg-id="Dave Channel" status="timeout",Dave Channel
-http://192.168.0.15:6060/link?channel=348
+http://192.168.0.19:6060/link?channel=348
 #EXTINF:-1 tvg-id="BBC News UK" status="timeout",BBC News UK
-http://192.168.0.15:6060/link?channel=349
+http://192.168.0.19:6060/link?channel=349
 #EXTINF:-1 tvg-id="ITV 1 UK" status="timeout",ITV 1 UK
-http://192.168.0.15:6060/link?channel=350
+http://192.168.0.19:6060/link?channel=350
 #EXTINF:-1 tvg-id="ITV 2 UK" status="timeout",ITV 2 UK
-http://192.168.0.15:6060/link?channel=351
+http://192.168.0.19:6060/link?channel=351
 #EXTINF:-1 tvg-id="ITV 3 UK" status="timeout",ITV 3 UK
-http://192.168.0.15:6060/link?channel=352
+http://192.168.0.19:6060/link?channel=352
 #EXTINF:-1 tvg-id="ITV 4 UK" status="timeout",ITV 4 UK
-http://192.168.0.15:6060/link?channel=353
+http://192.168.0.19:6060/link?channel=353
 #EXTINF:-1 tvg-id="Channel 4 UK" status="timeout",Channel 4 UK
-http://192.168.0.15:6060/link?channel=354
+http://192.168.0.19:6060/link?channel=354
 #EXTINF:-1 tvg-id="Channel 5 UK" status="timeout",Channel 5 UK
-http://192.168.0.15:6060/link?channel=355
+http://192.168.0.19:6060/link?channel=355
 #EXTINF:-1 tvg-id="BBC One UK" status="timeout",BBC One UK
-http://192.168.0.15:6060/link?channel=356
+http://192.168.0.19:6060/link?channel=356
 #EXTINF:-1 tvg-id="BBC Two UK" status="timeout",BBC Two UK
-http://192.168.0.15:6060/link?channel=357
+http://192.168.0.19:6060/link?channel=357
 #EXTINF:-1 tvg-id="BBC Three UK" status="timeout",BBC Three UK
-http://192.168.0.15:6060/link?channel=358
+http://192.168.0.19:6060/link?channel=358
 #EXTINF:-1 tvg-id="BBC Four UK" status="timeout",BBC Four UK
-http://192.168.0.15:6060/link?channel=359
+http://192.168.0.19:6060/link?channel=359
 #EXTINF:-1 tvg-id="BBC America" status="timeout",BBC America
-http://192.168.0.15:6060/link?channel=305
+http://192.168.0.19:6060/link?channel=305
 #EXTINF:-1 tvg-id="Sky Witness HD" status="timeout",Sky Witness HD
-http://192.168.0.15:6060/link?channel=361
+http://192.168.0.19:6060/link?channel=361
 #EXTINF:-1 tvg-id="Sky Atlantic" status="timeout",Sky Atlantic
-http://192.168.0.15:6060/link?channel=362
+http://192.168.0.19:6060/link?channel=362
 #EXTINF:-1 tvg-id="E4 Channel" status="timeout",E4 Channel
-http://192.168.0.15:6060/link?channel=363
+http://192.168.0.19:6060/link?channel=363
 #EXTINF:-1 tvg-id="RTE 1" status="timeout",RTE 1
-http://192.168.0.15:6060/link?channel=364
+http://192.168.0.19:6060/link?channel=364
 #EXTINF:-1 tvg-id="RTE 2" status="timeout",RTE 2
-http://192.168.0.15:6060/link?channel=365
+http://192.168.0.19:6060/link?channel=365
 #EXTINF:-1 tvg-id="Sky Sports News UK" status="timeout",Sky Sports News UK
-http://192.168.0.15:6060/link?channel=366
+http://192.168.0.19:6060/link?channel=366
 #EXTINF:-1 tvg-id="MTV UK" status="timeout",MTV UK
-http://192.168.0.15:6060/link?channel=367
+http://192.168.0.19:6060/link?channel=367
 #EXTINF:-1 tvg-id="MTV USA" status="timeout",MTV USA
-http://192.168.0.15:6060/link?channel=371
+http://192.168.0.19:6060/link?channel=371
 #EXTINF:-1 tvg-id="RMC Sport" status="timeout", RMC Sport
-http://192.168.0.15:6060/link?channel=119
+http://192.168.0.19:6060/link?channel=119
 #EXTINF:-1 tvg-id="BEIN Sport 1" status="timeout", BEIN Sport 1
-http://192.168.0.15:6060/link?channel=116
+http://192.168.0.19:6060/link?channel=116
 #EXTINF:-1 tvg-id="BEIN Sport 2" status="timeout", BEIN Sport 2
-http://192.168.0.15:6060/link?channel=117
+http://192.168.0.19:6060/link?channel=117
 #EXTINF:-1 tvg-id="BEIN Sport 3" status="timeout", BEIN Sport 3
-http://192.168.0.15:6060/link?channel=118
+http://192.168.0.19:6060/link?channel=118
 #EXTINF:-1 tvg-id="BEIN Sport 4" status="timeout", BEIN Sport 4
-http://192.168.0.15:6060/link?channel=494
+http://192.168.0.19:6060/link?channel=494
 #EXTINF:-1 tvg-id="Sky sport UK foot" status="timeout", Sky sport UK foot
-http://192.168.0.15:6060/link?channel=35
+http://192.168.0.19:6060/link?channel=35
 #EXTINF:-1 tvg-id="BT Sport 1" status="timeout", BT Sport 1
-http://192.168.0.15:6060/link?channel=31
+http://192.168.0.19:6060/link?channel=31
 #EXTINF:-1 tvg-id="TF1" status="timeout", TF1
-http://192.168.0.15:6060/link?channel=469
+http://192.168.0.19:6060/link?channel=469
 #EXTINF:-1 tvg-id="M6" status="timeout", M6
-http://192.168.0.15:6060/link?channel=470
+http://192.168.0.19:6060/link?channel=470
 #EXTINF:-1 tvg-id="RTBF-1" status="timeout", RTBF-1
-http://192.168.0.15:6060/link?channel=645
+http://192.168.0.19:6060/link?channel=645
 #EXTINF:-1 tvg-id="DAZN-1" status="timeout", DAZN-1
-http://192.168.0.15:6060/link?channel=55
+http://192.168.0.19:6060/link?channel=55
 #EXTINF:-1 tvg-id="extra-1" status="timeout", extra-1
-http://192.168.0.15:6060/extra?channel=extra1
+http://192.168.0.19:6060/extra?channel=extra1
 #EXTINF:-1 tvg-id="extra-2" status="timeout", extra-2
-http://192.168.0.15:6060/extra?channel=extra2
+http://192.168.0.19:6060/extra?channel=extra2
 #EXTINF:-1 tvg-id="extra-3" status="timeout", extra-3
-http://192.168.0.15:6060/extra?channel=extra3
+http://192.168.0.19:6060/extra?channel=extra3
 #EXTINF:-1 tvg-id="extra-4" status="timeout", extra-4
-http://192.168.0.15:6060/extra?channel=extra4
+http://192.168.0.19:6060/extra?channel=extra4
 #EXTINF:-1 tvg-id="extra-5" status="timeout", extra-5
-http://192.168.0.15:6060/extra?channel=extra5
+http://192.168.0.19:6060/extra?channel=extra5
 #EXTINF:-1 tvg-id="extra-6" status="timeout", extra-6
-http://192.168.0.15:6060/extra?channel=extra6
+http://192.168.0.19:6060/extra?channel=extra6
 #EXTINF:-1 tvg-id="extra-1-player5" status="timeout", extra-1-player5
-http://192.168.0.15:6060/tnt?channel=ext1p5
+http://192.168.0.19:6060/tnt?channel=ext1p5
 #EXTINF:-1 tvg-id="extra-2-player5" status="timeout", extra-2-player5
-http://192.168.0.15:6060/tnt?channel=ext2p5
+http://192.168.0.19:6060/tnt?channel=ext2p5
 #EXTINF:-1 tvg-id="extra-3-player5" status="timeout", extra-3-player5
-http://192.168.0.15:6060/tnt?channel=ext3p5
+http://192.168.0.19:6060/tnt?channel=ext3p5
 #EXTINF:-1 tvg-id="extra-4-player5" status="timeout", extra-4-player5
-http://192.168.0.15:6060/tnt?channel=ext4p5
+http://192.168.0.19:6060/tnt?channel=ext4p5
 #EXTINF:-1 tvg-id="extra-5-player5" status="timeout", extra-5-player5
-http://192.168.0.15:6060/tnt?channel=ext5p5
+http://192.168.0.19:6060/tnt?channel=ext5p5
