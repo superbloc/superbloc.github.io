@@ -22,7 +22,7 @@ http://192.168.0.15:6060/link?channel=59
 #EXTINF:-1 tvg-id="CANAL live4" status="timeout",CANAL+ live4
 http://192.168.0.15:6060/link?channel=76
 #EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
-http://192.168.0.15:6060/link?channel=463
+http://192.168.0.15:6060/cdnlove?channel=463
 #EXTINF:-1 tvg-id="CBS sport" status="timeout",CBS sport
 http://192.168.0.15:6060/link?channel=767
 #EXTINF:-1 tvg-id="CANAL sport360" status="timeout",CANAL+ sport360
