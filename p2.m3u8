@@ -282,6 +282,6 @@ http://51.159.54.83/nm/tnt?channel=canal-foot
 #EXTINF:-1 tvg-id="extra-3-player5" status="timeout", extra-3-player5
 http://51.159.54.83/nm/tnt?channel=canal-sport
 #EXTINF:-1 tvg-id="extra-4-player5" status="timeout", extra-4-player5
-http://51.159.54.83/nm/tnt?channel=ext4p5
+http://51.159.54.83/nm/tnt?channel=bein-sports-2
 #EXTINF:-1 tvg-id="extra-5-player5" status="timeout", extra-5-player5
-http://51.159.54.83/nm/tnt?channel=ext5p5
+http://51.159.54.83/nm/tnt?channel=bein-sports-1
