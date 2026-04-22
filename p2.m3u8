@@ -285,3 +285,5 @@ http://51.159.54.83/nm/tntcdn?channel=canal-sport
 http://51.159.54.83/nm/tntcdn?channel=bein-sports-2
 #EXTINF:-1 tvg-id="extra-5-player5" status="timeout", extra-5-player5
 http://51.159.54.83/nm/tntcdn?channel=bein-sports-1
+#EXTINF:-1 tvg-id="extra-6-player5" status="timeout", extra-6-player5
+http://51.159.54.83/nm/tntcdn?channel=bein-sports-3
