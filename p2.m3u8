@@ -37,7 +37,8 @@ http://51.159.54.83/nm/link?channel=33
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+http://51.159.54.83/nm/tntcdn?channel=m6
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id=i"C8" status=timeout,C8
