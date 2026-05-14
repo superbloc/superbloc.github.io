@@ -41,12 +41,12 @@ https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main
 http://51.159.54.83/nm/tntcdn?channel=m6
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id=i"C8" status=timeout,C8
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
 #EXTINF:-1 tvg-id=i"W9" status=timeout,W9
-https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+http://51.159.54.83/nm/tntcdn?channel=w9
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
-https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+http://51.159.54.83/nm/tntcdn?channel=6ter
 #EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
 http://51.159.54.83/nm/tnt?channel=tmc
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
@@ -56,22 +56,12 @@ http://51.159.54.83/nm/tnt?channel=tfx
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
 https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
-#EXTINF:-1 tvg-id=i"Paris Première" status=timeout,Paris Première
-https://tvenligne.com/wp-content/uploads/TVENDIRECT/parispremier/live/playlist.m3u8
-#EXTINF:-1 tvg-id=i"Club RTL" status=timeout,Club RTL
-https://tvenligne.com/wp-content/uploads/TVENDIRECT/club_rtl/live/master.m3u8
 #EXTINF:-1 tvg-id=i"BFM TV en direct" status=timeout,BFM TV en direct
 https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id=i"BFM Business" status=timeout,BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-#EXTINF:-1 tvg-id=i"Gulli" status=timeout,Gulli
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/res/gulli-highest.m3u8
 #EXTINF:-1 tvg-id=i"L'equipe" status=timeout,L'Equipe
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
-#EXTINF:-1 tvg-id=i"LCI" status=timeout,LCI
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-#EXTINF:-1 tvg-id=i"Chérie 25" status=timeout,Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/MD.m3u8
 #EXTINF:-1 tvg-id="ABC USA" status="timeout",ABC USA
 http://51.159.54.83/nm/link?channel=51
 #EXTINF:-1 tvg-id="CBS USA" status="timeout",CBS USA
