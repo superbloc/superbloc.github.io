@@ -34,7 +34,8 @@ http://51.159.54.83/nm/link?channel=31
 #EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
 http://51.159.54.83/nm/link?channel=33
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
+http://51.159.54.83/nm/tntcdn?channel=france5
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
 #https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
@@ -54,7 +55,8 @@ http://51.159.54.83/nm/tnt?channel=tf1_series
 #EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
 http://51.159.54.83/nm/tnt?channel=tfx
 #EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
+http://51.159.54.83/nm/tntcdn?channel=france4
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
 #EXTINF:-1 tvg-id=i"BFM TV en direct" status=timeout,BFM TV en direct
 https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
