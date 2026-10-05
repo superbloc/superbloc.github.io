@@ -33,6 +33,8 @@ http://51.159.54.83/nm/link?channel=464
 http://51.159.54.83/nm/link?channel=31
 #EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
 http://51.159.54.83/nm/link?channel=33
+#EXTINF:-1 tvg-id="DAZN ligue1 France" status="timeout",DAZN ligue1 France
+http://51.159.54.83/nm/link?channel=960
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
 http://51.159.54.83/mm/tntcdn?channel=france5
 #https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
