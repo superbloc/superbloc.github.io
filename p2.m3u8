@@ -39,15 +39,18 @@ http://51.159.54.83/mm/tntcdn?channel=france5
 #https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
 #https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-http://51.159.54.83/mm/tntcdn?channel=m6
+#http://51.159.54.83/mm/tntcdn?channel=m6
+http://51.159.54.83/nm/link?channel=470
 #EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id=i"W9" status=timeout,W9
 #https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
-http://51.159.54.83/mm/tntcdn?channel=w9
+#http://51.159.54.83/mm/tntcdn?channel=w9
+http://51.159.54.83/nm/link?channel=959
 #EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
 #https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
-http://51.159.54.83/mm/tntcdn?channel=6ter
+#http://51.159.54.83/mm/tntcdn?channel=6ter
+http://51.159.54.83/nm/link?channel=963
 #EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
 http://51.159.54.83/mm/tnt?channel=tmc
 #EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
