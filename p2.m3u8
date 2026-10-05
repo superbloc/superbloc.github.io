@@ -167,6 +167,8 @@ http://51.159.54.83/nm/link?channel=796
 http://51.159.54.83/nm/link?channel=797
 #EXTINF:-1 tvg-id="Paramount Network" status="timeout",Paramount Network
 http://51.159.54.83/nm/link?channel=334
+#EXTINF:-1 tvg-id="Sundance TV" status="timeout",Sundance TV
+http://51.159.54.83/nm/link?channel=658
 #EXTINF:-1 tvg-id="Starz" status="timeout",Starz
 http://51.159.54.83/nm/link?channel=335
 #EXTINF:-1 tvg-id="TBS" status="timeout",TBS
