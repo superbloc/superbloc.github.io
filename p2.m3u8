@@ -121,6 +121,12 @@ http://51.159.54.83/nm/link?channel=296
 http://51.159.54.83/nm/link?channel=321
 #EXTINF:-1 tvg-id="HBO 2 USA" status="timeout",HBO 2 USA
 http://51.159.54.83/nm/link?channel=689
+#EXTINF:-1 tvg-id="HBO comedy USA" status="timeout",HBO comedy USA
+http://51.159.54.83/nm/link?channel=690
+#EXTINF:-1 tvg-id="HBO family USA" status="timeout",HBO family USA
+http://51.159.54.83/nm/link?channel=691
+#EXTINF:-1 tvg-id="HBO signature USA" status="timeout",HBO signature USA
+http://51.159.54.83/nm/link?channel=693
 #EXTINF:-1 tvg-id="HBO ZONE USA" status="timeout",HBO ZONE USA
 http://51.159.54.83/nm/link?channel=694
 #EXTINF:-1 tvg-id="History TV" status="timeout",History TV
@@ -169,6 +175,8 @@ http://51.159.54.83/nm/link?channel=336
 http://51.159.54.83/nm/link?channel=337
 #EXTINF:-1 tvg-id="TNT USA" status="timeout",TNT USA
 http://51.159.54.83/nm/link?channel=338
+#EXTINF:-1 tvg-id="TCM USA" status="timeout",TCM USA
+http://51.159.54.83/nm/link?channel=644
 #EXTINF:-1 tvg-id="SKY premiere" status="timeout",SKY premiere
 http://51.159.54.83/nm/link?channel=671
 #EXTINF:-1 tvg-id="SKY select" status="timeout",SKY select
