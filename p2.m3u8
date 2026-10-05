@@ -115,14 +115,16 @@ http://51.159.54.83/nm/link?channel=317
 http://51.159.54.83/nm/link?channel=319
 #EXTINF:-1 tvg-id="The Hallmark Channel" status="timeout",The Hallmark Channel
 http://51.159.54.83/nm/link?channel=320
+#EXTINF:-1 tvg-id="Hallmark movies & mysteries" status="timeout",Hallmark movies & mysteries
+http://51.159.54.83/nm/link?channel=296
 #EXTINF:-1 tvg-id="HBO USA" status="timeout",HBO USA
 http://51.159.54.83/nm/link?channel=321
+#EXTINF:-1 tvg-id="HBO 2 USA" status="timeout",HBO 2 USA
+http://51.159.54.83/nm/link?channel=689
+#EXTINF:-1 tvg-id="HBO ZONE USA" status="timeout",HBO ZONE USA
+http://51.159.54.83/nm/link?channel=694
 #EXTINF:-1 tvg-id="History TV" status="timeout",History TV
 http://51.159.54.83/nm/link?channel=322
-#EXTINF:-1 tvg-id="Headline News (HLN)" status="timeout",Headline News (HLN)
-http://51.159.54.83/nm/link?channel=323
-#EXTINF:-1 tvg-id="Investigation Discovery (ID)" status="timeout",Investigation Discovery (ID)
-http://51.159.54.83/nm/link?channel=324
 #EXTINF:-1 tvg-id="ION Television" status="timeout",ION Television
 http://51.159.54.83/nm/link?channel=325
 #EXTINF:-1 tvg-id="Lifetime Movie Network" status="timeout",Lifetime Movie Network
