@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=i"TF1 en direct" status=timeout,TF1 en direct
+#EXTINF: x-tvg-url="http://51.159.54.83/epg/xmltv_tnt.xml"
+#EXTINF:-1 tvg-id="TF1.fr" status=timeout,TF1 en direct
 http://51.159.54.83/mm/tntcdn?channel=tf1
 #http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
 #http://livetv.ktv.zone/3/play.m3u8
