@@ -113,6 +113,8 @@ http://51.159.54.83/nm/link?channel=315
 http://51.159.54.83/nm/link?channel=316
 #EXTINF:-1 tvg-id="FX TV" status="timeout",FX TV
 http://51.159.54.83/nm/link?channel=317
+#EXTINF:-1 tvg-id="FX movie channel" status="timeout",FX movie channel
+http://51.159.54.83/nm/link?channel=381
 #EXTINF:-1 tvg-id="Game Show Network" status="timeout",Game Show Network
 http://51.159.54.83/nm/link?channel=319
 #EXTINF:-1 tvg-id="The Hallmark Channel" status="timeout",The Hallmark Channel
