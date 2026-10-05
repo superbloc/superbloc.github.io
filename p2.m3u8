@@ -173,6 +173,30 @@ http://51.159.54.83/nm/link?channel=334
 http://51.159.54.83/nm/link?channel=658
 #EXTINF:-1 tvg-id="Starz" status="timeout",Starz
 http://51.159.54.83/nm/link?channel=335
+#EXTINF:-1 tvg-id="Starz cinema" status="timeout",Starz cinema
+http://51.159.54.83/nm/link?channel=970
+#EXTINF:-1 tvg-id="Starz comedy" status="timeout",Starz comedy
+http://51.159.54.83/nm/link?channel=971
+#EXTINF:-1 tvg-id="Starz edge" status="timeout",Starz edge
+http://51.159.54.83/nm/link?channel=972
+#EXTINF:-1 tvg-id="Starz in black" status="timeout",Starz in black
+http://51.159.54.83/nm/link?channel=973
+#EXTINF:-1 tvg-id="Starz kids & family" status="timeout",Starz kids & family
+http://51.159.54.83/nm/link?channel=974
+#EXTINF:-1 tvg-id="Starz encore" status="timeout",Starz encore
+http://51.159.54.83/nm/link?channel=975
+#EXTINF:-1 tvg-id="Starz encore action" status="timeout",Starz encore action
+http://51.159.54.83/nm/link?channel=976
+#EXTINF:-1 tvg-id="Starz encore black" status="timeout",Starz encore black
+http://51.159.54.83/nm/link?channel=977
+#EXTINF:-1 tvg-id="Starz encore classic" status="timeout",Starz encore classic
+http://51.159.54.83/nm/link?channel=978
+#EXTINF:-1 tvg-id="Starz encore family" status="timeout",Starz encore family
+http://51.159.54.83/nm/link?channel=979
+#EXTINF:-1 tvg-id="Starz encore suspense" status="timeout",Starz encore suspense
+http://51.159.54.83/nm/link?channel=980
+#EXTINF:-1 tvg-id="Starz encore westerns" status="timeout",Starz encore westerns
+http://51.159.54.83/nm/link?channel=981
 #EXTINF:-1 tvg-id="TBS" status="timeout",TBS
 http://51.159.54.83/nm/link?channel=336
 #EXTINF:-1 tvg-id="TLC" status="timeout",TLC
