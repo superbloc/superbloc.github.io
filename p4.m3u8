@@ -1,1799 +1,328 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="664" tvg-name="ACC Network USA" group-title="Sports - USA",ACC Network USA
-http://51.159.54.83/stream/664.m3u8
-#EXTINF:-1 tvg-id="425" tvg-name="BeIN SPORTS USA" group-title="Sports - USA",BeIN SPORTS USA
-http://51.159.54.83/stream/425.m3u8
-#EXTINF:-1 tvg-id="100" tvg-name="beIN SPORTS XTRA 1" group-title="Sports - USA",beIN SPORTS XTRA 1
-http://51.159.54.83/stream/100.m3u8
-#EXTINF:-1 tvg-id="397" tvg-name="BIG TEN Network (BTN USA)" group-title="Sports - USA",BIG TEN Network (BTN USA)
-http://51.159.54.83/stream/397.m3u8
-#EXTINF:-1 tvg-id="910" tvg-name="CBS Sports Golazo" group-title="Sports - USA",CBS Sports Golazo
-http://51.159.54.83/stream/910.m3u8
-#EXTINF:-1 tvg-id="308" tvg-name="CBS Sports Network (CBSSN)" group-title="Sports - USA",CBS Sports Network (CBSSN)
-http://51.159.54.83/stream/308.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN USA" group-title="Sports - USA",ESPN USA
-http://51.159.54.83/stream/44.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="ESPN2 USA" group-title="Sports - USA",ESPN2 USA
-http://51.159.54.83/stream/45.m3u8
-#EXTINF:-1 tvg-id="288" tvg-name="ESPNews" group-title="Sports - USA",ESPNews
-http://51.159.54.83/stream/288.m3u8
-#EXTINF:-1 tvg-id="316" tvg-name="ESPNU USA" group-title="Sports - USA",ESPNU USA
-http://51.159.54.83/stream/316.m3u8
-#EXTINF:-1 tvg-id="756" tvg-name="FOX Soccer Plus" group-title="Sports - USA",FOX Soccer Plus
-http://51.159.54.83/stream/756.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Fox Sports 1 USA" group-title="Sports - USA",Fox Sports 1 USA
-http://51.159.54.83/stream/39.m3u8
-#EXTINF:-1 tvg-id="758" tvg-name="Fox Sports 2 USA" group-title="Sports - USA",Fox Sports 2 USA
-http://51.159.54.83/stream/758.m3u8
-#EXTINF:-1 tvg-id="399" tvg-name="MLB Network USA" group-title="Sports - USA",MLB Network USA
-http://51.159.54.83/stream/399.m3u8
-#EXTINF:-1 tvg-id="404" tvg-name="NBA TV USA" group-title="Sports - USA",NBA TV USA
-http://51.159.54.83/stream/404.m3u8
-#EXTINF:-1 tvg-id="405" tvg-name="NFL Network" group-title="Sports - USA",NFL Network
-http://51.159.54.83/stream/405.m3u8
-#EXTINF:-1 tvg-id="667" tvg-name="NFL RedZone" group-title="Sports - USA",NFL RedZone
-http://51.159.54.83/stream/667.m3u8
-#EXTINF:-1 tvg-id="663" tvg-name="NHL Network USA" group-title="Sports - USA",NHL Network USA
-http://51.159.54.83/stream/663.m3u8
-#EXTINF:-1 tvg-id="287" tvg-name="Pac-12 Network USA" group-title="Sports - USA",Pac-12 Network USA
-http://51.159.54.83/stream/287.m3u8
-#EXTINF:-1 tvg-id="385" tvg-name="SEC Network USA" group-title="Sports - USA",SEC Network USA
-http://51.159.54.83/stream/385.m3u8
-#EXTINF:-1 tvg-id="923" tvg-name="Altitude Sports" group-title="Sports - USA Regional",Altitude Sports
-http://51.159.54.83/stream/923.m3u8
-#EXTINF:-1 tvg-id="776" tvg-name="Chicago Sports Network" group-title="Sports - USA Regional",Chicago Sports Network
-http://51.159.54.83/stream/776.m3u8
-#EXTINF:-1 tvg-id="890" tvg-name="FanDuel Sports Network Arizona" group-title="Sports - USA Regional",FanDuel Sports Network Arizona
-http://51.159.54.83/stream/890.m3u8
-#EXTINF:-1 tvg-id="896" tvg-name="FanDuel Sports Network Midwest" group-title="Sports - USA Regional",FanDuel Sports Network Midwest
-http://51.159.54.83/stream/896.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="FanDuel Sports Network New Orleans" group-title="Sports - USA Regional",FanDuel Sports Network New Orleans
-http://51.159.54.83/stream/897.m3u8
-#EXTINF:-1 tvg-id="898" tvg-name="FanDuel Sports Network North" group-title="Sports - USA Regional",FanDuel Sports Network North
-http://51.159.54.83/stream/898.m3u8
-#EXTINF:-1 tvg-id="899" tvg-name="FanDuel Sports Network Ohio" group-title="Sports - USA Regional",FanDuel Sports Network Ohio
-http://51.159.54.83/stream/899.m3u8
-#EXTINF:-1 tvg-id="900" tvg-name="FanDuel Sports Network Oklahoma" group-title="Sports - USA Regional",FanDuel Sports Network Oklahoma
-http://51.159.54.83/stream/900.m3u8
-#EXTINF:-1 tvg-id="902" tvg-name="FanDuel Sports Network SoCal" group-title="Sports - USA Regional",FanDuel Sports Network SoCal
-http://51.159.54.83/stream/902.m3u8
-#EXTINF:-1 tvg-id="903" tvg-name="FanDuel Sports Network South" group-title="Sports - USA Regional",FanDuel Sports Network South
-http://51.159.54.83/stream/903.m3u8
-#EXTINF:-1 tvg-id="904" tvg-name="FanDuel Sports Network Southeast" group-title="Sports - USA Regional",FanDuel Sports Network Southeast
-http://51.159.54.83/stream/904.m3u8
-#EXTINF:-1 tvg-id="905" tvg-name="FanDuel Sports Network Sun" group-title="Sports - USA Regional",FanDuel Sports Network Sun
-http://51.159.54.83/stream/905.m3u8
-#EXTINF:-1 tvg-id="906" tvg-name="FanDuel Sports Network West" group-title="Sports - USA Regional",FanDuel Sports Network West
-http://51.159.54.83/stream/906.m3u8
-#EXTINF:-1 tvg-id="907" tvg-name="FanDuel Sports Network Wisconsin" group-title="Sports - USA Regional",FanDuel Sports Network Wisconsin
-http://51.159.54.83/stream/907.m3u8
-#EXTINF:-1 tvg-id="770" tvg-name="Marquee Sports Network" group-title="Sports - USA Regional",Marquee Sports Network
-http://51.159.54.83/stream/770.m3u8
-#EXTINF:-1 tvg-id="829" tvg-name="MASN USA" group-title="Sports - USA Regional",MASN USA
-http://51.159.54.83/stream/829.m3u8
-#EXTINF:-1 tvg-id="778" tvg-name="Monumental Sports Network" group-title="Sports - USA Regional",Monumental Sports Network
-http://51.159.54.83/stream/778.m3u8
-#EXTINF:-1 tvg-id="765" tvg-name="MSG USA" group-title="Sports - USA Regional",MSG USA
-http://51.159.54.83/stream/765.m3u8
-#EXTINF:-1 tvg-id="753" tvg-name="NBC Sports Bay Area" group-title="Sports - USA Regional",NBC Sports Bay Area
-http://51.159.54.83/stream/753.m3u8
-#EXTINF:-1 tvg-id="754" tvg-name="NBC Sports Boston" group-title="Sports - USA Regional",NBC Sports Boston
-http://51.159.54.83/stream/754.m3u8
-#EXTINF:-1 tvg-id="755" tvg-name="NBC Sports California" group-title="Sports - USA Regional",NBC Sports California
-http://51.159.54.83/stream/755.m3u8
-#EXTINF:-1 tvg-id="777" tvg-name="NBC Sports Philadelphia" group-title="Sports - USA Regional",NBC Sports Philadelphia
-http://51.159.54.83/stream/777.m3u8
-#EXTINF:-1 tvg-id="762" tvg-name="NESN USA" group-title="Sports - USA Regional",NESN USA
-http://51.159.54.83/stream/762.m3u8
-#EXTINF:-1 tvg-id="920" tvg-name="Root Sports Northwest" group-title="Sports - USA Regional",Root Sports Northwest
-http://51.159.54.83/stream/920.m3u8
-#EXTINF:-1 tvg-id="921" tvg-name="Space City Home Network" group-title="Sports - USA Regional",Space City Home Network
-http://51.159.54.83/stream/921.m3u8
-#EXTINF:-1 tvg-id="764" tvg-name="Spectrum Sportsnet LA" group-title="Sports - USA Regional",Spectrum Sportsnet LA
-http://51.159.54.83/stream/764.m3u8
-#EXTINF:-1 tvg-id="982" tvg-name="Spectrum SportsNet USA" group-title="Sports - USA Regional",Spectrum SportsNet USA
-http://51.159.54.83/stream/982.m3u8
-#EXTINF:-1 tvg-id="759" tvg-name="SportsNet New York (SNY)" group-title="Sports - USA Regional",SportsNet New York (SNY)
-http://51.159.54.83/stream/759.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="SportsNet Pittsburgh" group-title="Sports - USA Regional",SportsNet Pittsburgh
-http://51.159.54.83/stream/922.m3u8
-#EXTINF:-1 tvg-id="763" tvg-name="YES Network USA" group-title="Sports - USA Regional",YES Network USA
-http://51.159.54.83/stream/763.m3u8
-#EXTINF:-1 tvg-id="766" tvg-name="ABC NY USA" group-title="Entertainment - USA Broadcast",ABC NY USA
-http://51.159.54.83/stream/766.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="ABC USA" group-title="Entertainment - USA Broadcast",ABC USA
-http://51.159.54.83/stream/51.m3u8
-#EXTINF:-1 tvg-id="283" tvg-name="Antenna TV USA" group-title="Entertainment - USA Broadcast",Antenna TV USA
-http://51.159.54.83/stream/283.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="CBS USA" group-title="Entertainment - USA Broadcast",CBS USA
-http://51.159.54.83/stream/52.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="CBSNY USA" group-title="Entertainment - USA Broadcast",CBSNY USA
-http://51.159.54.83/stream/767.m3u8
-#EXTINF:-1 tvg-id="696" tvg-name="Comet USA" group-title="Entertainment - USA Broadcast",Comet USA
-http://51.159.54.83/stream/696.m3u8
-#EXTINF:-1 tvg-id="748" tvg-name="COZI TV USA" group-title="Entertainment - USA Broadcast",COZI TV USA
-http://51.159.54.83/stream/748.m3u8
-#EXTINF:-1 tvg-id="866" tvg-name="CW Philly" group-title="Entertainment - USA Broadcast",CW Philly
-http://51.159.54.83/stream/866.m3u8
-#EXTINF:-1 tvg-id="280" tvg-name="CW PIX 11 USA" group-title="Entertainment - USA Broadcast",CW PIX 11 USA
-http://51.159.54.83/stream/280.m3u8
-#EXTINF:-1 tvg-id="300" tvg-name="CW USA" group-title="Entertainment - USA Broadcast",CW USA
-http://51.159.54.83/stream/300.m3u8
-#EXTINF:-1 tvg-id="751" tvg-name="FETV - Family Entertainment Television" group-title="Entertainment - USA Broadcast",FETV - Family Entertainment Television
-http://51.159.54.83/stream/751.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="FOX USA" group-title="Entertainment - USA Broadcast",FOX USA
-http://51.159.54.83/stream/54.m3u8
-#EXTINF:-1 tvg-id="768" tvg-name="FOXNY USA" group-title="Entertainment - USA Broadcast",FOXNY USA
-http://51.159.54.83/stream/768.m3u8
-#EXTINF:-1 tvg-id="752" tvg-name="Grit Channel" group-title="Entertainment - USA Broadcast",Grit Channel
-http://51.159.54.83/stream/752.m3u8
-#EXTINF:-1 tvg-id="282" tvg-name="Heroes & Icons (H&I) USA" group-title="Entertainment - USA Broadcast",Heroes & Icons (H&I) USA
-http://51.159.54.83/stream/282.m3u8
-#EXTINF:-1 tvg-id="325" tvg-name="ION USA" group-title="Entertainment - USA Broadcast",ION USA
-http://51.159.54.83/stream/325.m3u8
-#EXTINF:-1 tvg-id="662" tvg-name="METV USA" group-title="Entertainment - USA Broadcast",METV USA
-http://51.159.54.83/stream/662.m3u8
-#EXTINF:-1 tvg-id="654" tvg-name="MY9TV USA" group-title="Entertainment - USA Broadcast",MY9TV USA
-http://51.159.54.83/stream/654.m3u8
-#EXTINF:-1 tvg-id="53" tvg-name="NBC USA" group-title="Entertainment - USA Broadcast",NBC USA
-http://51.159.54.83/stream/53.m3u8
-#EXTINF:-1 tvg-id="277" tvg-name="NBC10 Philadelphia" group-title="Entertainment - USA Broadcast",NBC10 Philadelphia
-http://51.159.54.83/stream/277.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="NBCNY USA" group-title="Entertainment - USA Broadcast",NBCNY USA
-http://51.159.54.83/stream/769.m3u8
-#EXTINF:-1 tvg-id="210" tvg-name="PBS USA" group-title="Entertainment - USA Broadcast",PBS USA
-http://51.159.54.83/stream/210.m3u8
-#EXTINF:-1 tvg-id="360" tvg-name="5 USA" group-title="Entertainment - USA Cable",5 USA
-http://51.159.54.83/stream/360.m3u8
-#EXTINF:-1 tvg-id="302" tvg-name="A&E USA" group-title="Entertainment - USA Cable",A&E USA
-http://51.159.54.83/stream/302.m3u8
-#EXTINF:-1 tvg-id="295" tvg-name="Adult Swim" group-title="Entertainment - USA Cable",Adult Swim
-http://51.159.54.83/stream/295.m3u8
-#EXTINF:-1 tvg-id="303" tvg-name="AMC USA" group-title="Entertainment - USA Cable",AMC USA
-http://51.159.54.83/stream/303.m3u8
-#EXTINF:-1 tvg-id="306" tvg-name="BET USA" group-title="Entertainment - USA Cable",BET USA
-http://51.159.54.83/stream/306.m3u8
-#EXTINF:-1 tvg-id="307" tvg-name="Bravo USA" group-title="Entertainment - USA Cable",Bravo USA
-http://51.159.54.83/stream/307.m3u8
-#EXTINF:-1 tvg-id="831" tvg-name="Citytv" group-title="Entertainment - USA Cable",Citytv
-http://51.159.54.83/stream/831.m3u8
-#EXTINF:-1 tvg-id="715" tvg-name="Cleo TV" group-title="Entertainment - USA Cable",Cleo TV
-http://51.159.54.83/stream/715.m3u8
-#EXTINF:-1 tvg-id="310" tvg-name="Comedy Central" group-title="Entertainment - USA Cable",Comedy Central
-http://51.159.54.83/stream/310.m3u8
-#EXTINF:-1 tvg-id="315" tvg-name="E! Entertainment Television" group-title="Entertainment - USA Cable",E! Entertainment Television
-http://51.159.54.83/stream/315.m3u8
-#EXTINF:-1 tvg-id="301" tvg-name="Freeform" group-title="Entertainment - USA Cable",Freeform
-http://51.159.54.83/stream/301.m3u8
-#EXTINF:-1 tvg-id="317" tvg-name="FX USA" group-title="Entertainment - USA Cable",FX USA
-http://51.159.54.83/stream/317.m3u8
-#EXTINF:-1 tvg-id="298" tvg-name="FXX USA" group-title="Entertainment - USA Cable",FXX USA
-http://51.159.54.83/stream/298.m3u8
-#EXTINF:-1 tvg-id="319" tvg-name="Game Show Network" group-title="Entertainment - USA Cable",Game Show Network
-http://51.159.54.83/stream/319.m3u8
-#EXTINF:-1 tvg-id="326" tvg-name="Lifetime Network" group-title="Entertainment - USA Cable",Lifetime Network
-http://51.159.54.83/stream/326.m3u8
-#EXTINF:-1 tvg-id="849" tvg-name="Logo TV USA" group-title="Entertainment - USA Cable",Logo TV USA
-http://51.159.54.83/stream/849.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="Oprah Winfrey Network (OWN)" group-title="Entertainment - USA Cable",Oprah Winfrey Network (OWN)
-http://51.159.54.83/stream/331.m3u8
-#EXTINF:-1 tvg-id="334" tvg-name="Paramount Network" group-title="Entertainment - USA Cable",Paramount Network
-http://51.159.54.83/stream/334.m3u8
-#EXTINF:-1 tvg-id="653" tvg-name="POP TV USA" group-title="Entertainment - USA Cable",POP TV USA
-http://51.159.54.83/stream/653.m3u8
-#EXTINF:-1 tvg-id="373" tvg-name="SYFY USA" group-title="Entertainment - USA Cable",SYFY USA
-http://51.159.54.83/stream/373.m3u8
-#EXTINF:-1 tvg-id="336" tvg-name="TBS USA" group-title="Entertainment - USA Cable",TBS USA
-http://51.159.54.83/stream/336.m3u8
-#EXTINF:-1 tvg-id="698" tvg-name="TMC Channel USA" group-title="Entertainment - USA Cable",TMC Channel USA
-http://51.159.54.83/stream/698.m3u8
-#EXTINF:-1 tvg-id="338" tvg-name="TNT USA" group-title="Entertainment - USA Cable",TNT USA
-http://51.159.54.83/stream/338.m3u8
-#EXTINF:-1 tvg-id="341" tvg-name="TruTV USA" group-title="Entertainment - USA Cable",TruTV USA
-http://51.159.54.83/stream/341.m3u8
-#EXTINF:-1 tvg-id="660" tvg-name="TV ONE USA" group-title="Entertainment - USA Cable",TV ONE USA
-http://51.159.54.83/stream/660.m3u8
-#EXTINF:-1 tvg-id="342" tvg-name="TVLAND" group-title="Entertainment - USA Cable",TVLAND
-http://51.159.54.83/stream/342.m3u8
-#EXTINF:-1 tvg-id="343" tvg-name="USA Network" group-title="Entertainment - USA Cable",USA Network
-http://51.159.54.83/stream/343.m3u8
-#EXTINF:-1 tvg-id="659" tvg-name="VICE TV" group-title="Entertainment - USA Cable",VICE TV
-http://51.159.54.83/stream/659.m3u8
-#EXTINF:-1 tvg-id="655" tvg-name="WETV USA" group-title="Entertainment - USA Cable",WETV USA
-http://51.159.54.83/stream/655.m3u8
-#EXTINF:-1 tvg-id="374" tvg-name="Cinemax USA" group-title="Movies - USA",Cinemax USA
-http://51.159.54.83/stream/374.m3u8
-#EXTINF:-1 tvg-id="381" tvg-name="FX Movie Channel" group-title="Movies - USA",FX Movie Channel
-http://51.159.54.83/stream/381.m3u8
-#EXTINF:-1 tvg-id="699" tvg-name="Great American Family Channel (GAC)" group-title="Movies - USA",Great American Family Channel (GAC)
-http://51.159.54.83/stream/699.m3u8
-#EXTINF:-1 tvg-id="296" tvg-name="Hallmark Movies & Mysterie" group-title="Movies - USA",Hallmark Movies & Mysterie
-http://51.159.54.83/stream/296.m3u8
-#EXTINF:-1 tvg-id="690" tvg-name="HBO Comedy USA" group-title="Movies - USA",HBO Comedy USA
-http://51.159.54.83/stream/690.m3u8
-#EXTINF:-1 tvg-id="693" tvg-name="HBO Signature USA" group-title="Movies - USA",HBO Signature USA
-http://51.159.54.83/stream/693.m3u8
-#EXTINF:-1 tvg-id="321" tvg-name="HBO USA" group-title="Movies - USA",HBO USA
-http://51.159.54.83/stream/321.m3u8
-#EXTINF:-1 tvg-id="694" tvg-name="HBO Zone USA" group-title="Movies - USA",HBO Zone USA
-http://51.159.54.83/stream/694.m3u8
-#EXTINF:-1 tvg-id="689" tvg-name="HBO2 USA" group-title="Movies - USA",HBO2 USA
-http://51.159.54.83/stream/689.m3u8
-#EXTINF:-1 tvg-id="656" tvg-name="IFC TV USA" group-title="Movies - USA",IFC TV USA
-http://51.159.54.83/stream/656.m3u8
-#EXTINF:-1 tvg-id="389" tvg-name="Lifetime Movies Network" group-title="Movies - USA",Lifetime Movies Network
-http://51.159.54.83/stream/389.m3u8
-#EXTINF:-1 tvg-id="791" tvg-name="MGM+ USA / Epix" group-title="Movies - USA",MGM+ USA / Epix
-http://51.159.54.83/stream/791.m3u8
-#EXTINF:-1 tvg-id="792" tvg-name="Showtime 2 USA (SHO2) USA" group-title="Movies - USA",Showtime 2 USA (SHO2) USA
-http://51.159.54.83/stream/792.m3u8
-#EXTINF:-1 tvg-id="794" tvg-name="Showtime Extreme USA" group-title="Movies - USA",Showtime Extreme USA
-http://51.159.54.83/stream/794.m3u8
-#EXTINF:-1 tvg-id="796" tvg-name="Showtime Next (SHO Next) USA" group-title="Movies - USA",Showtime Next (SHO Next) USA
-http://51.159.54.83/stream/796.m3u8
-#EXTINF:-1 tvg-id="793" tvg-name="Showtime Showcase USA" group-title="Movies - USA",Showtime Showcase USA
-http://51.159.54.83/stream/793.m3u8
-#EXTINF:-1 tvg-id="333" tvg-name="Showtime USA" group-title="Movies - USA",Showtime USA
-http://51.159.54.83/stream/333.m3u8
-#EXTINF:-1 tvg-id="797" tvg-name="Showtime Women USA" group-title="Movies - USA",Showtime Women USA
-http://51.159.54.83/stream/797.m3u8
-#EXTINF:-1 tvg-id="335" tvg-name="Starz" group-title="Movies - USA",Starz
-http://51.159.54.83/stream/335.m3u8
-#EXTINF:-1 tvg-id="970" tvg-name="Starz Cinema" group-title="Movies - USA",Starz Cinema
-http://51.159.54.83/stream/970.m3u8
-#EXTINF:-1 tvg-id="971" tvg-name="Starz Comedy" group-title="Movies - USA",Starz Comedy
-http://51.159.54.83/stream/971.m3u8
-#EXTINF:-1 tvg-id="972" tvg-name="Starz Edge" group-title="Movies - USA",Starz Edge
-http://51.159.54.83/stream/972.m3u8
-#EXTINF:-1 tvg-id="975" tvg-name="Starz Encore" group-title="Movies - USA",Starz Encore
-http://51.159.54.83/stream/975.m3u8
-#EXTINF:-1 tvg-id="976" tvg-name="Starz Encore Action" group-title="Movies - USA",Starz Encore Action
-http://51.159.54.83/stream/976.m3u8
-#EXTINF:-1 tvg-id="977" tvg-name="Starz Encore Black" group-title="Movies - USA",Starz Encore Black
-http://51.159.54.83/stream/977.m3u8
-#EXTINF:-1 tvg-id="978" tvg-name="Starz Encore Classic" group-title="Movies - USA",Starz Encore Classic
-http://51.159.54.83/stream/978.m3u8
-#EXTINF:-1 tvg-id="979" tvg-name="Starz Encore Family" group-title="Movies - USA",Starz Encore Family
-http://51.159.54.83/stream/979.m3u8
-#EXTINF:-1 tvg-id="980" tvg-name="Starz Encore Suspense" group-title="Movies - USA",Starz Encore Suspense
-http://51.159.54.83/stream/980.m3u8
-#EXTINF:-1 tvg-id="981" tvg-name="Starz Encore Westerns" group-title="Movies - USA",Starz Encore Westerns
-http://51.159.54.83/stream/981.m3u8
-#EXTINF:-1 tvg-id="973" tvg-name="Starz In Black" group-title="Movies - USA",Starz In Black
-http://51.159.54.83/stream/973.m3u8
-#EXTINF:-1 tvg-id="658" tvg-name="Sundance TV" group-title="Movies - USA",Sundance TV
-http://51.159.54.83/stream/658.m3u8
-#EXTINF:-1 tvg-id="644" tvg-name="TCM USA" group-title="Movies - USA",TCM USA
-http://51.159.54.83/stream/644.m3u8
-#EXTINF:-1 tvg-id="320" tvg-name="The Hallmark Channel" group-title="Movies - USA",The Hallmark Channel
-http://51.159.54.83/stream/320.m3u8
-#EXTINF:-1 tvg-id="230" tvg-name="DAZN 1 UK" group-title="Sports - UK & Ireland",DAZN 1 UK
-http://51.159.54.83/stream/230.m3u8
-#EXTINF:-1 tvg-id="276" tvg-name="LaLigaTV UK" group-title="Sports - UK & Ireland",LaLigaTV UK
-http://51.159.54.83/stream/276.m3u8
-#EXTINF:-1 tvg-id="771" tvg-name="Premier Sports Ireland 1" group-title="Sports - UK & Ireland",Premier Sports Ireland 1
-http://51.159.54.83/stream/771.m3u8
-#EXTINF:-1 tvg-id="799" tvg-name="Premier Sports Ireland 2" group-title="Sports - UK & Ireland",Premier Sports Ireland 2
-http://51.159.54.83/stream/799.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="Sky Sports Action UK" group-title="Sports - UK & Ireland",Sky Sports Action UK
-http://51.159.54.83/stream/37.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="Sky Sports Football UK" group-title="Sports - UK & Ireland",Sky Sports Football UK
-http://51.159.54.83/stream/35.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="Sky Sports Main Event" group-title="Sports - UK & Ireland",Sky Sports Main Event
-http://51.159.54.83/stream/38.m3u8
-#EXTINF:-1 tvg-id="449" tvg-name="Sky Sports MIX UK" group-title="Sports - UK & Ireland",Sky Sports MIX UK
-http://51.159.54.83/stream/449.m3u8
-#EXTINF:-1 tvg-id="366" tvg-name="Sky Sports News UK" group-title="Sports - UK & Ireland",Sky Sports News UK
-http://51.159.54.83/stream/366.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="Sky sports Premier League" group-title="Sports - UK & Ireland",Sky sports Premier League
-http://51.159.54.83/stream/130.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="Sky Sports+ Plus" group-title="Sports - UK & Ireland",Sky Sports+ Plus
-http://51.159.54.83/stream/36.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="TNT Sports 1 UK" group-title="Sports - UK & Ireland",TNT Sports 1 UK
-http://51.159.54.83/stream/31.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="TNT Sports 2 UK" group-title="Sports - UK & Ireland",TNT Sports 2 UK
-http://51.159.54.83/stream/32.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="TNT Sports 3 UK" group-title="Sports - UK & Ireland",TNT Sports 3 UK
-http://51.159.54.83/stream/33.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="TNT Sports 4 UK" group-title="Sports - UK & Ireland",TNT Sports 4 UK
-http://51.159.54.83/stream/34.m3u8
-#EXTINF:-1 tvg-id="451" tvg-name="Viaplay Sports 1 UK" group-title="Sports - UK & Ireland",Viaplay Sports 1 UK
-http://51.159.54.83/stream/451.m3u8
-#EXTINF:-1 tvg-id="550" tvg-name="Viaplay Sports 2 UK" group-title="Sports - UK & Ireland",Viaplay Sports 2 UK
-http://51.159.54.83/stream/550.m3u8
-#EXTINF:-1 tvg-id="305" tvg-name="BBC America (BBCA)" group-title="Entertainment - UK & Ireland",BBC America (BBCA)
-http://51.159.54.83/stream/305.m3u8
-#EXTINF:-1 tvg-id="359" tvg-name="BBC Four UK" group-title="Entertainment - UK & Ireland",BBC Four UK
-http://51.159.54.83/stream/359.m3u8
-#EXTINF:-1 tvg-id="356" tvg-name="BBC One UK" group-title="Entertainment - UK & Ireland",BBC One UK
-http://51.159.54.83/stream/356.m3u8
-#EXTINF:-1 tvg-id="358" tvg-name="BBC Three UK" group-title="Entertainment - UK & Ireland",BBC Three UK
-http://51.159.54.83/stream/358.m3u8
-#EXTINF:-1 tvg-id="357" tvg-name="BBC Two UK" group-title="Entertainment - UK & Ireland",BBC Two UK
-http://51.159.54.83/stream/357.m3u8
-#EXTINF:-1 tvg-id="354" tvg-name="Channel 4 UK" group-title="Entertainment - UK & Ireland",Channel 4 UK
-http://51.159.54.83/stream/354.m3u8
-#EXTINF:-1 tvg-id="355" tvg-name="Channel 5 UK" group-title="Entertainment - UK & Ireland",Channel 5 UK
-http://51.159.54.83/stream/355.m3u8
-#EXTINF:-1 tvg-id="348" tvg-name="Dave" group-title="Entertainment - UK & Ireland",Dave
-http://51.159.54.83/stream/348.m3u8
-#EXTINF:-1 tvg-id="363" tvg-name="E4 Channel" group-title="Entertainment - UK & Ireland",E4 Channel
-http://51.159.54.83/stream/363.m3u8
-#EXTINF:-1 tvg-id="687" tvg-name="Gold UK" group-title="Entertainment - UK & Ireland",Gold UK
-http://51.159.54.83/stream/687.m3u8
-#EXTINF:-1 tvg-id="350" tvg-name="ITV 1 UK" group-title="Entertainment - UK & Ireland",ITV 1 UK
-http://51.159.54.83/stream/350.m3u8
-#EXTINF:-1 tvg-id="351" tvg-name="ITV 2 UK" group-title="Entertainment - UK & Ireland",ITV 2 UK
-http://51.159.54.83/stream/351.m3u8
-#EXTINF:-1 tvg-id="352" tvg-name="ITV 3 UK" group-title="Entertainment - UK & Ireland",ITV 3 UK
-http://51.159.54.83/stream/352.m3u8
-#EXTINF:-1 tvg-id="353" tvg-name="ITV 4 UK" group-title="Entertainment - UK & Ireland",ITV 4 UK
-http://51.159.54.83/stream/353.m3u8
-#EXTINF:-1 tvg-id="876" tvg-name="ITV Quiz" group-title="Entertainment - UK & Ireland",ITV Quiz
-http://51.159.54.83/stream/876.m3u8
-#EXTINF:-1 tvg-id="364" tvg-name="RTE 1" group-title="Entertainment - UK & Ireland",RTE 1
-http://51.159.54.83/stream/364.m3u8
-#EXTINF:-1 tvg-id="365" tvg-name="RTE 2" group-title="Entertainment - UK & Ireland",RTE 2
-http://51.159.54.83/stream/365.m3u8
-#EXTINF:-1 tvg-id="670" tvg-name="S4C UK" group-title="Entertainment - UK & Ireland",S4C UK
-http://51.159.54.83/stream/670.m3u8
-#EXTINF:-1 tvg-id="362" tvg-name="Sky Atlantic" group-title="Entertainment - UK & Ireland",Sky Atlantic
-http://51.159.54.83/stream/362.m3u8
-#EXTINF:-1 tvg-id="684" tvg-name="Sky Comedy UK" group-title="Entertainment - UK & Ireland",Sky Comedy UK
-http://51.159.54.83/stream/684.m3u8
-#EXTINF:-1 tvg-id="708" tvg-name="Sky MAX UK" group-title="Entertainment - UK & Ireland",Sky MAX UK
-http://51.159.54.83/stream/708.m3u8
-#EXTINF:-1 tvg-id="682" tvg-name="Sky Showcase UK" group-title="Entertainment - UK & Ireland",Sky Showcase UK
-http://51.159.54.83/stream/682.m3u8
-#EXTINF:-1 tvg-id="361" tvg-name="Sky Witness HD" group-title="Entertainment - UK & Ireland",Sky Witness HD
-http://51.159.54.83/stream/361.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="Film4 UK" group-title="Movies - UK & Ireland",Film4 UK
-http://51.159.54.83/stream/688.m3u8
-#EXTINF:-1 tvg-id="677" tvg-name="Sky Cinema Action UK" group-title="Movies - UK & Ireland",Sky Cinema Action UK
-http://51.159.54.83/stream/677.m3u8
-#EXTINF:-1 tvg-id="675" tvg-name="Sky Cinema Animation UK" group-title="Movies - UK & Ireland",Sky Cinema Animation UK
-http://51.159.54.83/stream/675.m3u8
-#EXTINF:-1 tvg-id="678" tvg-name="Sky Cinema Comedy UK" group-title="Movies - UK & Ireland",Sky Cinema Comedy UK
-http://51.159.54.83/stream/678.m3u8
-#EXTINF:-1 tvg-id="680" tvg-name="Sky Cinema Drama UK" group-title="Movies - UK & Ireland",Sky Cinema Drama UK
-http://51.159.54.83/stream/680.m3u8
-#EXTINF:-1 tvg-id="676" tvg-name="Sky Cinema Family UK" group-title="Movies - UK & Ireland",Sky Cinema Family UK
-http://51.159.54.83/stream/676.m3u8
-#EXTINF:-1 tvg-id="674" tvg-name="Sky Cinema Greats UK" group-title="Movies - UK & Ireland",Sky Cinema Greats UK
-http://51.159.54.83/stream/674.m3u8
-#EXTINF:-1 tvg-id="673" tvg-name="Sky Cinema Hits UK" group-title="Movies - UK & Ireland",Sky Cinema Hits UK
-http://51.159.54.83/stream/673.m3u8
-#EXTINF:-1 tvg-id="671" tvg-name="Sky Cinema Premiere UK" group-title="Movies - UK & Ireland",Sky Cinema Premiere UK
-http://51.159.54.83/stream/671.m3u8
-#EXTINF:-1 tvg-id="681" tvg-name="Sky Cinema Sci-Fi Horror UK" group-title="Movies - UK & Ireland",Sky Cinema Sci-Fi Horror UK
-http://51.159.54.83/stream/681.m3u8
-#EXTINF:-1 tvg-id="672" tvg-name="Sky Cinema Select UK" group-title="Movies - UK & Ireland",Sky Cinema Select UK
-http://51.159.54.83/stream/672.m3u8
-#EXTINF:-1 tvg-id="679" tvg-name="Sky Cinema Thriller UK" group-title="Movies - UK & Ireland",Sky Cinema Thriller UK
-http://51.159.54.83/stream/679.m3u8
-#EXTINF:-1 tvg-id="409" tvg-name="Sportsnet 360" group-title="Sports - Canada",Sportsnet 360
-http://51.159.54.83/stream/409.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="Sportsnet East" group-title="Sports - Canada",Sportsnet East
-http://51.159.54.83/stream/408.m3u8
-#EXTINF:-1 tvg-id="411" tvg-name="Sportsnet One" group-title="Sports - Canada",Sportsnet One
-http://51.159.54.83/stream/411.m3u8
-#EXTINF:-1 tvg-id="406" tvg-name="Sportsnet Ontario" group-title="Sports - Canada",Sportsnet Ontario
-http://51.159.54.83/stream/406.m3u8
-#EXTINF:-1 tvg-id="407" tvg-name="Sportsnet West" group-title="Sports - Canada",Sportsnet West
-http://51.159.54.83/stream/407.m3u8
-#EXTINF:-1 tvg-id="410" tvg-name="Sportsnet World" group-title="Sports - Canada",Sportsnet World
-http://51.159.54.83/stream/410.m3u8
-#EXTINF:-1 tvg-id="833" tvg-name="TVA Sports" group-title="Sports - Canada",TVA Sports
-http://51.159.54.83/stream/833.m3u8
-#EXTINF:-1 tvg-id="834" tvg-name="TVA Sports 2" group-title="Sports - Canada",TVA Sports 2
-http://51.159.54.83/stream/834.m3u8
-#EXTINF:-1 tvg-id="832" tvg-name="CBC CA" group-title="Entertainment - Canada",CBC CA
-http://51.159.54.83/stream/832.m3u8
-#EXTINF:-1 tvg-id="838" tvg-name="CTV 2 Canada" group-title="Entertainment - Canada",CTV 2 Canada
-http://51.159.54.83/stream/838.m3u8
-#EXTINF:-1 tvg-id="602" tvg-name="CTV Canada" group-title="Entertainment - Canada",CTV Canada
-http://51.159.54.83/stream/602.m3u8
-#EXTINF:-1 tvg-id="836" tvg-name="Global CA" group-title="Entertainment - Canada",Global CA
-http://51.159.54.83/stream/836.m3u8
-#EXTINF:-1 tvg-id="835" tvg-name="Noovo CA" group-title="Entertainment - Canada",Noovo CA
-http://51.159.54.83/stream/835.m3u8
-#EXTINF:-1 tvg-id="840" tvg-name="RDS 2 CA" group-title="Entertainment - Canada",RDS 2 CA
-http://51.159.54.83/stream/840.m3u8
-#EXTINF:-1 tvg-id="839" tvg-name="RDS CA" group-title="Entertainment - Canada",RDS CA
-http://51.159.54.83/stream/839.m3u8
-#EXTINF:-1 tvg-id="111" tvg-name="TSN1" group-title="Entertainment - Canada",TSN1
-http://51.159.54.83/stream/111.m3u8
-#EXTINF:-1 tvg-id="112" tvg-name="TSN2" group-title="Entertainment - Canada",TSN2
-http://51.159.54.83/stream/112.m3u8
-#EXTINF:-1 tvg-id="113" tvg-name="TSN3" group-title="Entertainment - Canada",TSN3
-http://51.159.54.83/stream/113.m3u8
-#EXTINF:-1 tvg-id="114" tvg-name="TSN4" group-title="Entertainment - Canada",TSN4
-http://51.159.54.83/stream/114.m3u8
-#EXTINF:-1 tvg-id="115" tvg-name="TSN5" group-title="Entertainment - Canada",TSN5
-http://51.159.54.83/stream/115.m3u8
-#EXTINF:-1 tvg-id="842" tvg-name="TVO CA" group-title="Entertainment - Canada",TVO CA
-http://51.159.54.83/stream/842.m3u8
-#EXTINF:-1 tvg-id="837" tvg-name="Yes TV CA" group-title="Entertainment - Canada",Yes TV CA
-http://51.159.54.83/stream/837.m3u8
-#EXTINF:-1 tvg-id="491" tvg-name="beIN SPORTS Australia 1" group-title="Sports - Australia & NZ",beIN SPORTS Australia 1
-http://51.159.54.83/stream/491.m3u8
-#EXTINF:-1 tvg-id="492" tvg-name="beIN SPORTS Australia 2" group-title="Sports - Australia & NZ",beIN SPORTS Australia 2
-http://51.159.54.83/stream/492.m3u8
-#EXTINF:-1 tvg-id="493" tvg-name="beIN SPORTS Australia 3" group-title="Sports - Australia & NZ",beIN SPORTS Australia 3
-http://51.159.54.83/stream/493.m3u8
-#EXTINF:-1 tvg-id="820" tvg-name="FOX Sports 502 AU" group-title="Sports - Australia & NZ",FOX Sports 502 AU
-http://51.159.54.83/stream/820.m3u8
-#EXTINF:-1 tvg-id="821" tvg-name="FOX Sports 503 AU" group-title="Sports - Australia & NZ",FOX Sports 503 AU
-http://51.159.54.83/stream/821.m3u8
-#EXTINF:-1 tvg-id="822" tvg-name="FOX Sports 504 AU" group-title="Sports - Australia & NZ",FOX Sports 504 AU
-http://51.159.54.83/stream/822.m3u8
-#EXTINF:-1 tvg-id="823" tvg-name="FOX Sports 505 AU" group-title="Sports - Australia & NZ",FOX Sports 505 AU
-http://51.159.54.83/stream/823.m3u8
-#EXTINF:-1 tvg-id="824" tvg-name="FOX Sports 506 AU" group-title="Sports - Australia & NZ",FOX Sports 506 AU
-http://51.159.54.83/stream/824.m3u8
-#EXTINF:-1 tvg-id="825" tvg-name="FOX Sports 507 AU" group-title="Sports - Australia & NZ",FOX Sports 507 AU
-http://51.159.54.83/stream/825.m3u8
-#EXTINF:-1 tvg-id="588" tvg-name="Sky Sport 1 NZ" group-title="Sports - Australia & NZ",Sky Sport 1 NZ
-http://51.159.54.83/stream/588.m3u8
-#EXTINF:-1 tvg-id="589" tvg-name="Sky Sport 2 NZ" group-title="Sports - Australia & NZ",Sky Sport 2 NZ
-http://51.159.54.83/stream/589.m3u8
-#EXTINF:-1 tvg-id="590" tvg-name="Sky Sport 3 NZ" group-title="Sports - Australia & NZ",Sky Sport 3 NZ
-http://51.159.54.83/stream/590.m3u8
-#EXTINF:-1 tvg-id="591" tvg-name="Sky Sport 4 NZ" group-title="Sports - Australia & NZ",Sky Sport 4 NZ
-http://51.159.54.83/stream/591.m3u8
-#EXTINF:-1 tvg-id="592" tvg-name="Sky Sport 5 NZ" group-title="Sports - Australia & NZ",Sky Sport 5 NZ
-http://51.159.54.83/stream/592.m3u8
-#EXTINF:-1 tvg-id="593" tvg-name="Sky Sport 6 NZ" group-title="Sports - Australia & NZ",Sky Sport 6 NZ
-http://51.159.54.83/stream/593.m3u8
-#EXTINF:-1 tvg-id="594" tvg-name="Sky Sport 7 NZ" group-title="Sports - Australia & NZ",Sky Sport 7 NZ
-http://51.159.54.83/stream/594.m3u8
-#EXTINF:-1 tvg-id="595" tvg-name="Sky Sport 8 NZ" group-title="Sports - Australia & NZ",Sky Sport 8 NZ
-http://51.159.54.83/stream/595.m3u8
-#EXTINF:-1 tvg-id="596" tvg-name="Sky Sport 9 NZ" group-title="Sports - Australia & NZ",Sky Sport 9 NZ
-http://51.159.54.83/stream/596.m3u8
-#EXTINF:-1 tvg-id="587" tvg-name="Sky Sport Select NZ" group-title="Sports - Australia & NZ",Sky Sport Select NZ
-http://51.159.54.83/stream/587.m3u8
-#EXTINF:-1 tvg-id="522" tvg-name="Barca TV Spain" group-title="Sports - Club TV",Barca TV Spain
-http://51.159.54.83/stream/522.m3u8
-#EXTINF:-1 tvg-id="380" tvg-name="Benfica TV PT" group-title="Sports - Club TV",Benfica TV PT
-http://51.159.54.83/stream/380.m3u8
-#EXTINF:-1 tvg-id="826" tvg-name="Liverpool TV (LFC TV)" group-title="Sports - Club TV",Liverpool TV (LFC TV)
-http://51.159.54.83/stream/826.m3u8
-#EXTINF:-1 tvg-id="377" tvg-name="MUTV UK" group-title="Sports - Club TV",MUTV UK
-http://51.159.54.83/stream/377.m3u8
-#EXTINF:-1 tvg-id="718" tvg-name="Porto Canal Portugal" group-title="Sports - Club TV",Porto Canal Portugal
-http://51.159.54.83/stream/718.m3u8
-#EXTINF:-1 tvg-id="523" tvg-name="Real Madrid TV Spain" group-title="Sports - Club TV",Real Madrid TV Spain
-http://51.159.54.83/stream/523.m3u8
-#EXTINF:-1 tvg-id="716" tvg-name="Sporting TV Portugal" group-title="Sports - Club TV",Sporting TV Portugal
-http://51.159.54.83/stream/716.m3u8
-#EXTINF:-1 tvg-id="89" tvg-name="Combate Brasil" group-title="Sports - Combat & Wrestling",Combate Brasil
-http://51.159.54.83/stream/89.m3u8
-#EXTINF:-1 tvg-id="757" tvg-name="Fight Network" group-title="Sports - Combat & Wrestling",Fight Network
-http://51.159.54.83/stream/757.m3u8
-#EXTINF:-1 tvg-id="997" tvg-name="Polsat Sport Fight HD Poland" group-title="Sports - Combat & Wrestling",Polsat Sport Fight HD Poland
-http://51.159.54.83/stream/997.m3u8
-#EXTINF:-1 tvg-id="471" tvg-name="Ring Bulgaria" group-title="Sports - Combat & Wrestling",Ring Bulgaria
-http://51.159.54.83/stream/471.m3u8
-#EXTINF:-1 tvg-id="376" tvg-name="WWE Network" group-title="Sports - Combat & Wrestling",WWE Network
-http://51.159.54.83/stream/376.m3u8
-#EXTINF:-1 tvg-id="395" tvg-name="МАТЧ! БОЕЦ Russia" group-title="Sports - Combat & Wrestling",МАТЧ! БОЕЦ Russia
-http://51.159.54.83/stream/395.m3u8
-#EXTINF:-1 tvg-id="370" tvg-name="Astro Cricket" group-title="Sports - Cricket",Astro Cricket
-http://51.159.54.83/stream/370.m3u8
-#EXTINF:-1 tvg-id="369" tvg-name="Fox Cricket" group-title="Sports - Cricket",Fox Cricket
-http://51.159.54.83/stream/369.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="Sky Sports Cricket" group-title="Sports - Cricket",Sky Sports Cricket
-http://51.159.54.83/stream/65.m3u8
-#EXTINF:-1 tvg-id="284" tvg-name="StarzPlay CricLife 1 HD" group-title="Sports - Cricket",StarzPlay CricLife 1 HD
-http://51.159.54.83/stream/284.m3u8
-#EXTINF:-1 tvg-id="368" tvg-name="SuperSport Cricket" group-title="Sports - Cricket",SuperSport Cricket
-http://51.159.54.83/stream/368.m3u8
-#EXTINF:-1 tvg-id="598" tvg-name="Willow 2 Cricket" group-title="Sports - Cricket",Willow 2 Cricket
-http://51.159.54.83/stream/598.m3u8
-#EXTINF:-1 tvg-id="346" tvg-name="Willow Cricket" group-title="Sports - Cricket",Willow Cricket
-http://51.159.54.83/stream/346.m3u8
-#EXTINF:-1 tvg-id="318" tvg-name="GOLF Channel USA" group-title="Sports - Golf",GOLF Channel USA
-http://51.159.54.83/stream/318.m3u8
-#EXTINF:-1 tvg-id="528" tvg-name="Movistar Golf Spain" group-title="Sports - Golf",Movistar Golf Spain
-http://51.159.54.83/stream/528.m3u8
-#EXTINF:-1 tvg-id="785" tvg-name="Sky Sports Golf DE" group-title="Sports - Golf",Sky Sports Golf DE
-http://51.159.54.83/stream/785.m3u8
-#EXTINF:-1 tvg-id="574" tvg-name="Sky Sports Golf Italy" group-title="Sports - Golf",Sky Sports Golf Italy
-http://51.159.54.83/stream/574.m3u8
-#EXTINF:-1 tvg-id="70" tvg-name="Sky Sports Golf UK" group-title="Sports - Golf",Sky Sports Golf UK
-http://51.159.54.83/stream/70.m3u8
-#EXTINF:-1 tvg-id="710" tvg-name="Sport KLUB Golf Croatia" group-title="Sports - Golf",Sport KLUB Golf Croatia
-http://51.159.54.83/stream/710.m3u8
-#EXTINF:-1 tvg-id="422" tvg-name="SuperSport Golf" group-title="Sports - Golf",SuperSport Golf
-http://51.159.54.83/stream/422.m3u8
-#EXTINF:-1 tvg-id="608" tvg-name="Dubai Racing 2 UAE" group-title="Sports - Horse Racing",Dubai Racing 2 UAE
-http://51.159.54.83/stream/608.m3u8
-#EXTINF:-1 tvg-id="555" tvg-name="Racing Tv UK" group-title="Sports - Horse Racing",Racing Tv UK
-http://51.159.54.83/stream/555.m3u8
-#EXTINF:-1 tvg-id="554" tvg-name="Sky Sports Racing UK" group-title="Sports - Horse Racing",Sky Sports Racing UK
-http://51.159.54.83/stream/554.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="PDC TV" group-title="Sports - International",PDC TV
-http://51.159.54.83/stream/43.m3u8
-#EXTINF:-1 tvg-id="260" tvg-name="Vodafone Sport" group-title="Sports - International",Vodafone Sport
-http://51.159.54.83/stream/260.m3u8
-#EXTINF:-1 tvg-id="961" tvg-name="Automoto La chaîne" group-title="Sports - Motorsport",Automoto La chaîne
-http://51.159.54.83/stream/961.m3u8
-#EXTINF:-1 tvg-id="273" tvg-name="Canal+ Formula 1" group-title="Sports - Motorsport",Canal+ Formula 1
-http://51.159.54.83/stream/273.m3u8
-#EXTINF:-1 tvg-id="271" tvg-name="Canal+ MotoGP France" group-title="Sports - Motorsport",Canal+ MotoGP France
-http://51.159.54.83/stream/271.m3u8
-#EXTINF:-1 tvg-id="537" tvg-name="DAZN F1 ES" group-title="Sports - Motorsport",DAZN F1 ES
-http://51.159.54.83/stream/537.m3u8
-#EXTINF:-1 tvg-id="563" tvg-name="Motowizja Poland" group-title="Sports - Motorsport",Motowizja Poland
-http://51.159.54.83/stream/563.m3u8
-#EXTINF:-1 tvg-id="646" tvg-name="Racer TV USA" group-title="Sports - Motorsport",Racer TV USA
-http://51.159.54.83/stream/646.m3u8
-#EXTINF:-1 tvg-id="607" tvg-name="Rally Tv" group-title="Sports - Motorsport",Rally Tv
-http://51.159.54.83/stream/607.m3u8
-#EXTINF:-1 tvg-id="577" tvg-name="Sky Sport F1 Italy" group-title="Sports - Motorsport",Sky Sport F1 Italy
-http://51.159.54.83/stream/577.m3u8
-#EXTINF:-1 tvg-id="575" tvg-name="Sky Sport MotoGP Italy" group-title="Sports - Motorsport",Sky Sport MotoGP Italy
-http://51.159.54.83/stream/575.m3u8
-#EXTINF:-1 tvg-id="274" tvg-name="Sky Sports F1 DE" group-title="Sports - Motorsport",Sky Sports F1 DE
-http://51.159.54.83/stream/274.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="Sky Sports F1 UK" group-title="Sports - Motorsport",Sky Sports F1 UK
-http://51.159.54.83/stream/60.m3u8
-#EXTINF:-1 tvg-id="424" tvg-name="SuperSport Motorsport" group-title="Sports - Motorsport",SuperSport Motorsport
-http://51.159.54.83/stream/424.m3u8
-#EXTINF:-1 tvg-id="702" tvg-name="TV4 Motor" group-title="Sports - Motorsport",TV4 Motor
-http://51.159.54.83/stream/702.m3u8
-#EXTINF:-1 tvg-id="272" tvg-name="V Sport Motor Sweden" group-title="Sports - Motorsport",V Sport Motor Sweden
-http://51.159.54.83/stream/272.m3u8
-#EXTINF:-1 tvg-id="612" tvg-name="Arena Sports Tenis Serbia" group-title="Sports - Tennis",Arena Sports Tenis Serbia
-http://51.159.54.83/stream/612.m3u8
-#EXTINF:-1 tvg-id="576" tvg-name="Sky Sport Tennis Italy" group-title="Sports - Tennis",Sky Sport Tennis Italy
-http://51.159.54.83/stream/576.m3u8
-#EXTINF:-1 tvg-id="884" tvg-name="Sky Sports Tennis DE" group-title="Sports - Tennis",Sky Sports Tennis DE
-http://51.159.54.83/stream/884.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="Sky Sports Tennis UK" group-title="Sports - Tennis",Sky Sports Tennis UK
-http://51.159.54.83/stream/46.m3u8
-#EXTINF:-1 tvg-id="423" tvg-name="SuperSport Tennis" group-title="Sports - Tennis",SuperSport Tennis
-http://51.159.54.83/stream/423.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="Tennis Channel" group-title="Sports - Tennis",Tennis Channel
-http://51.159.54.83/stream/40.m3u8
-#EXTINF:-1 tvg-id="709" tvg-name="Tennis+ 10" group-title="Sports - Tennis",Tennis+ 10
-http://51.159.54.83/stream/709.m3u8
-#EXTINF:-1 tvg-id="711" tvg-name="Tennis+ 12" group-title="Sports - Tennis",Tennis+ 12
-http://51.159.54.83/stream/711.m3u8
-#EXTINF:-1 tvg-id="701" tvg-name="TV4 Tennis" group-title="Sports - Tennis",TV4 Tennis
-http://51.159.54.83/stream/701.m3u8
-#EXTINF:-1 tvg-id="349" tvg-name="BBC News Channel HD" group-title="News & Weather",BBC News Channel HD
-http://51.159.54.83/stream/349.m3u8
-#EXTINF:-1 tvg-id="957" tvg-name="BFM TV France" group-title="News & Weather",BFM TV France
-http://51.159.54.83/stream/957.m3u8
-#EXTINF:-1 tvg-id="750" tvg-name="C SPAN 1" group-title="News & Weather",C SPAN 1
-http://51.159.54.83/stream/750.m3u8
-#EXTINF:-1 tvg-id="309" tvg-name="CNBC USA" group-title="News & Weather",CNBC USA
-http://51.159.54.83/stream/309.m3u8
-#EXTINF:-1 tvg-id="964" tvg-name="CNews France" group-title="News & Weather",CNews France
-http://51.159.54.83/stream/964.m3u8
-#EXTINF:-1 tvg-id="345" tvg-name="CNN USA" group-title="News & Weather",CNN USA
-http://51.159.54.83/stream/345.m3u8
-#EXTINF:-1 tvg-id="297" tvg-name="Fox Business" group-title="News & Weather",Fox Business
-http://51.159.54.83/stream/297.m3u8
-#EXTINF:-1 tvg-id="347" tvg-name="Fox News" group-title="News & Weather",Fox News
-http://51.159.54.83/stream/347.m3u8
-#EXTINF:-1 tvg-id="775" tvg-name="Fox Weather Channel" group-title="News & Weather",Fox Weather Channel
-http://51.159.54.83/stream/775.m3u8
-#EXTINF:-1 tvg-id="323" tvg-name="Headline News" group-title="News & Weather",Headline News
-http://51.159.54.83/stream/323.m3u8
-#EXTINF:-1 tvg-id="962" tvg-name="LCI France" group-title="News & Weather",LCI France
-http://51.159.54.83/stream/962.m3u8
-#EXTINF:-1 tvg-id="327" tvg-name="MSNBC" group-title="News & Weather",MSNBC
-http://51.159.54.83/stream/327.m3u8
-#EXTINF:-1 tvg-id="613" tvg-name="Newsmax USA" group-title="News & Weather",Newsmax USA
-http://51.159.54.83/stream/613.m3u8
-#EXTINF:-1 tvg-id="292" tvg-name="NewsNation USA" group-title="News & Weather",NewsNation USA
-http://51.159.54.83/stream/292.m3u8
-#EXTINF:-1 tvg-id="443" tvg-name="Polsat News Poland" group-title="News & Weather",Polsat News Poland
-http://51.159.54.83/stream/443.m3u8
-#EXTINF:-1 tvg-id="841" tvg-name="RDS Info CA" group-title="News & Weather",RDS Info CA
-http://51.159.54.83/stream/841.m3u8
-#EXTINF:-1 tvg-id="695" tvg-name="Sky NEWS UK" group-title="News & Weather",Sky NEWS UK
-http://51.159.54.83/stream/695.m3u8
-#EXTINF:-1 tvg-id="394" tvg-name="The Weather Channel" group-title="News & Weather",The Weather Channel
-http://51.159.54.83/stream/394.m3u8
-#EXTINF:-1 tvg-id="444" tvg-name="TVN24 Poland" group-title="News & Weather",TVN24 Poland
-http://51.159.54.83/stream/444.m3u8
-#EXTINF:-1 tvg-id="452" tvg-name="TVP INFO" group-title="News & Weather",TVP INFO
-http://51.159.54.83/stream/452.m3u8
-#EXTINF:-1 tvg-id="728" tvg-name="ZDF Info DE" group-title="News & Weather",ZDF Info DE
-http://51.159.54.83/stream/728.m3u8
-#EXTINF:-1 tvg-id="828" tvg-name="DSTV kykNET & kie" group-title="Entertainment - Other",DSTV kykNET & kie
-http://51.159.54.83/stream/828.m3u8
-#EXTINF:-1 tvg-id="827" tvg-name="DSTV M-Net" group-title="Entertainment - Other",DSTV M-Net
-http://51.159.54.83/stream/827.m3u8
-#EXTINF:-1 tvg-id="786" tvg-name="DSTV Mzansi Magic" group-title="Entertainment - Other",DSTV Mzansi Magic
-http://51.159.54.83/stream/786.m3u8
-#EXTINF:-1 tvg-id="761" tvg-name="Globo RIO" group-title="Entertainment - Other",Globo RIO
-http://51.159.54.83/stream/761.m3u8
-#EXTINF:-1 tvg-id="760" tvg-name="Globo SP" group-title="Entertainment - Other",Globo SP
-http://51.159.54.83/stream/760.m3u8
-#EXTINF:-1 tvg-id="562" tvg-name="Polsat Poland" group-title="Entertainment - Other",Polsat Poland
-http://51.159.54.83/stream/562.m3u8
-#EXTINF:-1 tvg-id="843" tvg-name="Prima TV RO" group-title="Entertainment - Other",Prima TV RO
-http://51.159.54.83/stream/843.m3u8
-#EXTINF:-1 tvg-id="390" tvg-name="RTL7 Netherland" group-title="Entertainment - Other",RTL7 Netherland
-http://51.159.54.83/stream/390.m3u8
-#EXTINF:-1 tvg-id="883" tvg-name="SBS6 NL" group-title="Entertainment - Other",SBS6 NL
-http://51.159.54.83/stream/883.m3u8
-#EXTINF:-1 tvg-id="565" tvg-name="TVN HD Poland" group-title="Entertainment - Other",TVN HD Poland
-http://51.159.54.83/stream/565.m3u8
-#EXTINF:-1 tvg-id="560" tvg-name="TVP1 Poland" group-title="Entertainment - Other",TVP1 Poland
-http://51.159.54.83/stream/560.m3u8
-#EXTINF:-1 tvg-id="561" tvg-name="TVP2 Poland" group-title="Entertainment - Other",TVP2 Poland
-http://51.159.54.83/stream/561.m3u8
-#EXTINF:-1 tvg-id="378" tvg-name="Veronica NL Netherland" group-title="Entertainment - Other",Veronica NL Netherland
-http://51.159.54.83/stream/378.m3u8
-#EXTINF:-1 tvg-id="717" tvg-name="AXN Movies Portugal" group-title="Movies - International",AXN Movies Portugal
-http://51.159.54.83/stream/717.m3u8
-#EXTINF:-1 tvg-id="692" tvg-name="HBO Latino USA" group-title="Movies - International",HBO Latino USA
-http://51.159.54.83/stream/692.m3u8
-#EXTINF:-1 tvg-id="816" tvg-name="V Film Family" group-title="Movies - International",V Film Family
-http://51.159.54.83/stream/816.m3u8
-#EXTINF:-1 tvg-id="815" tvg-name="V Film Premiere" group-title="Movies - International",V Film Premiere
-http://51.159.54.83/stream/815.m3u8
-#EXTINF:-1 tvg-id="543" tvg-name="Yes Movies Action Israel" group-title="Movies - International",Yes Movies Action Israel
-http://51.159.54.83/stream/543.m3u8
-#EXTINF:-1 tvg-id="545" tvg-name="Yes Movies Comedy Israel" group-title="Movies - International",Yes Movies Comedy Israel
-http://51.159.54.83/stream/545.m3u8
-#EXTINF:-1 tvg-id="648" tvg-name="Boomerang" group-title="Kids",Boomerang
-http://51.159.54.83/stream/648.m3u8
-#EXTINF:-1 tvg-id="339" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-http://51.159.54.83/stream/339.m3u8
-#EXTINF:-1 tvg-id="657" tvg-name="Discovery Family" group-title="Kids",Discovery Family
-http://51.159.54.83/stream/657.m3u8
-#EXTINF:-1 tvg-id="312" tvg-name="Disney Channel" group-title="Kids",Disney Channel
-http://51.159.54.83/stream/312.m3u8
-#EXTINF:-1 tvg-id="652" tvg-name="Disney JR" group-title="Kids",Disney JR
-http://51.159.54.83/stream/652.m3u8
-#EXTINF:-1 tvg-id="314" tvg-name="Disney XD" group-title="Kids",Disney XD
-http://51.159.54.83/stream/314.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="HBO Family USA" group-title="Kids",HBO Family USA
-http://51.159.54.83/stream/691.m3u8
-#EXTINF:-1 tvg-id="330" tvg-name="NICK" group-title="Kids",NICK
-http://51.159.54.83/stream/330.m3u8
-#EXTINF:-1 tvg-id="329" tvg-name="NICK JR" group-title="Kids",NICK JR
-http://51.159.54.83/stream/329.m3u8
-#EXTINF:-1 tvg-id="649" tvg-name="Nicktoons" group-title="Kids",Nicktoons
-http://51.159.54.83/stream/649.m3u8
-#EXTINF:-1 tvg-id="795" tvg-name="Showtime Family Zone (SHO Family Zone) USA" group-title="Kids",Showtime Family Zone (SHO Family Zone) USA
-http://51.159.54.83/stream/795.m3u8
-#EXTINF:-1 tvg-id="974" tvg-name="Starz Kids & Family" group-title="Kids",Starz Kids & Family
-http://51.159.54.83/stream/974.m3u8
-#EXTINF:-1 tvg-id="650" tvg-name="TeenNick" group-title="Kids",TeenNick
-http://51.159.54.83/stream/650.m3u8
-#EXTINF:-1 tvg-id="668" tvg-name="Universal Kids USA" group-title="Kids",Universal Kids USA
-http://51.159.54.83/stream/668.m3u8
-#EXTINF:-1 tvg-id="544" tvg-name="Yes Movies Kids Israel" group-title="Kids",Yes Movies Kids Israel
-http://51.159.54.83/stream/544.m3u8
-#EXTINF:-1 tvg-id="286" tvg-name="YTV CA" group-title="Kids",YTV CA
-http://51.159.54.83/stream/286.m3u8
-#EXTINF:-1 tvg-id="206" tvg-name="AHC (American Heroes Channel)" group-title="Documentary & Lifestyle",AHC (American Heroes Channel)
-http://51.159.54.83/stream/206.m3u8
-#EXTINF:-1 tvg-id="304" tvg-name="Animal Planet" group-title="Documentary & Lifestyle",Animal Planet
-http://51.159.54.83/stream/304.m3u8
-#EXTINF:-1 tvg-id="725" tvg-name="Arte DE" group-title="Documentary & Lifestyle",Arte DE
-http://51.159.54.83/stream/725.m3u8
-#EXTINF:-1 tvg-id="958" tvg-name="Arte France" group-title="Documentary & Lifestyle",Arte France
-http://51.159.54.83/stream/958.m3u8
-#EXTINF:-1 tvg-id="697" tvg-name="Cooking Channel USA" group-title="Documentary & Lifestyle",Cooking Channel USA
-http://51.159.54.83/stream/697.m3u8
-#EXTINF:-1 tvg-id="281" tvg-name="Court TV USA" group-title="Documentary & Lifestyle",Court TV USA
-http://51.159.54.83/stream/281.m3u8
-#EXTINF:-1 tvg-id="669" tvg-name="Crime+ Investigation USA" group-title="Documentary & Lifestyle",Crime+ Investigation USA
-http://51.159.54.83/stream/669.m3u8
-#EXTINF:-1 tvg-id="651" tvg-name="Destination America" group-title="Documentary & Lifestyle",Destination America
-http://51.159.54.83/stream/651.m3u8
-#EXTINF:-1 tvg-id="313" tvg-name="Discovery Channel" group-title="Documentary & Lifestyle",Discovery Channel
-http://51.159.54.83/stream/313.m3u8
-#EXTINF:-1 tvg-id="311" tvg-name="Discovery Life Channel" group-title="Documentary & Lifestyle",Discovery Life Channel
-http://51.159.54.83/stream/311.m3u8
-#EXTINF:-1 tvg-id="661" tvg-name="Discovery Turbo" group-title="Documentary & Lifestyle",Discovery Turbo
-http://51.159.54.83/stream/661.m3u8
-#EXTINF:-1 tvg-id="285" tvg-name="Discovery Velocity CA" group-title="Documentary & Lifestyle",Discovery Velocity CA
-http://51.159.54.83/stream/285.m3u8
-#EXTINF:-1 tvg-id="744" tvg-name="Fashion TV" group-title="Documentary & Lifestyle",Fashion TV
-http://51.159.54.83/stream/744.m3u8
-#EXTINF:-1 tvg-id="665" tvg-name="FYI" group-title="Documentary & Lifestyle",FYI
-http://51.159.54.83/stream/665.m3u8
-#EXTINF:-1 tvg-id="382" tvg-name="HGTV" group-title="Documentary & Lifestyle",HGTV
-http://51.159.54.83/stream/382.m3u8
-#EXTINF:-1 tvg-id="322" tvg-name="History USA" group-title="Documentary & Lifestyle",History USA
-http://51.159.54.83/stream/322.m3u8
-#EXTINF:-1 tvg-id="324" tvg-name="Investigation Discovery (ID USA)" group-title="Documentary & Lifestyle",Investigation Discovery (ID USA)
-http://51.159.54.83/stream/324.m3u8
-#EXTINF:-1 tvg-id="278" tvg-name="Law & Crime Network" group-title="Documentary & Lifestyle",Law & Crime Network
-http://51.159.54.83/stream/278.m3u8
-#EXTINF:-1 tvg-id="299" tvg-name="Magnolia Network" group-title="Documentary & Lifestyle",Magnolia Network
-http://51.159.54.83/stream/299.m3u8
-#EXTINF:-1 tvg-id="745" tvg-name="Nat Geo Wild USA" group-title="Documentary & Lifestyle",Nat Geo Wild USA
-http://51.159.54.83/stream/745.m3u8
-#EXTINF:-1 tvg-id="328" tvg-name="National Geographic (NGC)" group-title="Documentary & Lifestyle",National Geographic (NGC)
-http://51.159.54.83/stream/328.m3u8
-#EXTINF:-1 tvg-id="848" tvg-name="Outdoor Channel USA" group-title="Documentary & Lifestyle",Outdoor Channel USA
-http://51.159.54.83/stream/848.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="Oxygen True Crime" group-title="Documentary & Lifestyle",Oxygen True Crime
-http://51.159.54.83/stream/332.m3u8
-#EXTINF:-1 tvg-id="293" tvg-name="Reelz Channel" group-title="Documentary & Lifestyle",Reelz Channel
-http://51.159.54.83/stream/293.m3u8
-#EXTINF:-1 tvg-id="294" tvg-name="Science Channel" group-title="Documentary & Lifestyle",Science Channel
-http://51.159.54.83/stream/294.m3u8
-#EXTINF:-1 tvg-id="683" tvg-name="Sky Arts UK" group-title="Documentary & Lifestyle",Sky Arts UK
-http://51.159.54.83/stream/683.m3u8
-#EXTINF:-1 tvg-id="685" tvg-name="Sky Crime" group-title="Documentary & Lifestyle",Sky Crime
-http://51.159.54.83/stream/685.m3u8
-#EXTINF:-1 tvg-id="686" tvg-name="Sky History" group-title="Documentary & Lifestyle",Sky History
-http://51.159.54.83/stream/686.m3u8
-#EXTINF:-1 tvg-id="603" tvg-name="Smithsonian Channel" group-title="Documentary & Lifestyle",Smithsonian Channel
-http://51.159.54.83/stream/603.m3u8
-#EXTINF:-1 tvg-id="384" tvg-name="The Food Network" group-title="Documentary & Lifestyle",The Food Network
-http://51.159.54.83/stream/384.m3u8
-#EXTINF:-1 tvg-id="337" tvg-name="TLC" group-title="Documentary & Lifestyle",TLC
-http://51.159.54.83/stream/337.m3u8
-#EXTINF:-1 tvg-id="340" tvg-name="Travel Channel" group-title="Documentary & Lifestyle",Travel Channel
-http://51.159.54.83/stream/340.m3u8
-#EXTINF:-1 tvg-id="742" tvg-name="AXS TV USA" group-title="Music",AXS TV USA
-http://51.159.54.83/stream/742.m3u8
-#EXTINF:-1 tvg-id="647" tvg-name="CMT USA" group-title="Music",CMT USA
-http://51.159.54.83/stream/647.m3u8
-#EXTINF:-1 tvg-id="279" tvg-name="FUSE TV USA" group-title="Music",FUSE TV USA
-http://51.159.54.83/stream/279.m3u8
-#EXTINF:-1 tvg-id="806" tvg-name="MTV Denmark" group-title="Music",MTV Denmark
-http://51.159.54.83/stream/806.m3u8
-#EXTINF:-1 tvg-id="990" tvg-name="MTV Poland" group-title="Music",MTV Poland
-http://51.159.54.83/stream/990.m3u8
-#EXTINF:-1 tvg-id="367" tvg-name="MTV UK" group-title="Music",MTV UK
-http://51.159.54.83/stream/367.m3u8
-#EXTINF:-1 tvg-id="371" tvg-name="MTV USA" group-title="Music",MTV USA
-http://51.159.54.83/stream/371.m3u8
-#EXTINF:-1 tvg-id="666" tvg-name="Nick Music" group-title="Music",Nick Music
-http://51.159.54.83/stream/666.m3u8
-#EXTINF:-1 tvg-id="344" tvg-name="VH1 USA" group-title="Music",VH1 USA
-http://51.159.54.83/stream/344.m3u8
-#EXTINF:-1 tvg-id="486" tvg-name="Canal+ Sport 1 Afrique" group-title="Sports - Africa",Canal+ Sport 1 Afrique
-http://51.159.54.83/stream/486.m3u8
-#EXTINF:-1 tvg-id="487" tvg-name="Canal+ Sport 2 Afrique" group-title="Sports - Africa",Canal+ Sport 2 Afrique
-http://51.159.54.83/stream/487.m3u8
-#EXTINF:-1 tvg-id="488" tvg-name="Canal+ Sport 3 Afrique" group-title="Sports - Africa",Canal+ Sport 3 Afrique
-http://51.159.54.83/stream/488.m3u8
-#EXTINF:-1 tvg-id="489" tvg-name="Canal+ Sport 4 Afrique" group-title="Sports - Africa",Canal+ Sport 4 Afrique
-http://51.159.54.83/stream/489.m3u8
-#EXTINF:-1 tvg-id="490" tvg-name="Canal+ Sport 5 Afrique" group-title="Sports - Africa",Canal+ Sport 5 Afrique
-http://51.159.54.83/stream/490.m3u8
-#EXTINF:-1 tvg-id="420" tvg-name="SuperSport Action" group-title="Sports - Africa",SuperSport Action
-http://51.159.54.83/stream/420.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="Supersport Football" group-title="Sports - Africa",Supersport Football
-http://51.159.54.83/stream/56.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="SuperSport Grandstand" group-title="Sports - Africa",SuperSport Grandstand
-http://51.159.54.83/stream/412.m3u8
-#EXTINF:-1 tvg-id="415" tvg-name="SuperSport LaLiga" group-title="Sports - Africa",SuperSport LaLiga
-http://51.159.54.83/stream/415.m3u8
-#EXTINF:-1 tvg-id="572" tvg-name="SuperSport MaXimo 1" group-title="Sports - Africa",SuperSport MaXimo 1
-http://51.159.54.83/stream/572.m3u8
-#EXTINF:-1 tvg-id="414" tvg-name="SuperSport Premier league" group-title="Sports - Africa",SuperSport Premier league
-http://51.159.54.83/stream/414.m3u8
-#EXTINF:-1 tvg-id="413" tvg-name="SuperSport PSL" group-title="Sports - Africa",SuperSport PSL
-http://51.159.54.83/stream/413.m3u8
-#EXTINF:-1 tvg-id="421" tvg-name="SuperSport Rugby" group-title="Sports - Africa",SuperSport Rugby
-http://51.159.54.83/stream/421.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="SuperSport Variety 1" group-title="Sports - Africa",SuperSport Variety 1
-http://51.159.54.83/stream/416.m3u8
-#EXTINF:-1 tvg-id="417" tvg-name="SuperSport Variety 2" group-title="Sports - Africa",SuperSport Variety 2
-http://51.159.54.83/stream/417.m3u8
-#EXTINF:-1 tvg-id="418" tvg-name="SuperSport Variety 3" group-title="Sports - Africa",SuperSport Variety 3
-http://51.159.54.83/stream/418.m3u8
-#EXTINF:-1 tvg-id="419" tvg-name="SuperSport Variety 4" group-title="Sports - Africa",SuperSport Variety 4
-http://51.159.54.83/stream/419.m3u8
-#EXTINF:-1 tvg-id="579" tvg-name="Arena Sport 1 BiH" group-title="Sports - Balkans & Greece",Arena Sport 1 BiH
-http://51.159.54.83/stream/579.m3u8
-#EXTINF:-1 tvg-id="432" tvg-name="Arena Sport 1 Croatia" group-title="Sports - Balkans & Greece",Arena Sport 1 Croatia
-http://51.159.54.83/stream/432.m3u8
-#EXTINF:-1 tvg-id="134" tvg-name="Arena Sport 1 Premium" group-title="Sports - Balkans & Greece",Arena Sport 1 Premium
-http://51.159.54.83/stream/134.m3u8
-#EXTINF:-1 tvg-id="429" tvg-name="Arena Sport 1 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 1 Serbia
-http://51.159.54.83/stream/429.m3u8
-#EXTINF:-1 tvg-id="433" tvg-name="Arena Sport 2 Croatia" group-title="Sports - Balkans & Greece",Arena Sport 2 Croatia
-http://51.159.54.83/stream/433.m3u8
-#EXTINF:-1 tvg-id="135" tvg-name="Arena Sport 2 Premium" group-title="Sports - Balkans & Greece",Arena Sport 2 Premium
-http://51.159.54.83/stream/135.m3u8
-#EXTINF:-1 tvg-id="430" tvg-name="Arena Sport 2 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 2 Serbia
-http://51.159.54.83/stream/430.m3u8
-#EXTINF:-1 tvg-id="434" tvg-name="Arena Sport 3 Croatia" group-title="Sports - Balkans & Greece",Arena Sport 3 Croatia
-http://51.159.54.83/stream/434.m3u8
-#EXTINF:-1 tvg-id="139" tvg-name="Arena Sport 3 Premium" group-title="Sports - Balkans & Greece",Arena Sport 3 Premium
-http://51.159.54.83/stream/139.m3u8
-#EXTINF:-1 tvg-id="431" tvg-name="Arena Sport 3 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 3 Serbia
-http://51.159.54.83/stream/431.m3u8
-#EXTINF:-1 tvg-id="580" tvg-name="Arena Sport 4 Croatia" group-title="Sports - Balkans & Greece",Arena Sport 4 Croatia
-http://51.159.54.83/stream/580.m3u8
-#EXTINF:-1 tvg-id="581" tvg-name="Arena Sport 4 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 4 Serbia
-http://51.159.54.83/stream/581.m3u8
-#EXTINF:-1 tvg-id="940" tvg-name="Arena Sport 5 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 5 Serbia
-http://51.159.54.83/stream/940.m3u8
-#EXTINF:-1 tvg-id="941" tvg-name="Arena Sport 6 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 6 Serbia
-http://51.159.54.83/stream/941.m3u8
-#EXTINF:-1 tvg-id="942" tvg-name="Arena Sport 7 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 7 Serbia
-http://51.159.54.83/stream/942.m3u8
-#EXTINF:-1 tvg-id="943" tvg-name="Arena Sport 8 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 8 Serbia
-http://51.159.54.83/stream/943.m3u8
-#EXTINF:-1 tvg-id="944" tvg-name="Arena Sport 9 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 9 Serbia
-http://51.159.54.83/stream/944.m3u8
-#EXTINF:-1 tvg-id="945" tvg-name="Arena Sport 10 Serbia" group-title="Sports - Balkans & Greece",Arena Sport 10 Serbia
-http://51.159.54.83/stream/945.m3u8
-#EXTINF:-1 tvg-id="466" tvg-name="Diema Sport 2 Bulgaria" group-title="Sports - Balkans & Greece",Diema Sport 2 Bulgaria
-http://51.159.54.83/stream/466.m3u8
-#EXTINF:-1 tvg-id="467" tvg-name="Diema Sport 3 Bulgaria" group-title="Sports - Balkans & Greece",Diema Sport 3 Bulgaria
-http://51.159.54.83/stream/467.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Diema Sport Bulgaria" group-title="Sports - Balkans & Greece",Diema Sport Bulgaria
-http://51.159.54.83/stream/465.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="EuroSport 1 Greece" group-title="Sports - Balkans & Greece",EuroSport 1 Greece
-http://51.159.54.83/stream/41.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="EuroSport 2 Greece" group-title="Sports - Balkans & Greece",EuroSport 2 Greece
-http://51.159.54.83/stream/42.m3u8
-#EXTINF:-1 tvg-id="472" tvg-name="Max Sport 1 Bulgaria" group-title="Sports - Balkans & Greece",Max Sport 1 Bulgaria
-http://51.159.54.83/stream/472.m3u8
-#EXTINF:-1 tvg-id="779" tvg-name="Max Sport 1 Croatia" group-title="Sports - Balkans & Greece",Max Sport 1 Croatia
-http://51.159.54.83/stream/779.m3u8
-#EXTINF:-1 tvg-id="473" tvg-name="Max Sport 2 Bulgaria" group-title="Sports - Balkans & Greece",Max Sport 2 Bulgaria
-http://51.159.54.83/stream/473.m3u8
-#EXTINF:-1 tvg-id="780" tvg-name="Max Sport 2 Croatia" group-title="Sports - Balkans & Greece",Max Sport 2 Croatia
-http://51.159.54.83/stream/780.m3u8
-#EXTINF:-1 tvg-id="474" tvg-name="Max Sport 3 Bulgaria" group-title="Sports - Balkans & Greece",Max Sport 3 Bulgaria
-http://51.159.54.83/stream/474.m3u8
-#EXTINF:-1 tvg-id="475" tvg-name="Max Sport 4 Bulgaria" group-title="Sports - Balkans & Greece",Max Sport 4 Bulgaria
-http://51.159.54.83/stream/475.m3u8
-#EXTINF:-1 tvg-id="468" tvg-name="Nova Sport Bulgaria" group-title="Sports - Balkans & Greece",Nova Sport Bulgaria
-http://51.159.54.83/stream/468.m3u8
-#EXTINF:-1 tvg-id="582" tvg-name="Nova Sport Serbia" group-title="Sports - Balkans & Greece",Nova Sport Serbia
-http://51.159.54.83/stream/582.m3u8
-#EXTINF:-1 tvg-id="631" tvg-name="Nova Sports 1 Greece" group-title="Sports - Balkans & Greece",Nova Sports 1 Greece
-http://51.159.54.83/stream/631.m3u8
-#EXTINF:-1 tvg-id="632" tvg-name="Nova Sports 2 Greece" group-title="Sports - Balkans & Greece",Nova Sports 2 Greece
-http://51.159.54.83/stream/632.m3u8
-#EXTINF:-1 tvg-id="633" tvg-name="Nova Sports 3 Greece" group-title="Sports - Balkans & Greece",Nova Sports 3 Greece
-http://51.159.54.83/stream/633.m3u8
-#EXTINF:-1 tvg-id="634" tvg-name="Nova Sports 4 Greece" group-title="Sports - Balkans & Greece",Nova Sports 4 Greece
-http://51.159.54.83/stream/634.m3u8
-#EXTINF:-1 tvg-id="635" tvg-name="Nova Sports 5 Greece" group-title="Sports - Balkans & Greece",Nova Sports 5 Greece
-http://51.159.54.83/stream/635.m3u8
-#EXTINF:-1 tvg-id="636" tvg-name="Nova Sports 6 Greece" group-title="Sports - Balkans & Greece",Nova Sports 6 Greece
-http://51.159.54.83/stream/636.m3u8
-#EXTINF:-1 tvg-id="639" tvg-name="Nova Sports News Greece" group-title="Sports - Balkans & Greece",Nova Sports News Greece
-http://51.159.54.83/stream/639.m3u8
-#EXTINF:-1 tvg-id="599" tvg-name="Nova Sports Premier League Greece" group-title="Sports - Balkans & Greece",Nova Sports Premier League Greece
-http://51.159.54.83/stream/599.m3u8
-#EXTINF:-1 tvg-id="638" tvg-name="Nova Sports Prime Greece" group-title="Sports - Balkans & Greece",Nova Sports Prime Greece
-http://51.159.54.83/stream/638.m3u8
-#EXTINF:-1 tvg-id="637" tvg-name="Nova Sports Start Greece" group-title="Sports - Balkans & Greece",Nova Sports Start Greece
-http://51.159.54.83/stream/637.m3u8
-#EXTINF:-1 tvg-id="101" tvg-name="Sport Klub 1 Croatia" group-title="Sports - Balkans & Greece",Sport Klub 1 Croatia
-http://51.159.54.83/stream/101.m3u8
-#EXTINF:-1 tvg-id="102" tvg-name="Sport Klub 2 Croatia" group-title="Sports - Balkans & Greece",Sport Klub 2 Croatia
-http://51.159.54.83/stream/102.m3u8
-#EXTINF:-1 tvg-id="103" tvg-name="Sport Klub 3 Croatia" group-title="Sports - Balkans & Greece",Sport Klub 3 Croatia
-http://51.159.54.83/stream/103.m3u8
-#EXTINF:-1 tvg-id="104" tvg-name="Sport Klub 4 Croatia" group-title="Sports - Balkans & Greece",Sport Klub 4 Croatia
-http://51.159.54.83/stream/104.m3u8
-#EXTINF:-1 tvg-id="453" tvg-name="Sport Klub HD Croatia" group-title="Sports - Balkans & Greece",Sport Klub HD Croatia
-http://51.159.54.83/stream/453.m3u8
-#EXTINF:-1 tvg-id="275" tvg-name="Bandsports Brasil" group-title="Sports - Brazil",Bandsports Brasil
-http://51.159.54.83/stream/275.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="ESPN Brasil" group-title="Sports - Brazil",ESPN Brasil
-http://51.159.54.83/stream/81.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="ESPN2 Brasil" group-title="Sports - Brazil",ESPN2 Brasil
-http://51.159.54.83/stream/82.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="ESPN3 Brasil" group-title="Sports - Brazil",ESPN3 Brasil
-http://51.159.54.83/stream/83.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="ESPN4 Brasil" group-title="Sports - Brazil",ESPN4 Brasil
-http://51.159.54.83/stream/85.m3u8
-#EXTINF:-1 tvg-id="88" tvg-name="Premier Brasil" group-title="Sports - Brazil",Premier Brasil
-http://51.159.54.83/stream/88.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="SporTV Brasil" group-title="Sports - Brazil",SporTV Brasil
-http://51.159.54.83/stream/78.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="SporTV2 Brasil" group-title="Sports - Brazil",SporTV2 Brasil
-http://51.159.54.83/stream/79.m3u8
-#EXTINF:-1 tvg-id="80" tvg-name="SporTV3 Brasil" group-title="Sports - Brazil",SporTV3 Brasil
-http://51.159.54.83/stream/80.m3u8
-#EXTINF:-1 tvg-id="87" tvg-name="TNT Brasil" group-title="Sports - Brazil",TNT Brasil
-http://51.159.54.83/stream/87.m3u8
-#EXTINF:-1 tvg-id="1043" tvg-name="Canal+ Sport 2 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 2 CZ
-http://51.159.54.83/stream/1043.m3u8
-#EXTINF:-1 tvg-id="1064" tvg-name="Canal+ Sport 2 SK" group-title="Sports - Czech & Slovakia",Canal+ Sport 2 SK
-http://51.159.54.83/stream/1064.m3u8
-#EXTINF:-1 tvg-id="1044" tvg-name="Canal+ Sport 3 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 3 CZ
-http://51.159.54.83/stream/1044.m3u8
-#EXTINF:-1 tvg-id="1065" tvg-name="Canal+ Sport 3 SK" group-title="Sports - Czech & Slovakia",Canal+ Sport 3 SK
-http://51.159.54.83/stream/1065.m3u8
-#EXTINF:-1 tvg-id="1045" tvg-name="Canal+ Sport 4 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 4 CZ
-http://51.159.54.83/stream/1045.m3u8
-#EXTINF:-1 tvg-id="1066" tvg-name="Canal+ Sport 4 SK" group-title="Sports - Czech & Slovakia",Canal+ Sport 4 SK
-http://51.159.54.83/stream/1066.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="Canal+ Sport 5 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 5 CZ
-http://51.159.54.83/stream/1046.m3u8
-#EXTINF:-1 tvg-id="1047" tvg-name="Canal+ Sport 6 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 6 CZ
-http://51.159.54.83/stream/1047.m3u8
-#EXTINF:-1 tvg-id="1048" tvg-name="Canal+ Sport 7 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 7 CZ
-http://51.159.54.83/stream/1048.m3u8
-#EXTINF:-1 tvg-id="1049" tvg-name="Canal+ Sport 8 CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport 8 CZ
-http://51.159.54.83/stream/1049.m3u8
-#EXTINF:-1 tvg-id="1020" tvg-name="Canal+ Sport CZ" group-title="Sports - Czech & Slovakia",Canal+ Sport CZ
-http://51.159.54.83/stream/1020.m3u8
-#EXTINF:-1 tvg-id="1063" tvg-name="Canal+ Sport SK" group-title="Sports - Czech & Slovakia",Canal+ Sport SK
-http://51.159.54.83/stream/1063.m3u8
-#EXTINF:-1 tvg-id="1033" tvg-name="CT Sport CZ" group-title="Sports - Czech & Slovakia",CT Sport CZ
-http://51.159.54.83/stream/1033.m3u8
-#EXTINF:-1 tvg-id="1021" tvg-name="Nova Sport 1 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 1 CZ
-http://51.159.54.83/stream/1021.m3u8
-#EXTINF:-1 tvg-id="1022" tvg-name="Nova Sport 2 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 2 CZ
-http://51.159.54.83/stream/1022.m3u8
-#EXTINF:-1 tvg-id="1023" tvg-name="Nova Sport 3 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 3 CZ
-http://51.159.54.83/stream/1023.m3u8
-#EXTINF:-1 tvg-id="1060" tvg-name="Nova Sport 3 SK" group-title="Sports - Czech & Slovakia",Nova Sport 3 SK
-http://51.159.54.83/stream/1060.m3u8
-#EXTINF:-1 tvg-id="1024" tvg-name="Nova Sport 4 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 4 CZ
-http://51.159.54.83/stream/1024.m3u8
-#EXTINF:-1 tvg-id="1061" tvg-name="Nova Sport 4 SK" group-title="Sports - Czech & Slovakia",Nova Sport 4 SK
-http://51.159.54.83/stream/1061.m3u8
-#EXTINF:-1 tvg-id="1025" tvg-name="Nova Sport 5 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 5 CZ
-http://51.159.54.83/stream/1025.m3u8
-#EXTINF:-1 tvg-id="1062" tvg-name="Nova Sport 5 SK" group-title="Sports - Czech & Slovakia",Nova Sport 5 SK
-http://51.159.54.83/stream/1062.m3u8
-#EXTINF:-1 tvg-id="1026" tvg-name="Nova Sport 6 CZ" group-title="Sports - Czech & Slovakia",Nova Sport 6 CZ
-http://51.159.54.83/stream/1026.m3u8
-#EXTINF:-1 tvg-id="1039" tvg-name="OnePlay MD2 CZ" group-title="Sports - Czech & Slovakia",OnePlay MD2 CZ
-http://51.159.54.83/stream/1039.m3u8
-#EXTINF:-1 tvg-id="1040" tvg-name="OnePlay MD3 CZ" group-title="Sports - Czech & Slovakia",OnePlay MD3 CZ
-http://51.159.54.83/stream/1040.m3u8
-#EXTINF:-1 tvg-id="1041" tvg-name="OnePlay MD4 CZ" group-title="Sports - Czech & Slovakia",OnePlay MD4 CZ
-http://51.159.54.83/stream/1041.m3u8
-#EXTINF:-1 tvg-id="1027" tvg-name="Oneplay Sport 1 CZ" group-title="Sports - Czech & Slovakia",Oneplay Sport 1 CZ
-http://51.159.54.83/stream/1027.m3u8
-#EXTINF:-1 tvg-id="1028" tvg-name="Oneplay Sport 2 CZ" group-title="Sports - Czech & Slovakia",Oneplay Sport 2 CZ
-http://51.159.54.83/stream/1028.m3u8
-#EXTINF:-1 tvg-id="1029" tvg-name="Oneplay Sport 3 CZ" group-title="Sports - Czech & Slovakia",Oneplay Sport 3 CZ
-http://51.159.54.83/stream/1029.m3u8
-#EXTINF:-1 tvg-id="1038" tvg-name="OnePlay Sport 4 CZ" group-title="Sports - Czech & Slovakia",OnePlay Sport 4 CZ
-http://51.159.54.83/stream/1038.m3u8
-#EXTINF:-1 tvg-id="1030" tvg-name="Premier Sport 1 CZ" group-title="Sports - Czech & Slovakia",Premier Sport 1 CZ
-http://51.159.54.83/stream/1030.m3u8
-#EXTINF:-1 tvg-id="1031" tvg-name="Premier Sport 2 CZ" group-title="Sports - Czech & Slovakia",Premier Sport 2 CZ
-http://51.159.54.83/stream/1031.m3u8
-#EXTINF:-1 tvg-id="1032" tvg-name="Premier Sport 3 CZ" group-title="Sports - Czech & Slovakia",Premier Sport 3 CZ
-http://51.159.54.83/stream/1032.m3u8
-#EXTINF:-1 tvg-id="583" tvg-name="Prima Sport 1" group-title="Sports - Czech & Slovakia",Prima Sport 1
-http://51.159.54.83/stream/583.m3u8
-#EXTINF:-1 tvg-id="584" tvg-name="Prima Sport 2" group-title="Sports - Czech & Slovakia",Prima Sport 2
-http://51.159.54.83/stream/584.m3u8
-#EXTINF:-1 tvg-id="585" tvg-name="Prima Sport 3" group-title="Sports - Czech & Slovakia",Prima Sport 3
-http://51.159.54.83/stream/585.m3u8
-#EXTINF:-1 tvg-id="586" tvg-name="Prima Sport 4" group-title="Sports - Czech & Slovakia",Prima Sport 4
-http://51.159.54.83/stream/586.m3u8
-#EXTINF:-1 tvg-id="1042" tvg-name="Sport 1 CZ" group-title="Sports - Czech & Slovakia",Sport 1 CZ
-http://51.159.54.83/stream/1042.m3u8
-#EXTINF:-1 tvg-id="116" tvg-name="beIN SPORTS 1 France" group-title="Sports - France",beIN SPORTS 1 France
-http://51.159.54.83/stream/116.m3u8
-#EXTINF:-1 tvg-id="117" tvg-name="beIN SPORTS 2 France" group-title="Sports - France",beIN SPORTS 2 France
-http://51.159.54.83/stream/117.m3u8
-#EXTINF:-1 tvg-id="118" tvg-name="beIN SPORTS 3 France" group-title="Sports - France",beIN SPORTS 3 France
-http://51.159.54.83/stream/118.m3u8
-#EXTINF:-1 tvg-id="494" tvg-name="beIN Sports MAX 4 France" group-title="Sports - France",beIN Sports MAX 4 France
-http://51.159.54.83/stream/494.m3u8
-#EXTINF:-1 tvg-id="495" tvg-name="beIN Sports MAX 5 France" group-title="Sports - France",beIN Sports MAX 5 France
-http://51.159.54.83/stream/495.m3u8
-#EXTINF:-1 tvg-id="496" tvg-name="beIN Sports MAX 6 France" group-title="Sports - France",beIN Sports MAX 6 France
-http://51.159.54.83/stream/496.m3u8
-#EXTINF:-1 tvg-id="497" tvg-name="beIN Sports MAX 7 France" group-title="Sports - France",beIN Sports MAX 7 France
-http://51.159.54.83/stream/497.m3u8
-#EXTINF:-1 tvg-id="498" tvg-name="beIN Sports MAX 8 France" group-title="Sports - France",beIN Sports MAX 8 France
-http://51.159.54.83/stream/498.m3u8
-#EXTINF:-1 tvg-id="499" tvg-name="beIN Sports MAX 9 France" group-title="Sports - France",beIN Sports MAX 9 France
-http://51.159.54.83/stream/499.m3u8
-#EXTINF:-1 tvg-id="500" tvg-name="beIN Sports MAX 10 France" group-title="Sports - France",beIN Sports MAX 10 France
-http://51.159.54.83/stream/500.m3u8
-#EXTINF:-1 tvg-id="463" tvg-name="Canal+ Foot France" group-title="Sports - France",Canal+ Foot France
-http://51.159.54.83/stream/463.m3u8
-#EXTINF:-1 tvg-id="122" tvg-name="Canal+ Sport France" group-title="Sports - France",Canal+ Sport France
-http://51.159.54.83/stream/122.m3u8
-#EXTINF:-1 tvg-id="960" tvg-name="DAZN Ligue 1 France" group-title="Sports - France",DAZN Ligue 1 France
-http://51.159.54.83/stream/960.m3u8
-#EXTINF:-1 tvg-id="772" tvg-name="Eurosport 1 France" group-title="Sports - France",Eurosport 1 France
-http://51.159.54.83/stream/772.m3u8
-#EXTINF:-1 tvg-id="773" tvg-name="Eurosport 2 France" group-title="Sports - France",Eurosport 2 France
-http://51.159.54.83/stream/773.m3u8
-#EXTINF:-1 tvg-id="645" tvg-name="L'Equipe France" group-title="Sports - France",L'Equipe France
-http://51.159.54.83/stream/645.m3u8
-#EXTINF:-1 tvg-id="119" tvg-name="RMC Sport 1 France" group-title="Sports - France",RMC Sport 1 France
-http://51.159.54.83/stream/119.m3u8
-#EXTINF:-1 tvg-id="120" tvg-name="RMC Sport 2 France" group-title="Sports - France",RMC Sport 2 France
-http://51.159.54.83/stream/120.m3u8
-#EXTINF:-1 tvg-id="965" tvg-name="Sport en France" group-title="Sports - France",Sport en France
-http://51.159.54.83/stream/965.m3u8
-#EXTINF:-1 tvg-id="426" tvg-name="DAZN 1 Bar DE" group-title="Sports - Germany & Austria",DAZN 1 Bar DE
-http://51.159.54.83/stream/426.m3u8
-#EXTINF:-1 tvg-id="427" tvg-name="DAZN 2 Bar DE" group-title="Sports - Germany & Austria",DAZN 2 Bar DE
-http://51.159.54.83/stream/427.m3u8
-#EXTINF:-1 tvg-id="918" tvg-name="DAZN Portugal FIFA Mundial de Clubes" group-title="Sports - Germany & Austria",DAZN Portugal FIFA Mundial de Clubes
-http://51.159.54.83/stream/918.m3u8
-#EXTINF:-1 tvg-id="622" tvg-name="Magenta Sport 1 HD" group-title="Sports - Germany & Austria",Magenta Sport 1 HD
-http://51.159.54.83/stream/622.m3u8
-#EXTINF:-1 tvg-id="623" tvg-name="Magenta Sport 2 HD" group-title="Sports - Germany & Austria",Magenta Sport 2 HD
-http://51.159.54.83/stream/623.m3u8
-#EXTINF:-1 tvg-id="624" tvg-name="Magenta Sport 3 HD" group-title="Sports - Germany & Austria",Magenta Sport 3 HD
-http://51.159.54.83/stream/624.m3u8
-#EXTINF:-1 tvg-id="625" tvg-name="Magenta Sport 4 HD" group-title="Sports - Germany & Austria",Magenta Sport 4 HD
-http://51.159.54.83/stream/625.m3u8
-#EXTINF:-1 tvg-id="626" tvg-name="Magenta Sport 5 HD" group-title="Sports - Germany & Austria",Magenta Sport 5 HD
-http://51.159.54.83/stream/626.m3u8
-#EXTINF:-1 tvg-id="627" tvg-name="Magenta Sport 6 HD" group-title="Sports - Germany & Austria",Magenta Sport 6 HD
-http://51.159.54.83/stream/627.m3u8
-#EXTINF:-1 tvg-id="628" tvg-name="Magenta Sport 7 HD" group-title="Sports - Germany & Austria",Magenta Sport 7 HD
-http://51.159.54.83/stream/628.m3u8
-#EXTINF:-1 tvg-id="629" tvg-name="Magenta Sport 8 HD" group-title="Sports - Germany & Austria",Magenta Sport 8 HD
-http://51.159.54.83/stream/629.m3u8
-#EXTINF:-1 tvg-id="630" tvg-name="Magenta Sport 9 HD" group-title="Sports - Germany & Austria",Magenta Sport 9 HD
-http://51.159.54.83/stream/630.m3u8
-#EXTINF:-1 tvg-id="435" tvg-name="Movistar Liga de Campeones" group-title="Sports - Germany & Austria",Movistar Liga de Campeones
-http://51.159.54.83/stream/435.m3u8
-#EXTINF:-1 tvg-id="437" tvg-name="Movistar Supercopa de España" group-title="Sports - Germany & Austria",Movistar Supercopa de España
-http://51.159.54.83/stream/437.m3u8
-#EXTINF:-1 tvg-id="559" tvg-name="Sky Sport Austria 1 HD" group-title="Sports - Germany & Austria",Sky Sport Austria 1 HD
-http://51.159.54.83/stream/559.m3u8
-#EXTINF:-1 tvg-id="558" tvg-name="Sky Sport Bundesliga 1 HD" group-title="Sports - Germany & Austria",Sky Sport Bundesliga 1 HD
-http://51.159.54.83/stream/558.m3u8
-#EXTINF:-1 tvg-id="946" tvg-name="Sky Sport Bundesliga 2" group-title="Sports - Germany & Austria",Sky Sport Bundesliga 2
-http://51.159.54.83/stream/946.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="Sky Sport Bundesliga 3" group-title="Sports - Germany & Austria",Sky Sport Bundesliga 3
-http://51.159.54.83/stream/947.m3u8
-#EXTINF:-1 tvg-id="948" tvg-name="Sky Sport Bundesliga 4" group-title="Sports - Germany & Austria",Sky Sport Bundesliga 4
-http://51.159.54.83/stream/948.m3u8
-#EXTINF:-1 tvg-id="949" tvg-name="Sky Sport Bundesliga 5" group-title="Sports - Germany & Austria",Sky Sport Bundesliga 5
-http://51.159.54.83/stream/949.m3u8
-#EXTINF:-1 tvg-id="557" tvg-name="Sky Sport Mix DE" group-title="Sports - Germany & Austria",Sky Sport Mix DE
-http://51.159.54.83/stream/557.m3u8
-#EXTINF:-1 tvg-id="556" tvg-name="Sky Sport Top Event DE" group-title="Sports - Germany & Austria",Sky Sport Top Event DE
-http://51.159.54.83/stream/556.m3u8
-#EXTINF:-1 tvg-id="240" tvg-name="Sky Sports 1 DE" group-title="Sports - Germany & Austria",Sky Sports 1 DE
-http://51.159.54.83/stream/240.m3u8
-#EXTINF:-1 tvg-id="241" tvg-name="Sky Sports 2 DE" group-title="Sports - Germany & Austria",Sky Sports 2 DE
-http://51.159.54.83/stream/241.m3u8
-#EXTINF:-1 tvg-id="641" tvg-name="Sport1 Germany" group-title="Sports - Germany & Austria",Sport1 Germany
-http://51.159.54.83/stream/641.m3u8
-#EXTINF:-1 tvg-id="571" tvg-name="SportDigital Fussball" group-title="Sports - Germany & Austria",SportDigital Fussball
-http://51.159.54.83/stream/571.m3u8
-#EXTINF:-1 tvg-id="640" tvg-name="Sportdigital1+ Germany" group-title="Sports - Germany & Austria",Sportdigital1+ Germany
-http://51.159.54.83/stream/640.m3u8
-#EXTINF:-1 tvg-id="372" tvg-name="beIN SPORTS en Espa単ol" group-title="Sports - Hispanic & Latin America",beIN SPORTS en Espa単ol
-http://51.159.54.83/stream/372.m3u8
-#EXTINF:-1 tvg-id="933" tvg-name="Claro Sports MX" group-title="Sports - Hispanic & Latin America",Claro Sports MX
-http://51.159.54.83/stream/933.m3u8
-#EXTINF:-1 tvg-id="925" tvg-name="ESPN 1 MX" group-title="Sports - Hispanic & Latin America",ESPN 1 MX
-http://51.159.54.83/stream/925.m3u8
-#EXTINF:-1 tvg-id="926" tvg-name="ESPN 2 MX" group-title="Sports - Hispanic & Latin America",ESPN 2 MX
-http://51.159.54.83/stream/926.m3u8
-#EXTINF:-1 tvg-id="927" tvg-name="ESPN 3 MX" group-title="Sports - Hispanic & Latin America",ESPN 3 MX
-http://51.159.54.83/stream/927.m3u8
-#EXTINF:-1 tvg-id="928" tvg-name="ESPN 4 MX" group-title="Sports - Hispanic & Latin America",ESPN 4 MX
-http://51.159.54.83/stream/928.m3u8
-#EXTINF:-1 tvg-id="149" tvg-name="ESPN Argentina" group-title="Sports - Hispanic & Latin America",ESPN Argentina
-http://51.159.54.83/stream/149.m3u8
-#EXTINF:-1 tvg-id="375" tvg-name="ESPN Deportes" group-title="Sports - Hispanic & Latin America",ESPN Deportes
-http://51.159.54.83/stream/375.m3u8
-#EXTINF:-1 tvg-id="387" tvg-name="ESPN Premium Argentina" group-title="Sports - Hispanic & Latin America",ESPN Premium Argentina
-http://51.159.54.83/stream/387.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="ESPN2 Argentina" group-title="Sports - Hispanic & Latin America",ESPN2 Argentina
-http://51.159.54.83/stream/150.m3u8
-#EXTINF:-1 tvg-id="798" tvg-name="ESPN3 Argentina" group-title="Sports - Hispanic & Latin America",ESPN3 Argentina
-http://51.159.54.83/stream/798.m3u8
-#EXTINF:-1 tvg-id="643" tvg-name="FOX Deportes USA" group-title="Sports - Hispanic & Latin America",FOX Deportes USA
-http://51.159.54.83/stream/643.m3u8
-#EXTINF:-1 tvg-id="929" tvg-name="Fox Sports 1 MX" group-title="Sports - Hispanic & Latin America",Fox Sports 1 MX
-http://51.159.54.83/stream/929.m3u8
-#EXTINF:-1 tvg-id="788" tvg-name="Fox Sports 2 Argentina" group-title="Sports - Hispanic & Latin America",Fox Sports 2 Argentina
-http://51.159.54.83/stream/788.m3u8
-#EXTINF:-1 tvg-id="930" tvg-name="Fox Sports 2 MX" group-title="Sports - Hispanic & Latin America",Fox Sports 2 MX
-http://51.159.54.83/stream/930.m3u8
-#EXTINF:-1 tvg-id="789" tvg-name="Fox Sports 3 Argentina" group-title="Sports - Hispanic & Latin America",Fox Sports 3 Argentina
-http://51.159.54.83/stream/789.m3u8
-#EXTINF:-1 tvg-id="931" tvg-name="Fox Sports 3 MX" group-title="Sports - Hispanic & Latin America",Fox Sports 3 MX
-http://51.159.54.83/stream/931.m3u8
-#EXTINF:-1 tvg-id="787" tvg-name="Fox Sports Argentina" group-title="Sports - Hispanic & Latin America",Fox Sports Argentina
-http://51.159.54.83/stream/787.m3u8
-#EXTINF:-1 tvg-id="830" tvg-name="Fox Sports Premium MX" group-title="Sports - Hispanic & Latin America",Fox Sports Premium MX
-http://51.159.54.83/stream/830.m3u8
-#EXTINF:-1 tvg-id="388" tvg-name="TNT Sports Argentina" group-title="Sports - Hispanic & Latin America",TNT Sports Argentina
-http://51.159.54.83/stream/388.m3u8
-#EXTINF:-1 tvg-id="642" tvg-name="TNT Sports HD Chile" group-title="Sports - Hispanic & Latin America",TNT Sports HD Chile
-http://51.159.54.83/stream/642.m3u8
-#EXTINF:-1 tvg-id="935" tvg-name="TUDN MX" group-title="Sports - Hispanic & Latin America",TUDN MX
-http://51.159.54.83/stream/935.m3u8
-#EXTINF:-1 tvg-id="66" tvg-name="TUDN USA" group-title="Sports - Hispanic & Latin America",TUDN USA
-http://51.159.54.83/stream/66.m3u8
-#EXTINF:-1 tvg-id="932" tvg-name="TVC Deportes MX" group-title="Sports - Hispanic & Latin America",TVC Deportes MX
-http://51.159.54.83/stream/932.m3u8
-#EXTINF:-1 tvg-id="746" tvg-name="TYC Sports Argentina" group-title="Sports - Hispanic & Latin America",TYC Sports Argentina
-http://51.159.54.83/stream/746.m3u8
-#EXTINF:-1 tvg-id="392" tvg-name="Win Sports+ Columbia" group-title="Sports - Hispanic & Latin America",Win Sports+ Columbia
-http://51.159.54.83/stream/392.m3u8
-#EXTINF:-1 tvg-id="140" tvg-name="Sport 1 Israel" group-title="Sports - Israel",Sport 1 Israel
-http://51.159.54.83/stream/140.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="Sport 2 Israel" group-title="Sports - Israel",Sport 2 Israel
-http://51.159.54.83/stream/141.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="Sport 3 Israel" group-title="Sports - Israel",Sport 3 Israel
-http://51.159.54.83/stream/142.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="Sport 4 Israel" group-title="Sports - Israel",Sport 4 Israel
-http://51.159.54.83/stream/143.m3u8
-#EXTINF:-1 tvg-id="148" tvg-name="Sport 5 Gold Israel" group-title="Sports - Israel",Sport 5 Gold Israel
-http://51.159.54.83/stream/148.m3u8
-#EXTINF:-1 tvg-id="144" tvg-name="Sport 5 Israel" group-title="Sports - Israel",Sport 5 Israel
-http://51.159.54.83/stream/144.m3u8
-#EXTINF:-1 tvg-id="146" tvg-name="Sport 5 Live Israel" group-title="Sports - Israel",Sport 5 Live Israel
-http://51.159.54.83/stream/146.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="Sport 5 PLUS Israel" group-title="Sports - Israel",Sport 5 PLUS Israel
-http://51.159.54.83/stream/145.m3u8
-#EXTINF:-1 tvg-id="147" tvg-name="Sport 5 Star Israel" group-title="Sports - Israel",Sport 5 Star Israel
-http://51.159.54.83/stream/147.m3u8
-#EXTINF:-1 tvg-id="877" tvg-name="DAZN ZONA Italy" group-title="Sports - Italy",DAZN ZONA Italy
-http://51.159.54.83/stream/877.m3u8
-#EXTINF:-1 tvg-id="878" tvg-name="EuroSport 1 Italy" group-title="Sports - Italy",EuroSport 1 Italy
-http://51.159.54.83/stream/878.m3u8
-#EXTINF:-1 tvg-id="879" tvg-name="EuroSport 2 Italy" group-title="Sports - Italy",EuroSport 2 Italy
-http://51.159.54.83/stream/879.m3u8
-#EXTINF:-1 tvg-id="882" tvg-name="Rai Sport Italy" group-title="Sports - Italy",Rai Sport Italy
-http://51.159.54.83/stream/882.m3u8
-#EXTINF:-1 tvg-id="871" tvg-name="Sky Calcio 1 (251) Italy" group-title="Sports - Italy",Sky Calcio 1 (251) Italy
-http://51.159.54.83/stream/871.m3u8
-#EXTINF:-1 tvg-id="872" tvg-name="Sky Calcio 2 (252) Italy" group-title="Sports - Italy",Sky Calcio 2 (252) Italy
-http://51.159.54.83/stream/872.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="Sky Calcio 3 (253) Italy" group-title="Sports - Italy",Sky Calcio 3 (253) Italy
-http://51.159.54.83/stream/873.m3u8
-#EXTINF:-1 tvg-id="874" tvg-name="Sky Calcio 4 (254) Italy" group-title="Sports - Italy",Sky Calcio 4 (254) Italy
-http://51.159.54.83/stream/874.m3u8
-#EXTINF:-1 tvg-id="869" tvg-name="Sky Sport 24 Italy" group-title="Sports - Italy",Sky Sport 24 Italy
-http://51.159.54.83/stream/869.m3u8
-#EXTINF:-1 tvg-id="462" tvg-name="Sky Sport Arena Italy" group-title="Sports - Italy",Sky Sport Arena Italy
-http://51.159.54.83/stream/462.m3u8
-#EXTINF:-1 tvg-id="875" tvg-name="Sky Sport Basket Italy" group-title="Sports - Italy",Sky Sport Basket Italy
-http://51.159.54.83/stream/875.m3u8
-#EXTINF:-1 tvg-id="870" tvg-name="Sky Sport Calcio Italy" group-title="Sports - Italy",Sky Sport Calcio Italy
-http://51.159.54.83/stream/870.m3u8
-#EXTINF:-1 tvg-id="460" tvg-name="Sky Sport MAX Italy" group-title="Sports - Italy",Sky Sport MAX Italy
-http://51.159.54.83/stream/460.m3u8
-#EXTINF:-1 tvg-id="461" tvg-name="Sky Sport UNO Italy" group-title="Sports - Italy",Sky Sport UNO Italy
-http://51.159.54.83/stream/461.m3u8
-#EXTINF:-1 tvg-id="609" tvg-name="Abu Dhabi Sports 1 Premium" group-title="Sports - Middle East & N. Africa",Abu Dhabi Sports 1 Premium
-http://51.159.54.83/stream/609.m3u8
-#EXTINF:-1 tvg-id="600" tvg-name="Abu Dhabi Sports 1 UAE" group-title="Sports - Middle East & N. Africa",Abu Dhabi Sports 1 UAE
-http://51.159.54.83/stream/600.m3u8
-#EXTINF:-1 tvg-id="610" tvg-name="Abu Dhabi Sports 2 Premium" group-title="Sports - Middle East & N. Africa",Abu Dhabi Sports 2 Premium
-http://51.159.54.83/stream/610.m3u8
-#EXTINF:-1 tvg-id="601" tvg-name="Abu Dhabi Sports 2 UAE" group-title="Sports - Middle East & N. Africa",Abu Dhabi Sports 2 UAE
-http://51.159.54.83/stream/601.m3u8
-#EXTINF:-1 tvg-id="784" tvg-name="Alkass Four" group-title="Sports - Middle East & N. Africa",Alkass Four
-http://51.159.54.83/stream/784.m3u8
-#EXTINF:-1 tvg-id="781" tvg-name="Alkass One" group-title="Sports - Middle East & N. Africa",Alkass One
-http://51.159.54.83/stream/781.m3u8
-#EXTINF:-1 tvg-id="783" tvg-name="Alkass Three" group-title="Sports - Middle East & N. Africa",Alkass Three
-http://51.159.54.83/stream/783.m3u8
-#EXTINF:-1 tvg-id="782" tvg-name="Alkass Two" group-title="Sports - Middle East & N. Africa",Alkass Two
-http://51.159.54.83/stream/782.m3u8
-#EXTINF:-1 tvg-id="91" tvg-name="beIN Sports 1 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 1 Arabic
-http://51.159.54.83/stream/91.m3u8
-#EXTINF:-1 tvg-id="92" tvg-name="beIN Sports 2 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 2 Arabic
-http://51.159.54.83/stream/92.m3u8
-#EXTINF:-1 tvg-id="93" tvg-name="beIN Sports 3 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 3 Arabic
-http://51.159.54.83/stream/93.m3u8
-#EXTINF:-1 tvg-id="94" tvg-name="beIN Sports 4 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 4 Arabic
-http://51.159.54.83/stream/94.m3u8
-#EXTINF:-1 tvg-id="95" tvg-name="beIN Sports 5 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 5 Arabic
-http://51.159.54.83/stream/95.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="beIN Sports 6 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 6 Arabic
-http://51.159.54.83/stream/96.m3u8
-#EXTINF:-1 tvg-id="97" tvg-name="beIN Sports 7 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 7 Arabic
-http://51.159.54.83/stream/97.m3u8
-#EXTINF:-1 tvg-id="98" tvg-name="beIN Sports 8 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 8 Arabic
-http://51.159.54.83/stream/98.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="beIN Sports 9 Arabic" group-title="Sports - Middle East & N. Africa",beIN Sports 9 Arabic
-http://51.159.54.83/stream/99.m3u8
-#EXTINF:-1 tvg-id="578" tvg-name="BeIN Sports HD Qatar" group-title="Sports - Middle East & N. Africa",BeIN Sports HD Qatar
-http://51.159.54.83/stream/578.m3u8
-#EXTINF:-1 tvg-id="597" tvg-name="beIN SPORTS MAX AR" group-title="Sports - Middle East & N. Africa",beIN SPORTS MAX AR
-http://51.159.54.83/stream/597.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" group-title="Sports - Middle East & N. Africa",beIN Sports MENA English 1
-http://51.159.54.83/stream/61.m3u8
-#EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" group-title="Sports - Middle East & N. Africa",beIN Sports MENA English 2
-http://51.159.54.83/stream/90.m3u8
-#EXTINF:-1 tvg-id="464" tvg-name="Canal+ Sport360" group-title="Sports - Middle East & N. Africa",Canal+ Sport360
-http://51.159.54.83/stream/464.m3u8
-#EXTINF:-1 tvg-id="604" tvg-name="Dubai Sports 1 UAE" group-title="Sports - Middle East & N. Africa",Dubai Sports 1 UAE
-http://51.159.54.83/stream/604.m3u8
-#EXTINF:-1 tvg-id="605" tvg-name="Dubai Sports 2 UAE" group-title="Sports - Middle East & N. Africa",Dubai Sports 2 UAE
-http://51.159.54.83/stream/605.m3u8
-#EXTINF:-1 tvg-id="606" tvg-name="Dubai Sports 3 UAE" group-title="Sports - Middle East & N. Africa",Dubai Sports 3 UAE
-http://51.159.54.83/stream/606.m3u8
-#EXTINF:-1 tvg-id="611" tvg-name="OnTime Sports" group-title="Sports - Middle East & N. Africa",OnTime Sports
-http://51.159.54.83/stream/611.m3u8
-#EXTINF:-1 tvg-id="614" tvg-name="SSC Sport 1" group-title="Sports - Middle East & N. Africa",SSC Sport 1
-http://51.159.54.83/stream/614.m3u8
-#EXTINF:-1 tvg-id="615" tvg-name="SSC Sport 2" group-title="Sports - Middle East & N. Africa",SSC Sport 2
-http://51.159.54.83/stream/615.m3u8
-#EXTINF:-1 tvg-id="616" tvg-name="SSC Sport 3" group-title="Sports - Middle East & N. Africa",SSC Sport 3
-http://51.159.54.83/stream/616.m3u8
-#EXTINF:-1 tvg-id="617" tvg-name="SSC Sport 4" group-title="Sports - Middle East & N. Africa",SSC Sport 4
-http://51.159.54.83/stream/617.m3u8
-#EXTINF:-1 tvg-id="618" tvg-name="SSC Sport 5" group-title="Sports - Middle East & N. Africa",SSC Sport 5
-http://51.159.54.83/stream/618.m3u8
-#EXTINF:-1 tvg-id="619" tvg-name="SSC Sport Extra 1" group-title="Sports - Middle East & N. Africa",SSC Sport Extra 1
-http://51.159.54.83/stream/619.m3u8
-#EXTINF:-1 tvg-id="620" tvg-name="SSC Sport Extra 2" group-title="Sports - Middle East & N. Africa",SSC Sport Extra 2
-http://51.159.54.83/stream/620.m3u8
-#EXTINF:-1 tvg-id="621" tvg-name="SSC Sport Extra 3" group-title="Sports - Middle East & N. Africa",SSC Sport Extra 3
-http://51.159.54.83/stream/621.m3u8
-#EXTINF:-1 tvg-id="379" tvg-name="ESPN 1 NL" group-title="Sports - Netherlands",ESPN 1 NL
-http://51.159.54.83/stream/379.m3u8
-#EXTINF:-1 tvg-id="386" tvg-name="ESPN 2 NL" group-title="Sports - Netherlands",ESPN 2 NL
-http://51.159.54.83/stream/386.m3u8
-#EXTINF:-1 tvg-id="888" tvg-name="ESPN 3 NL" group-title="Sports - Netherlands",ESPN 3 NL
-http://51.159.54.83/stream/888.m3u8
-#EXTINF:-1 tvg-id="233" tvg-name="Eurosport 1 NL" group-title="Sports - Netherlands",Eurosport 1 NL
-http://51.159.54.83/stream/233.m3u8
-#EXTINF:-1 tvg-id="234" tvg-name="Eurosport 2 NL" group-title="Sports - Netherlands",Eurosport 2 NL
-http://51.159.54.83/stream/234.m3u8
-#EXTINF:-1 tvg-id="398" tvg-name="Ziggo Sport 2 NL" group-title="Sports - Netherlands",Ziggo Sport 2 NL
-http://51.159.54.83/stream/398.m3u8
-#EXTINF:-1 tvg-id="919" tvg-name="Ziggo Sport 3 NL" group-title="Sports - Netherlands",Ziggo Sport 3 NL
-http://51.159.54.83/stream/919.m3u8
-#EXTINF:-1 tvg-id="396" tvg-name="Ziggo Sport 4 NL" group-title="Sports - Netherlands",Ziggo Sport 4 NL
-http://51.159.54.83/stream/396.m3u8
-#EXTINF:-1 tvg-id="383" tvg-name="Ziggo Sport 5 NL" group-title="Sports - Netherlands",Ziggo Sport 5 NL
-http://51.159.54.83/stream/383.m3u8
-#EXTINF:-1 tvg-id="901" tvg-name="Ziggo Sport 6 NL" group-title="Sports - Netherlands",Ziggo Sport 6 NL
-http://51.159.54.83/stream/901.m3u8
-#EXTINF:-1 tvg-id="393" tvg-name="Ziggo Sport NL" group-title="Sports - Netherlands",Ziggo Sport NL
-http://51.159.54.83/stream/393.m3u8
-#EXTINF:-1 tvg-id="231" tvg-name="Eurosport 1 SW" group-title="Sports - Nordics",Eurosport 1 SW
-http://51.159.54.83/stream/231.m3u8
-#EXTINF:-1 tvg-id="232" tvg-name="Eurosport 2 SW" group-title="Sports - Nordics",Eurosport 2 SW
-http://51.159.54.83/stream/232.m3u8
-#EXTINF:-1 tvg-id="289" tvg-name="Sport TV4 Portugal" group-title="Sports - Nordics",Sport TV4 Portugal
-http://51.159.54.83/stream/289.m3u8
-#EXTINF:-1 tvg-id="814" tvg-name="TV 2 Sport 2 Norway" group-title="Sports - Nordics",TV 2 Sport 2 Norway
-http://51.159.54.83/stream/814.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="TV 2 Sport Norway" group-title="Sports - Nordics",TV 2 Sport Norway
-http://51.159.54.83/stream/812.m3u8
-#EXTINF:-1 tvg-id="810" tvg-name="TV2 Sport Denmark" group-title="Sports - Nordics",TV2 Sport Denmark
-http://51.159.54.83/stream/810.m3u8
-#EXTINF:-1 tvg-id="808" tvg-name="TV2 Sport X Denmark" group-title="Sports - Nordics",TV2 Sport X Denmark
-http://51.159.54.83/stream/808.m3u8
-#EXTINF:-1 tvg-id="809" tvg-name="TV3 Sport Denmark" group-title="Sports - Nordics",TV3 Sport Denmark
-http://51.159.54.83/stream/809.m3u8
-#EXTINF:-1 tvg-id="747" tvg-name="TV4 Football Sweden" group-title="Sports - Nordics",TV4 Football Sweden
-http://51.159.54.83/stream/747.m3u8
-#EXTINF:-1 tvg-id="700" tvg-name="TV4 Hockey" group-title="Sports - Nordics",TV4 Hockey
-http://51.159.54.83/stream/700.m3u8
-#EXTINF:-1 tvg-id="703" tvg-name="TV4 Sport Live 1" group-title="Sports - Nordics",TV4 Sport Live 1
-http://51.159.54.83/stream/703.m3u8
-#EXTINF:-1 tvg-id="704" tvg-name="TV4 Sport Live 2" group-title="Sports - Nordics",TV4 Sport Live 2
-http://51.159.54.83/stream/704.m3u8
-#EXTINF:-1 tvg-id="705" tvg-name="TV4 Sport Live 3" group-title="Sports - Nordics",TV4 Sport Live 3
-http://51.159.54.83/stream/705.m3u8
-#EXTINF:-1 tvg-id="706" tvg-name="TV4 Sport Live 4" group-title="Sports - Nordics",TV4 Sport Live 4
-http://51.159.54.83/stream/706.m3u8
-#EXTINF:-1 tvg-id="707" tvg-name="TV4 Sportkanalen" group-title="Sports - Nordics",TV4 Sportkanalen
-http://51.159.54.83/stream/707.m3u8
-#EXTINF:-1 tvg-id="983" tvg-name="Canal+ Extra 1 Poland" group-title="Sports - Poland",Canal+ Extra 1 Poland
-http://51.159.54.83/stream/983.m3u8
-#EXTINF:-1 tvg-id="984" tvg-name="Canal+ Extra 2 Poland" group-title="Sports - Poland",Canal+ Extra 2 Poland
-http://51.159.54.83/stream/984.m3u8
-#EXTINF:-1 tvg-id="985" tvg-name="Canal+ Extra 3 Poland" group-title="Sports - Poland",Canal+ Extra 3 Poland
-http://51.159.54.83/stream/985.m3u8
-#EXTINF:-1 tvg-id="986" tvg-name="Canal+ Extra 4 Poland" group-title="Sports - Poland",Canal+ Extra 4 Poland
-http://51.159.54.83/stream/986.m3u8
-#EXTINF:-1 tvg-id="987" tvg-name="Canal+ Extra 5 Poland" group-title="Sports - Poland",Canal+ Extra 5 Poland
-http://51.159.54.83/stream/987.m3u8
-#EXTINF:-1 tvg-id="988" tvg-name="Canal+ Extra 6 Poland" group-title="Sports - Poland",Canal+ Extra 6 Poland
-http://51.159.54.83/stream/988.m3u8
-#EXTINF:-1 tvg-id="989" tvg-name="Canal+ Extra 7 Poland" group-title="Sports - Poland",Canal+ Extra 7 Poland
-http://51.159.54.83/stream/989.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="Canal+ Sport 2 Poland" group-title="Sports - Poland",Canal+ Sport 2 Poland
-http://51.159.54.83/stream/73.m3u8
-#EXTINF:-1 tvg-id="259" tvg-name="Canal+ Sport 3 Poland" group-title="Sports - Poland",Canal+ Sport 3 Poland
-http://51.159.54.83/stream/259.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="Canal+ Sport 5 Poland" group-title="Sports - Poland",Canal+ Sport 5 Poland
-http://51.159.54.83/stream/75.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="Canal+ Sport Poland" group-title="Sports - Poland",Canal+ Sport Poland
-http://51.159.54.83/stream/48.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="Eleven Sports 1 Poland" group-title="Sports - Poland",Eleven Sports 1 Poland
-http://51.159.54.83/stream/71.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="Eleven Sports 2 Poland" group-title="Sports - Poland",Eleven Sports 2 Poland
-http://51.159.54.83/stream/72.m3u8
-#EXTINF:-1 tvg-id="428" tvg-name="Eleven Sports 3 Poland" group-title="Sports - Poland",Eleven Sports 3 Poland
-http://51.159.54.83/stream/428.m3u8
-#EXTINF:-1 tvg-id="999" tvg-name="Eleven Sports 4 Poland" group-title="Sports - Poland",Eleven Sports 4 Poland
-http://51.159.54.83/stream/999.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="EuroSport 1 Poland" group-title="Sports - Poland",EuroSport 1 Poland
-http://51.159.54.83/stream/57.m3u8
-#EXTINF:-1 tvg-id="58" tvg-name="EuroSport 2 Poland" group-title="Sports - Poland",EuroSport 2 Poland
-http://51.159.54.83/stream/58.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="Polsat Sport 2 Poland" group-title="Sports - Poland",Polsat Sport 2 Poland
-http://51.159.54.83/stream/50.m3u8
-#EXTINF:-1 tvg-id="129" tvg-name="Polsat Sport 3 Poland" group-title="Sports - Poland",Polsat Sport 3 Poland
-http://51.159.54.83/stream/129.m3u8
-#EXTINF:-1 tvg-id="993" tvg-name="Polsat Sport Extra 1 HD Poland" group-title="Sports - Poland",Polsat Sport Extra 1 HD Poland
-http://51.159.54.83/stream/993.m3u8
-#EXTINF:-1 tvg-id="994" tvg-name="Polsat Sport Extra 2 HD Poland" group-title="Sports - Poland",Polsat Sport Extra 2 HD Poland
-http://51.159.54.83/stream/994.m3u8
-#EXTINF:-1 tvg-id="995" tvg-name="Polsat Sport Extra 3 HD Poland" group-title="Sports - Poland",Polsat Sport Extra 3 HD Poland
-http://51.159.54.83/stream/995.m3u8
-#EXTINF:-1 tvg-id="996" tvg-name="Polsat Sport Extra 4 HD Poland" group-title="Sports - Poland",Polsat Sport Extra 4 HD Poland
-http://51.159.54.83/stream/996.m3u8
-#EXTINF:-1 tvg-id="998" tvg-name="Polsat Sport NEWS HD Poland" group-title="Sports - Poland",Polsat Sport NEWS HD Poland
-http://51.159.54.83/stream/998.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="Polsat Sport Poland" group-title="Sports - Poland",Polsat Sport Poland
-http://51.159.54.83/stream/47.m3u8
-#EXTINF:-1 tvg-id="991" tvg-name="Polsat Sport Premium 1 Super HD PL" group-title="Sports - Poland",Polsat Sport Premium 1 Super HD PL
-http://51.159.54.83/stream/991.m3u8
-#EXTINF:-1 tvg-id="992" tvg-name="Polsat Sport Premium 2 Super HD PL" group-title="Sports - Poland",Polsat Sport Premium 2 Super HD PL
-http://51.159.54.83/stream/992.m3u8
-#EXTINF:-1 tvg-id="128" tvg-name="TVP Sport Poland" group-title="Sports - Poland",TVP Sport Poland
-http://51.159.54.83/stream/128.m3u8
-#EXTINF:-1 tvg-id="455" tvg-name="Eleven Sports 1 Portugal" group-title="Sports - Portugal",Eleven Sports 1 Portugal
-http://51.159.54.83/stream/455.m3u8
-#EXTINF:-1 tvg-id="456" tvg-name="Eleven Sports 2 Portugal" group-title="Sports - Portugal",Eleven Sports 2 Portugal
-http://51.159.54.83/stream/456.m3u8
-#EXTINF:-1 tvg-id="457" tvg-name="Eleven Sports 3 Portugal" group-title="Sports - Portugal",Eleven Sports 3 Portugal
-http://51.159.54.83/stream/457.m3u8
-#EXTINF:-1 tvg-id="458" tvg-name="Eleven Sports 4 Portugal" group-title="Sports - Portugal",Eleven Sports 4 Portugal
-http://51.159.54.83/stream/458.m3u8
-#EXTINF:-1 tvg-id="459" tvg-name="Eleven Sports 5 Portugal" group-title="Sports - Portugal",Eleven Sports 5 Portugal
-http://51.159.54.83/stream/459.m3u8
-#EXTINF:-1 tvg-id="49" tvg-name="Sport TV1 Portugal" group-title="Sports - Portugal",Sport TV1 Portugal
-http://51.159.54.83/stream/49.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="Sport TV2 Portugal" group-title="Sports - Portugal",Sport TV2 Portugal
-http://51.159.54.83/stream/74.m3u8
-#EXTINF:-1 tvg-id="454" tvg-name="Sport TV3 Portugal" group-title="Sports - Portugal",Sport TV3 Portugal
-http://51.159.54.83/stream/454.m3u8
-#EXTINF:-1 tvg-id="290" tvg-name="Sport TV5 Portugal" group-title="Sports - Portugal",Sport TV5 Portugal
-http://51.159.54.83/stream/290.m3u8
-#EXTINF:-1 tvg-id="291" tvg-name="Sport TV6 Portugal" group-title="Sports - Portugal",Sport TV6 Portugal
-http://51.159.54.83/stream/291.m3u8
-#EXTINF:-1 tvg-id="911" tvg-name="Cytavision Sports 1 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 1 Cyprus
-http://51.159.54.83/stream/911.m3u8
-#EXTINF:-1 tvg-id="912" tvg-name="Cytavision Sports 2 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 2 Cyprus
-http://51.159.54.83/stream/912.m3u8
-#EXTINF:-1 tvg-id="913" tvg-name="Cytavision Sports 3 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 3 Cyprus
-http://51.159.54.83/stream/913.m3u8
-#EXTINF:-1 tvg-id="914" tvg-name="Cytavision Sports 4 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 4 Cyprus
-http://51.159.54.83/stream/914.m3u8
-#EXTINF:-1 tvg-id="915" tvg-name="Cytavision Sports 5 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 5 Cyprus
-http://51.159.54.83/stream/915.m3u8
-#EXTINF:-1 tvg-id="916" tvg-name="Cytavision Sports 6 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 6 Cyprus
-http://51.159.54.83/stream/916.m3u8
-#EXTINF:-1 tvg-id="917" tvg-name="Cytavision Sports 7 Cyprus" group-title="Sports - Romania, Hungary & Russia",Cytavision Sports 7 Cyprus
-http://51.159.54.83/stream/917.m3u8
-#EXTINF:-1 tvg-id="400" tvg-name="Digi Sport 1 Romania" group-title="Sports - Romania, Hungary & Russia",Digi Sport 1 Romania
-http://51.159.54.83/stream/400.m3u8
-#EXTINF:-1 tvg-id="401" tvg-name="Digi Sport 2 Romania" group-title="Sports - Romania, Hungary & Russia",Digi Sport 2 Romania
-http://51.159.54.83/stream/401.m3u8
-#EXTINF:-1 tvg-id="402" tvg-name="Digi Sport 3 Romania" group-title="Sports - Romania, Hungary & Russia",Digi Sport 3 Romania
-http://51.159.54.83/stream/402.m3u8
-#EXTINF:-1 tvg-id="403" tvg-name="Digi Sport 4 Romania" group-title="Sports - Romania, Hungary & Russia",Digi Sport 4 Romania
-http://51.159.54.83/stream/403.m3u8
-#EXTINF:-1 tvg-id="265" tvg-name="M4 Sports Hungary" group-title="Sports - Romania, Hungary & Russia",M4 Sports Hungary
-http://51.159.54.83/stream/265.m3u8
-#EXTINF:-1 tvg-id="136" tvg-name="Match Football 1 Russia" group-title="Sports - Romania, Hungary & Russia",Match Football 1 Russia
-http://51.159.54.83/stream/136.m3u8
-#EXTINF:-1 tvg-id="137" tvg-name="Match Football 2 Russia" group-title="Sports - Romania, Hungary & Russia",Match Football 2 Russia
-http://51.159.54.83/stream/137.m3u8
-#EXTINF:-1 tvg-id="138" tvg-name="Match Football 3 Russia" group-title="Sports - Romania, Hungary & Russia",Match Football 3 Russia
-http://51.159.54.83/stream/138.m3u8
-#EXTINF:-1 tvg-id="573" tvg-name="Match Premier Russia" group-title="Sports - Romania, Hungary & Russia",Match Premier Russia
-http://51.159.54.83/stream/573.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="Match TV Russia" group-title="Sports - Romania, Hungary & Russia",Match TV Russia
-http://51.159.54.83/stream/127.m3u8
-#EXTINF:-1 tvg-id="439" tvg-name="Orange Sport 1 Romania" group-title="Sports - Romania, Hungary & Russia",Orange Sport 1 Romania
-http://51.159.54.83/stream/439.m3u8
-#EXTINF:-1 tvg-id="440" tvg-name="Orange Sport 2 Romania" group-title="Sports - Romania, Hungary & Russia",Orange Sport 2 Romania
-http://51.159.54.83/stream/440.m3u8
-#EXTINF:-1 tvg-id="441" tvg-name="Orange Sport 3 Romania" group-title="Sports - Romania, Hungary & Russia",Orange Sport 3 Romania
-http://51.159.54.83/stream/441.m3u8
-#EXTINF:-1 tvg-id="442" tvg-name="Orange Sport 4 Romania" group-title="Sports - Romania, Hungary & Russia",Orange Sport 4 Romania
-http://51.159.54.83/stream/442.m3u8
-#EXTINF:-1 tvg-id="269" tvg-name="A Sport PK" group-title="Sports - South & Southeast Asia",A Sport PK
-http://51.159.54.83/stream/269.m3u8
-#EXTINF:-1 tvg-id="123" tvg-name="Astro SuperSport 1" group-title="Sports - South & Southeast Asia",Astro SuperSport 1
-http://51.159.54.83/stream/123.m3u8
-#EXTINF:-1 tvg-id="124" tvg-name="Astro SuperSport 2" group-title="Sports - South & Southeast Asia",Astro SuperSport 2
-http://51.159.54.83/stream/124.m3u8
-#EXTINF:-1 tvg-id="125" tvg-name="Astro SuperSport 3" group-title="Sports - South & Southeast Asia",Astro SuperSport 3
-http://51.159.54.83/stream/125.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="Astro SuperSport 4" group-title="Sports - South & Southeast Asia",Astro SuperSport 4
-http://51.159.54.83/stream/126.m3u8
-#EXTINF:-1 tvg-id="712" tvg-name="beIN Sports 1 Malaysia" group-title="Sports - South & Southeast Asia",beIN Sports 1 Malaysia
-http://51.159.54.83/stream/712.m3u8
-#EXTINF:-1 tvg-id="713" tvg-name="beIN Sports 2 Malaysia" group-title="Sports - South & Southeast Asia",beIN Sports 2 Malaysia
-http://51.159.54.83/stream/713.m3u8
-#EXTINF:-1 tvg-id="714" tvg-name="beIN Sports 3 Malaysia" group-title="Sports - South & Southeast Asia",beIN Sports 3 Malaysia
-http://51.159.54.83/stream/714.m3u8
-#EXTINF:-1 tvg-id="450" tvg-name="PTV Sports" group-title="Sports - South & Southeast Asia",PTV Sports
-http://51.159.54.83/stream/450.m3u8
-#EXTINF:-1 tvg-id="885" tvg-name="SONY TEN 1" group-title="Sports - South & Southeast Asia",SONY TEN 1
-http://51.159.54.83/stream/885.m3u8
-#EXTINF:-1 tvg-id="886" tvg-name="SONY TEN 2" group-title="Sports - South & Southeast Asia",SONY TEN 2
-http://51.159.54.83/stream/886.m3u8
-#EXTINF:-1 tvg-id="887" tvg-name="SONY TEN 3" group-title="Sports - South & Southeast Asia",SONY TEN 3
-http://51.159.54.83/stream/887.m3u8
-#EXTINF:-1 tvg-id="267" tvg-name="Star Sports 1 IN" group-title="Sports - South & Southeast Asia",Star Sports 1 IN
-http://51.159.54.83/stream/267.m3u8
-#EXTINF:-1 tvg-id="268" tvg-name="Star Sports Hindi IN" group-title="Sports - South & Southeast Asia",Star Sports Hindi IN
-http://51.159.54.83/stream/268.m3u8
-#EXTINF:-1 tvg-id="270" tvg-name="T Sports BD" group-title="Sports - South & Southeast Asia",T Sports BD
-http://51.159.54.83/stream/270.m3u8
-#EXTINF:-1 tvg-id="741" tvg-name="Ten Sports PK" group-title="Sports - South & Southeast Asia",Ten Sports PK
-http://51.159.54.83/stream/741.m3u8
-#EXTINF:-1 tvg-id="521" tvg-name="#Vamos Spain" group-title="Sports - Spain",#Vamos Spain
-http://51.159.54.83/stream/521.m3u8
-#EXTINF:-1 tvg-id="445" tvg-name="DAZN 1 Spain" group-title="Sports - Spain",DAZN 1 Spain
-http://51.159.54.83/stream/445.m3u8
-#EXTINF:-1 tvg-id="446" tvg-name="DAZN 2 Spain" group-title="Sports - Spain",DAZN 2 Spain
-http://51.159.54.83/stream/446.m3u8
-#EXTINF:-1 tvg-id="447" tvg-name="DAZN 3 Spain" group-title="Sports - Spain",DAZN 3 Spain
-http://51.159.54.83/stream/447.m3u8
-#EXTINF:-1 tvg-id="448" tvg-name="DAZN 4 Spain" group-title="Sports - Spain",DAZN 4 Spain
-http://51.159.54.83/stream/448.m3u8
-#EXTINF:-1 tvg-id="538" tvg-name="DAZN LaLiga" group-title="Sports - Spain",DAZN LaLiga
-http://51.159.54.83/stream/538.m3u8
-#EXTINF:-1 tvg-id="524" tvg-name="EuroSport 1 Spain" group-title="Sports - Spain",EuroSport 1 Spain
-http://51.159.54.83/stream/524.m3u8
-#EXTINF:-1 tvg-id="525" tvg-name="EuroSport 2 Spain" group-title="Sports - Spain",EuroSport 2 Spain
-http://51.159.54.83/stream/525.m3u8
-#EXTINF:-1 tvg-id="530" tvg-name="GOL PLAY Spain" group-title="Sports - Spain",GOL PLAY Spain
-http://51.159.54.83/stream/530.m3u8
-#EXTINF:-1 tvg-id="539" tvg-name="LaLiga SmartBank TV" group-title="Sports - Spain",LaLiga SmartBank TV
-http://51.159.54.83/stream/539.m3u8
-#EXTINF:-1 tvg-id="438" tvg-name="Movistar Deportes 2 Spain" group-title="Sports - Spain",Movistar Deportes 2 Spain
-http://51.159.54.83/stream/438.m3u8
-#EXTINF:-1 tvg-id="526" tvg-name="Movistar Deportes 3 Spain" group-title="Sports - Spain",Movistar Deportes 3 Spain
-http://51.159.54.83/stream/526.m3u8
-#EXTINF:-1 tvg-id="527" tvg-name="Movistar Deportes 4 Spain" group-title="Sports - Spain",Movistar Deportes 4 Spain
-http://51.159.54.83/stream/527.m3u8
-#EXTINF:-1 tvg-id="436" tvg-name="Movistar Deportes Spain" group-title="Sports - Spain",Movistar Deportes Spain
-http://51.159.54.83/stream/436.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="Movistar Laliga" group-title="Sports - Spain",Movistar Laliga
-http://51.159.54.83/stream/84.m3u8
-#EXTINF:-1 tvg-id="749" tvg-name="Mundotoro TV Spain" group-title="Sports - Spain",Mundotoro TV Spain
-http://51.159.54.83/stream/749.m3u8
-#EXTINF:-1 tvg-id="529" tvg-name="Teledeporte Spain (TDP)" group-title="Sports - Spain",Teledeporte Spain (TDP)
-http://51.159.54.83/stream/529.m3u8
-#EXTINF:-1 tvg-id="1011" tvg-name="A Spor Turkey" group-title="Sports - Turkey",A Spor Turkey
-http://51.159.54.83/stream/1011.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="beIN SPORTS 1 Turkey" group-title="Sports - Turkey",beIN SPORTS 1 Turkey
-http://51.159.54.83/stream/62.m3u8
-#EXTINF:-1 tvg-id="63" tvg-name="beIN SPORTS 2 Turkey" group-title="Sports - Turkey",beIN SPORTS 2 Turkey
-http://51.159.54.83/stream/63.m3u8
-#EXTINF:-1 tvg-id="64" tvg-name="beIN SPORTS 3 Turkey" group-title="Sports - Turkey",beIN SPORTS 3 Turkey
-http://51.159.54.83/stream/64.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="beIN SPORTS 4 Turkey" group-title="Sports - Turkey",beIN SPORTS 4 Turkey
-http://51.159.54.83/stream/67.m3u8
-#EXTINF:-1 tvg-id="1010" tvg-name="bein Sports 5 Turkey" group-title="Sports - Turkey",bein Sports 5 Turkey
-http://51.159.54.83/stream/1010.m3u8
-#EXTINF:-1 tvg-id="889" tvg-name="TRT Spor TR" group-title="Sports - Turkey",TRT Spor TR
-http://51.159.54.83/stream/889.m3u8
-#EXTINF:-1 tvg-id="476" tvg-name="BNT 1 Bulgaria" group-title="Entertainment - Balkans & Greece",BNT 1 Bulgaria
-http://51.159.54.83/stream/476.m3u8
-#EXTINF:-1 tvg-id="477" tvg-name="BNT 2 Bulgaria" group-title="Entertainment - Balkans & Greece",BNT 2 Bulgaria
-http://51.159.54.83/stream/477.m3u8
-#EXTINF:-1 tvg-id="478" tvg-name="BNT 3 Bulgaria" group-title="Entertainment - Balkans & Greece",BNT 3 Bulgaria
-http://51.159.54.83/stream/478.m3u8
-#EXTINF:-1 tvg-id="481" tvg-name="bTV Action Bulgaria" group-title="Entertainment - Balkans & Greece",bTV Action Bulgaria
-http://51.159.54.83/stream/481.m3u8
-#EXTINF:-1 tvg-id="479" tvg-name="bTV Bulgaria" group-title="Entertainment - Balkans & Greece",bTV Bulgaria
-http://51.159.54.83/stream/479.m3u8
-#EXTINF:-1 tvg-id="484" tvg-name="bTV Lady Bulgaria" group-title="Entertainment - Balkans & Greece",bTV Lady Bulgaria
-http://51.159.54.83/stream/484.m3u8
-#EXTINF:-1 tvg-id="482" tvg-name="Diema Bulgaria" group-title="Entertainment - Balkans & Greece",Diema Bulgaria
-http://51.159.54.83/stream/482.m3u8
-#EXTINF:-1 tvg-id="485" tvg-name="Diema Family Bulgaria" group-title="Entertainment - Balkans & Greece",Diema Family Bulgaria
-http://51.159.54.83/stream/485.m3u8
-#EXTINF:-1 tvg-id="774" tvg-name="ERT 1 Greece" group-title="Entertainment - Balkans & Greece",ERT 1 Greece
-http://51.159.54.83/stream/774.m3u8
-#EXTINF:-1 tvg-id="483" tvg-name="FOX HD Bulgaria" group-title="Entertainment - Balkans & Greece",FOX HD Bulgaria
-http://51.159.54.83/stream/483.m3u8
-#EXTINF:-1 tvg-id="846" tvg-name="Happy TV Serbia" group-title="Entertainment - Balkans & Greece",Happy TV Serbia
-http://51.159.54.83/stream/846.m3u8
-#EXTINF:-1 tvg-id="847" tvg-name="Nova S Serbia" group-title="Entertainment - Balkans & Greece",Nova S Serbia
-http://51.159.54.83/stream/847.m3u8
-#EXTINF:-1 tvg-id="480" tvg-name="Nova TV Bulgaria" group-title="Entertainment - Balkans & Greece",Nova TV Bulgaria
-http://51.159.54.83/stream/480.m3u8
-#EXTINF:-1 tvg-id="1035" tvg-name="CT1 HD CZ" group-title="Entertainment - Czech & Slovakia",CT1 HD CZ
-http://51.159.54.83/stream/1035.m3u8
-#EXTINF:-1 tvg-id="1036" tvg-name="CT2 HD CZ" group-title="Entertainment - Czech & Slovakia",CT2 HD CZ
-http://51.159.54.83/stream/1036.m3u8
-#EXTINF:-1 tvg-id="1051" tvg-name="Dajto SK" group-title="Entertainment - Czech & Slovakia",Dajto SK
-http://51.159.54.83/stream/1051.m3u8
-#EXTINF:-1 tvg-id="1050" tvg-name="JOJ SK" group-title="Entertainment - Czech & Slovakia",JOJ SK
-http://51.159.54.83/stream/1050.m3u8
-#EXTINF:-1 tvg-id="1052" tvg-name="JOJ Šport SK" group-title="Entertainment - Czech & Slovakia",JOJ Šport SK
-http://51.159.54.83/stream/1052.m3u8
-#EXTINF:-1 tvg-id="1034" tvg-name="Nova HD CZ" group-title="Entertainment - Czech & Slovakia",Nova HD CZ
-http://51.159.54.83/stream/1034.m3u8
-#EXTINF:-1 tvg-id="1037" tvg-name="TN Live CZ" group-title="Entertainment - Czech & Slovakia",TN Live CZ
-http://51.159.54.83/stream/1037.m3u8
-#EXTINF:-1 tvg-id="1053" tvg-name="Voyo Special 1 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 1 SK
-http://51.159.54.83/stream/1053.m3u8
-#EXTINF:-1 tvg-id="1054" tvg-name="Voyo Special 2 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 2 SK
-http://51.159.54.83/stream/1054.m3u8
-#EXTINF:-1 tvg-id="1055" tvg-name="Voyo Special 3 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 3 SK
-http://51.159.54.83/stream/1055.m3u8
-#EXTINF:-1 tvg-id="1056" tvg-name="Voyo Special 4 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 4 SK
-http://51.159.54.83/stream/1056.m3u8
-#EXTINF:-1 tvg-id="1057" tvg-name="Voyo Special 7 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 7 SK
-http://51.159.54.83/stream/1057.m3u8
-#EXTINF:-1 tvg-id="1058" tvg-name="Voyo Special 8 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 8 SK
-http://51.159.54.83/stream/1058.m3u8
-#EXTINF:-1 tvg-id="1059" tvg-name="Voyo Special 9 SK" group-title="Entertainment - Czech & Slovakia",Voyo Special 9 SK
-http://51.159.54.83/stream/1059.m3u8
-#EXTINF:-1 tvg-id="963" tvg-name="6ter France" group-title="Entertainment - France",6ter France
-http://51.159.54.83/stream/963.m3u8
-#EXTINF:-1 tvg-id="956" tvg-name="C8 France" group-title="Entertainment - France",C8 France
-http://51.159.54.83/stream/956.m3u8
-#EXTINF:-1 tvg-id="121" tvg-name="Canal+ France" group-title="Entertainment - France",Canal+ France
+#EXTINF: x-tvg-url="http://51.159.54.83/epg/xmltv_tnt.xml"
+#EXTINF:-1 tvg-id="TF1.fr" status=timeout,TF1 en direct
+http://51.159.54.83/mm/tntcdn/channel/tf1.m3u8
+#http://mfjysqn.mexamo.xyz:80/6649701422/3968425942/401245860
+#http://livetv.ktv.zone/3/play.m3u8
+#EXTINF:-1 tvg-id=i"FRANCE 2" status=timeout,FRANCE 2
+http://51.159.54.83/mm/tntcdn/channel/france2.m3u8
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:-1 tvg-id=i"FRANCE 3" status=timeout,FRANCE 3
+http://51.159.54.83/mm/tntcdn/channel/france3.m3u8
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof3.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:-1 tvg-id="CANAL" status="timeout",CANAL+
 http://51.159.54.83/stream/121.m3u8
-#EXTINF:-1 tvg-id="950" tvg-name="France 2" group-title="Entertainment - France",France 2
-http://51.159.54.83/stream/950.m3u8
-#EXTINF:-1 tvg-id="951" tvg-name="France 3" group-title="Entertainment - France",France 3
-http://51.159.54.83/stream/951.m3u8
-#EXTINF:-1 tvg-id="952" tvg-name="France 4" group-title="Entertainment - France",France 4
-http://51.159.54.83/stream/952.m3u8
-#EXTINF:-1 tvg-id="953" tvg-name="France 5" group-title="Entertainment - France",France 5
-http://51.159.54.83/stream/953.m3u8
-#EXTINF:-1 tvg-id="470" tvg-name="M6 France" group-title="Entertainment - France",M6 France
+#EXTINF:-1 tvg-id="CANAL sport" status="timeout",CANAL+ sport
+http://51.159.54.83/stream/122.m3u8
+#EXTINF:-1 tvg-id="CANAL live1" status="timeout",CANAL+ live1
+http://51.159.54.83/stream/86.m3u8
+#EXTINF:-1 tvg-id="CANAL live2" status="timeout",CANAL+ live2
+http://51.159.54.83/stream/110.m3u8
+#EXTINF:-1 tvg-id="CANAL live3" status="timeout",CANAL+ live3
+http://51.159.54.83/stream/59.m3u8
+#EXTINF:-1 tvg-id="CANAL live4" status="timeout",CANAL+ live4
+http://51.159.54.83/stream/76.m3u8
+#EXTINF:-1 tvg-id="CANAL foot" status="timeout",CANAL+ foot
+http://51.159.54.83/stream/463.m3u8
+#EXTINF:-1 tvg-id="CBS sport" status="timeout",CBS sport
+http://51.159.54.83/stream/767.m3u8
+#EXTINF:-1 tvg-id="CANAL sport360" status="timeout",CANAL+ sport360
+http://51.159.54.83/stream/464.m3u8
+#EXTINF:-1 tvg-id="TNT SPORT 1" status="timeout",TNT SPORT 1
+http://51.159.54.83/stream/31.m3u8
+#EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
+http://51.159.54.83/stream/33.m3u8
+#EXTINF:-1 tvg-id="DAZN ligue1 France" status="timeout",DAZN ligue1 France
+http://51.159.54.83/stream/960.m3u8
+#EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
+http://51.159.54.83/mm/tntcdn/channel/france5.m3u8
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof5.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
+#EXTINF:-1 tvg-id=i"M6 en direct" status=timeout,M6 en direct
+#https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#http://51.159.54.83/mm/tntcdn/channel/m6.m3u8
 http://51.159.54.83/stream/470.m3u8
-#EXTINF:-1 tvg-id="954" tvg-name="RMC Story France" group-title="Entertainment - France",RMC Story France
-http://51.159.54.83/stream/954.m3u8
-#EXTINF:-1 tvg-id="469" tvg-name="TF1 France" group-title="Entertainment - France",TF1 France
-http://51.159.54.83/stream/469.m3u8
-#EXTINF:-1 tvg-id="955" tvg-name="TMC France" group-title="Entertainment - France",TMC France
-http://51.159.54.83/stream/955.m3u8
-#EXTINF:-1 tvg-id="959" tvg-name="W9 France" group-title="Entertainment - France",W9 France
+#EXTINF:-1 tvg-id=i"ARTE" status=timeout,ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id=i"W9" status=timeout,W9
+#https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#http://51.159.54.83/mm/tntcdn/channel/w9.m3u8
 http://51.159.54.83/stream/959.m3u8
-#EXTINF:-1 tvg-id="726" tvg-name="3sat DE" group-title="Entertainment - Germany & Austria",3sat DE
-http://51.159.54.83/stream/726.m3u8
-#EXTINF:-1 tvg-id="737" tvg-name="BR Fernsehen DE" group-title="Entertainment - Germany & Austria",BR Fernsehen DE
-http://51.159.54.83/stream/737.m3u8
-#EXTINF:-1 tvg-id="731" tvg-name="Kabel Eins (Kabel 1) DE" group-title="Entertainment - Germany & Austria",Kabel Eins (Kabel 1) DE
-http://51.159.54.83/stream/731.m3u8
-#EXTINF:-1 tvg-id="733" tvg-name="MDR DE" group-title="Entertainment - Germany & Austria",MDR DE
-http://51.159.54.83/stream/733.m3u8
-#EXTINF:-1 tvg-id="736" tvg-name="NDR DE" group-title="Entertainment - Germany & Austria",NDR DE
-http://51.159.54.83/stream/736.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="ProSieben (PRO7) DE" group-title="Entertainment - Germany & Austria",ProSieben (PRO7) DE
-http://51.159.54.83/stream/730.m3u8
-#EXTINF:-1 tvg-id="740" tvg-name="RTL DE" group-title="Entertainment - Germany & Austria",RTL DE
-http://51.159.54.83/stream/740.m3u8
-#EXTINF:-1 tvg-id="729" tvg-name="SAT.1 DE" group-title="Entertainment - Germany & Austria",SAT.1 DE
-http://51.159.54.83/stream/729.m3u8
-#EXTINF:-1 tvg-id="732" tvg-name="Sixx DE" group-title="Entertainment - Germany & Austria",Sixx DE
-http://51.159.54.83/stream/732.m3u8
-#EXTINF:-1 tvg-id="739" tvg-name="SR Fernsehen DE" group-title="Entertainment - Germany & Austria",SR Fernsehen DE
-http://51.159.54.83/stream/739.m3u8
-#EXTINF:-1 tvg-id="738" tvg-name="SUPER RTL DE" group-title="Entertainment - Germany & Austria",SUPER RTL DE
-http://51.159.54.83/stream/738.m3u8
-#EXTINF:-1 tvg-id="735" tvg-name="SWR DE" group-title="Entertainment - Germany & Austria",SWR DE
-http://51.159.54.83/stream/735.m3u8
-#EXTINF:-1 tvg-id="734" tvg-name="WDR DE" group-title="Entertainment - Germany & Austria",WDR DE
-http://51.159.54.83/stream/734.m3u8
-#EXTINF:-1 tvg-id="727" tvg-name="ZDF DE" group-title="Entertainment - Germany & Austria",ZDF DE
-http://51.159.54.83/stream/727.m3u8
-#EXTINF:-1 tvg-id="844" tvg-name="Azteca 7 MX" group-title="Entertainment - Hispanic & Latin America",Azteca 7 MX
-http://51.159.54.83/stream/844.m3u8
-#EXTINF:-1 tvg-id="934" tvg-name="Azteca Uno MX" group-title="Entertainment - Hispanic & Latin America",Azteca Uno MX
-http://51.159.54.83/stream/934.m3u8
-#EXTINF:-1 tvg-id="936" tvg-name="Canal5 MX" group-title="Entertainment - Hispanic & Latin America",Canal5 MX
-http://51.159.54.83/stream/936.m3u8
-#EXTINF:-1 tvg-id="743" tvg-name="Galavisi贸n USA" group-title="Entertainment - Hispanic & Latin America",Galavisi贸n USA
-http://51.159.54.83/stream/743.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Las Estrellas" group-title="Entertainment - Hispanic & Latin America",Las Estrellas
-http://51.159.54.83/stream/924.m3u8
-#EXTINF:-1 tvg-id="845" tvg-name="NBC Universo" group-title="Entertainment - Hispanic & Latin America",NBC Universo
-http://51.159.54.83/stream/845.m3u8
-#EXTINF:-1 tvg-id="131" tvg-name="Telemundo" group-title="Entertainment - Hispanic & Latin America",Telemundo
-http://51.159.54.83/stream/131.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="Unimas" group-title="Entertainment - Hispanic & Latin America",Unimas
-http://51.159.54.83/stream/133.m3u8
-#EXTINF:-1 tvg-id="132" tvg-name="Univision" group-title="Entertainment - Hispanic & Latin America",Univision
-http://51.159.54.83/stream/132.m3u8
-#EXTINF:-1 tvg-id="391" tvg-name="VTV+ Uruguay" group-title="Entertainment - Hispanic & Latin America",VTV+ Uruguay
-http://51.159.54.83/stream/391.m3u8
-#EXTINF:-1 tvg-id="546" tvg-name="Channel 9 Israel" group-title="Entertainment - Israel",Channel 9 Israel
-http://51.159.54.83/stream/546.m3u8
-#EXTINF:-1 tvg-id="547" tvg-name="Channel 10 Israe" group-title="Entertainment - Israel",Channel 10 Israe
-http://51.159.54.83/stream/547.m3u8
-#EXTINF:-1 tvg-id="548" tvg-name="Channel 11 Israel" group-title="Entertainment - Israel",Channel 11 Israel
-http://51.159.54.83/stream/548.m3u8
-#EXTINF:-1 tvg-id="549" tvg-name="Channel 12 Israel" group-title="Entertainment - Israel",Channel 12 Israel
-http://51.159.54.83/stream/549.m3u8
-#EXTINF:-1 tvg-id="551" tvg-name="Channel 13 Israel" group-title="Entertainment - Israel",Channel 13 Israel
-http://51.159.54.83/stream/551.m3u8
-#EXTINF:-1 tvg-id="552" tvg-name="Channel 14 Israel" group-title="Entertainment - Israel",Channel 14 Israel
-http://51.159.54.83/stream/552.m3u8
-#EXTINF:-1 tvg-id="553" tvg-name="HOT3 Israel" group-title="Entertainment - Israel",HOT3 Israel
-http://51.159.54.83/stream/553.m3u8
-#EXTINF:-1 tvg-id="541" tvg-name="ONE 1 HD Israel" group-title="Entertainment - Israel",ONE 1 HD Israel
-http://51.159.54.83/stream/541.m3u8
-#EXTINF:-1 tvg-id="542" tvg-name="ONE 2 HD Israel" group-title="Entertainment - Israel",ONE 2 HD Israel
-http://51.159.54.83/stream/542.m3u8
-#EXTINF:-1 tvg-id="857" tvg-name="20 Mediaset Italy" group-title="Entertainment - Italy",20 Mediaset Italy
-http://51.159.54.83/stream/857.m3u8
-#EXTINF:-1 tvg-id="854" tvg-name="Italia 1 Italy" group-title="Entertainment - Italy",Italia 1 Italy
-http://51.159.54.83/stream/854.m3u8
-#EXTINF:-1 tvg-id="855" tvg-name="La7 Italy" group-title="Entertainment - Italy",La7 Italy
-http://51.159.54.83/stream/855.m3u8
-#EXTINF:-1 tvg-id="856" tvg-name="LA7d HD+ Italy" group-title="Entertainment - Italy",LA7d HD+ Italy
-http://51.159.54.83/stream/856.m3u8
-#EXTINF:-1 tvg-id="850" tvg-name="Rai 1 Italy" group-title="Entertainment - Italy",Rai 1 Italy
-http://51.159.54.83/stream/850.m3u8
-#EXTINF:-1 tvg-id="851" tvg-name="Rai 2 Italy" group-title="Entertainment - Italy",Rai 2 Italy
-http://51.159.54.83/stream/851.m3u8
-#EXTINF:-1 tvg-id="852" tvg-name="Rai 3 Italy" group-title="Entertainment - Italy",Rai 3 Italy
-http://51.159.54.83/stream/852.m3u8
-#EXTINF:-1 tvg-id="853" tvg-name="Rai 4 Italy" group-title="Entertainment - Italy",Rai 4 Italy
-http://51.159.54.83/stream/853.m3u8
-#EXTINF:-1 tvg-id="858" tvg-name="Rai Premium Italy" group-title="Entertainment - Italy",Rai Premium Italy
-http://51.159.54.83/stream/858.m3u8
-#EXTINF:-1 tvg-id="880" tvg-name="Sky Serie Italy" group-title="Entertainment - Italy",Sky Serie Italy
-http://51.159.54.83/stream/880.m3u8
-#EXTINF:-1 tvg-id="881" tvg-name="Sky UNO Italy" group-title="Entertainment - Italy",Sky UNO Italy
-http://51.159.54.83/stream/881.m3u8
-#EXTINF:-1 tvg-id="800" tvg-name="6'eren Denmark" group-title="Entertainment - Nordics",6'eren Denmark
-http://51.159.54.83/stream/800.m3u8
-#EXTINF:-1 tvg-id="813" tvg-name="C More Hits Sweden" group-title="Entertainment - Nordics",C More Hits Sweden
-http://51.159.54.83/stream/813.m3u8
-#EXTINF:-1 tvg-id="805" tvg-name="CANAL 9 Denmark" group-title="Entertainment - Nordics",CANAL 9 Denmark
-http://51.159.54.83/stream/805.m3u8
-#EXTINF:-1 tvg-id="801" tvg-name="DR1 Denmark" group-title="Entertainment - Nordics",DR1 Denmark
-http://51.159.54.83/stream/801.m3u8
-#EXTINF:-1 tvg-id="802" tvg-name="DR2 Denmark" group-title="Entertainment - Nordics",DR2 Denmark
-http://51.159.54.83/stream/802.m3u8
-#EXTINF:-1 tvg-id="803" tvg-name="Kanal 4 Denmark" group-title="Entertainment - Nordics",Kanal 4 Denmark
-http://51.159.54.83/stream/803.m3u8
-#EXTINF:-1 tvg-id="804" tvg-name="Kanal 5 Denmark" group-title="Entertainment - Nordics",Kanal 5 Denmark
-http://51.159.54.83/stream/804.m3u8
-#EXTINF:-1 tvg-id="811" tvg-name="SEE Denmark" group-title="Entertainment - Nordics",SEE Denmark
-http://51.159.54.83/stream/811.m3u8
-#EXTINF:-1 tvg-id="807" tvg-name="TV2 Bornholm Denmark" group-title="Entertainment - Nordics",TV2 Bornholm Denmark
-http://51.159.54.83/stream/807.m3u8
-#EXTINF:-1 tvg-id="817" tvg-name="TV2 Denmark" group-title="Entertainment - Nordics",TV2 Denmark
-http://51.159.54.83/stream/817.m3u8
-#EXTINF:-1 tvg-id="818" tvg-name="TV2 Zulu" group-title="Entertainment - Nordics",TV2 Zulu
-http://51.159.54.83/stream/818.m3u8
-#EXTINF:-1 tvg-id="223" tvg-name="TV3 Max Denmark" group-title="Entertainment - Nordics",TV3 Max Denmark
-http://51.159.54.83/stream/223.m3u8
-#EXTINF:-1 tvg-id="819" tvg-name="TV3+ Denmark" group-title="Entertainment - Nordics",TV3+ Denmark
-http://51.159.54.83/stream/819.m3u8
-#EXTINF:-1 tvg-id="540" tvg-name="Canal 11 Portugal" group-title="Entertainment - Portugal",Canal 11 Portugal
-http://51.159.54.83/stream/540.m3u8
-#EXTINF:-1 tvg-id="790" tvg-name="CMTV Portugal" group-title="Entertainment - Portugal",CMTV Portugal
-http://51.159.54.83/stream/790.m3u8
-#EXTINF:-1 tvg-id="719" tvg-name="RTP 1 Portugal" group-title="Entertainment - Portugal",RTP 1 Portugal
-http://51.159.54.83/stream/719.m3u8
-#EXTINF:-1 tvg-id="720" tvg-name="RTP 2 Portugal" group-title="Entertainment - Portugal",RTP 2 Portugal
-http://51.159.54.83/stream/720.m3u8
-#EXTINF:-1 tvg-id="721" tvg-name="RTP 3 Portugal" group-title="Entertainment - Portugal",RTP 3 Portugal
-http://51.159.54.83/stream/721.m3u8
-#EXTINF:-1 tvg-id="722" tvg-name="SIC Portugal" group-title="Entertainment - Portugal",SIC Portugal
-http://51.159.54.83/stream/722.m3u8
-#EXTINF:-1 tvg-id="723" tvg-name="TVI Portugal" group-title="Entertainment - Portugal",TVI Portugal
-http://51.159.54.83/stream/723.m3u8
-#EXTINF:-1 tvg-id="724" tvg-name="TVI Reality Portugal" group-title="Entertainment - Portugal",TVI Reality Portugal
-http://51.159.54.83/stream/724.m3u8
-#EXTINF:-1 tvg-id="531" tvg-name="Antena 3 Spain" group-title="Entertainment - Spain",Antena 3 Spain
-http://51.159.54.83/stream/531.m3u8
-#EXTINF:-1 tvg-id="535" tvg-name="Cuatro Spain" group-title="Entertainment - Spain",Cuatro Spain
-http://51.159.54.83/stream/535.m3u8
-#EXTINF:-1 tvg-id="534" tvg-name="La Sexta Spain" group-title="Entertainment - Spain",La Sexta Spain
-http://51.159.54.83/stream/534.m3u8
-#EXTINF:-1 tvg-id="532" tvg-name="Telecinco Spain" group-title="Entertainment - Spain",Telecinco Spain
-http://51.159.54.83/stream/532.m3u8
-#EXTINF:-1 tvg-id="533" tvg-name="TVE La 1 Spain" group-title="Entertainment - Spain",TVE La 1 Spain
-http://51.159.54.83/stream/533.m3u8
-#EXTINF:-1 tvg-id="536" tvg-name="TVE La 2 Spain" group-title="Entertainment - Spain",TVE La 2 Spain
-http://51.159.54.83/stream/536.m3u8
-#EXTINF:-1 tvg-id="1000" tvg-name="ATV Turkey" group-title="Entertainment - Turkey",ATV Turkey
-http://51.159.54.83/stream/1000.m3u8
-#EXTINF:-1 tvg-id="1001" tvg-name="Kanal D Turkey" group-title="Entertainment - Turkey",Kanal D Turkey
-http://51.159.54.83/stream/1001.m3u8
-#EXTINF:-1 tvg-id="1003" tvg-name="NOW TV Turkey" group-title="Entertainment - Turkey",NOW TV Turkey
-http://51.159.54.83/stream/1003.m3u8
-#EXTINF:-1 tvg-id="1002" tvg-name="Show TV Turkey" group-title="Entertainment - Turkey",Show TV Turkey
-http://51.159.54.83/stream/1002.m3u8
-#EXTINF:-1 tvg-id="1004" tvg-name="Star TV Turkey" group-title="Entertainment - Turkey",Star TV Turkey
-http://51.159.54.83/stream/1004.m3u8
-#EXTINF:-1 tvg-id="1005" tvg-name="TV8 Turkey" group-title="Entertainment - Turkey",TV8 Turkey
-http://51.159.54.83/stream/1005.m3u8
-#EXTINF:-1 tvg-id="868" tvg-name="8Sky Cinema Suspense Italy" group-title="Movies - Italy",8Sky Cinema Suspense Italy
-http://51.159.54.83/stream/868.m3u8
-#EXTINF:-1 tvg-id="861" tvg-name="Sky Cinema Action Italy" group-title="Movies - Italy",Sky Cinema Action Italy
-http://51.159.54.83/stream/861.m3u8
-#EXTINF:-1 tvg-id="859" tvg-name="Sky Cinema Collection Italy" group-title="Movies - Italy",Sky Cinema Collection Italy
-http://51.159.54.83/stream/859.m3u8
-#EXTINF:-1 tvg-id="862" tvg-name="Sky Cinema Comedy Italy" group-title="Movies - Italy",Sky Cinema Comedy Italy
-http://51.159.54.83/stream/862.m3u8
-#EXTINF:-1 tvg-id="867" tvg-name="Sky Cinema Drama Italy" group-title="Movies - Italy",Sky Cinema Drama Italy
-http://51.159.54.83/stream/867.m3u8
-#EXTINF:-1 tvg-id="865" tvg-name="Sky Cinema Family Italy" group-title="Movies - Italy",Sky Cinema Family Italy
-http://51.159.54.83/stream/865.m3u8
-#EXTINF:-1 tvg-id="864" tvg-name="Sky Cinema Romance Italy" group-title="Movies - Italy",Sky Cinema Romance Italy
-http://51.159.54.83/stream/864.m3u8
-#EXTINF:-1 tvg-id="863" tvg-name="Sky Cinema Uno +24 Italy" group-title="Movies - Italy",Sky Cinema Uno +24 Italy
-http://51.159.54.83/stream/863.m3u8
-#EXTINF:-1 tvg-id="860" tvg-name="Sky Cinema Uno Italy" group-title="Movies - Italy",Sky Cinema Uno Italy
-http://51.159.54.83/stream/860.m3u8
-#EXTINF:-1 tvg-id="567" tvg-name="Canal+ Family Poland" group-title="Movies - Poland",Canal+ Family Poland
-http://51.159.54.83/stream/567.m3u8
-#EXTINF:-1 tvg-id="566" tvg-name="Canal+ Premium Poland" group-title="Movies - Poland",Canal+ Premium Poland
-http://51.159.54.83/stream/566.m3u8
-#EXTINF:-1 tvg-id="570" tvg-name="Canal+ Seriale Poland" group-title="Movies - Poland",Canal+ Seriale Poland
-http://51.159.54.83/stream/570.m3u8
-#EXTINF:-1 tvg-id="568" tvg-name="FilmBox Premium Poland" group-title="Movies - Poland",FilmBox Premium Poland
-http://51.159.54.83/stream/568.m3u8
-#EXTINF:-1 tvg-id="569" tvg-name="HBO Poland" group-title="Movies - Poland",HBO Poland
-http://51.159.54.83/stream/569.m3u8
-#EXTINF:-1 tvg-id="564" tvg-name="Polsat Film Poland" group-title="Movies - Poland",Polsat Film Poland
-http://51.159.54.83/stream/564.m3u8
-#EXTINF:-1 tvg-id="891" tvg-name="Big Brother S28 CAM 1" group-title="Live Cams - Big Brother",Big Brother S28 CAM 1
-http://51.159.54.83/stream/891.m3u8
-#EXTINF:-1 tvg-id="892" tvg-name="Big Brother S28 CAM 2" group-title="Live Cams - Big Brother",Big Brother S28 CAM 2
-http://51.159.54.83/stream/892.m3u8
-#EXTINF:-1 tvg-id="893" tvg-name="Big Brother S28 CAM 3" group-title="Live Cams - Big Brother",Big Brother S28 CAM 3
-http://51.159.54.83/stream/893.m3u8
-#EXTINF:-1 tvg-id="894" tvg-name="Big Brother S28 CAM 4" group-title="Live Cams - Big Brother",Big Brother S28 CAM 4
-http://51.159.54.83/stream/894.m3u8
-#EXTINF:-1 tvg-id="895" tvg-name="Big Brother S28 Quadview" group-title="Live Cams - Big Brother",Big Brother S28 Quadview
-http://51.159.54.83/stream/895.m3u8
-#EXTINF:-1 tvg-id="501" tvg-name="18+ (Player-01)" group-title="18+ Adult",18+ (Player-01)
-http://51.159.54.83/stream/501.m3u8
-#EXTINF:-1 tvg-id="502" tvg-name="18+ (Player-02)" group-title="18+ Adult",18+ (Player-02)
-http://51.159.54.83/stream/502.m3u8
-#EXTINF:-1 tvg-id="503" tvg-name="18+ (Player-03)" group-title="18+ Adult",18+ (Player-03)
-http://51.159.54.83/stream/503.m3u8
-#EXTINF:-1 tvg-id="504" tvg-name="18+ (Player-04)" group-title="18+ Adult",18+ (Player-04)
-http://51.159.54.83/stream/504.m3u8
-#EXTINF:-1 tvg-id="505" tvg-name="18+ (Player-05)" group-title="18+ Adult",18+ (Player-05)
-http://51.159.54.83/stream/505.m3u8
-#EXTINF:-1 tvg-id="506" tvg-name="18+ (Player-06)" group-title="18+ Adult",18+ (Player-06)
-http://51.159.54.83/stream/506.m3u8
-#EXTINF:-1 tvg-id="507" tvg-name="18+ (Player-07)" group-title="18+ Adult",18+ (Player-07)
-http://51.159.54.83/stream/507.m3u8
-#EXTINF:-1 tvg-id="508" tvg-name="18+ (Player-08)" group-title="18+ Adult",18+ (Player-08)
-http://51.159.54.83/stream/508.m3u8
-#EXTINF:-1 tvg-id="509" tvg-name="18+ (Player-09)" group-title="18+ Adult",18+ (Player-09)
-http://51.159.54.83/stream/509.m3u8
-#EXTINF:-1 tvg-id="510" tvg-name="18+ (Player-10)" group-title="18+ Adult",18+ (Player-10)
-http://51.159.54.83/stream/510.m3u8
-#EXTINF:-1 tvg-id="511" tvg-name="18+ (Player-11)" group-title="18+ Adult",18+ (Player-11)
-http://51.159.54.83/stream/511.m3u8
-#EXTINF:-1 tvg-id="512" tvg-name="18+ (Player-12)" group-title="18+ Adult",18+ (Player-12)
-http://51.159.54.83/stream/512.m3u8
-#EXTINF:-1 tvg-id="513" tvg-name="18+ (Player-13)" group-title="18+ Adult",18+ (Player-13)
-http://51.159.54.83/stream/513.m3u8
-#EXTINF:-1 tvg-id="514" tvg-name="18+ (Player-14)" group-title="18+ Adult",18+ (Player-14)
-http://51.159.54.83/stream/514.m3u8
-#EXTINF:-1 tvg-id="515" tvg-name="18+ (Player-15)" group-title="18+ Adult",18+ (Player-15)
-http://51.159.54.83/stream/515.m3u8
-#EXTINF:-1 tvg-id="516" tvg-name="18+ (Player-16)" group-title="18+ Adult",18+ (Player-16)
-http://51.159.54.83/stream/516.m3u8
-#EXTINF:-1 tvg-id="517" tvg-name="18+ (Player-17)" group-title="18+ Adult",18+ (Player-17)
-http://51.159.54.83/stream/517.m3u8
-#EXTINF:-1 tvg-id="518" tvg-name="18+ (Player-18)" group-title="18+ Adult",18+ (Player-18)
-http://51.159.54.83/stream/518.m3u8
-#EXTINF:-1 tvg-id="519" tvg-name="18+ (Player-19)" group-title="18+ Adult",18+ (Player-19)
-http://51.159.54.83/stream/519.m3u8
-#EXTINF:-1 tvg-id="520" tvg-name="18+ (Player-20)" group-title="18+ Adult",18+ (Player-20)
-http://51.159.54.83/stream/520.m3u8
+#EXTINF:-1 tvg-id=i"6ter en direct" status=timeout,6ter en direct
+#https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#http://51.159.54.83/mm/tntcdn/channel/6ter.m3u8
+http://51.159.54.83/stream/963.m3u8
+#EXTINF:-1 tvg-id=i"TMC en direct sans compte" status=timeout,TMC en direct sans compte
+http://51.159.54.83/mm/tnt/channel/tmc.m3u8
+#EXTINF:-1 tvg-id=i"TF1 &#8211; Séries Films" status=timeout,TF1 &#8211; Séries Films
+http://51.159.54.83/mm/tnt/channel/tf1_series.m3u8
+#EXTINF:-1 tvg-id=i"TFX" status=timeout,TFX
+http://51.159.54.83/mm/tnt/channel/tfx.m3u8
+#EXTINF:-1 tvg-id=i"FRANCE 4" status=timeout,FRANCE 4
+http://51.159.54.83/mm/tntcdn/channel/france4.m3u8
+#https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof4.m3u8
+#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:-1 tvg-id=i"BFM TV en direct" status=timeout,BFM TV en direct
+https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id=i"BFM Business" status=timeout,BFM Business
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id=i"L'equipe" status=timeout,L'Equipe
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/res/la-chaine-l-equipe-en-direct-dm-highest.m3u8
+#EXTINF:-1 tvg-id="ABC USA" status="timeout",ABC USA
+http://51.159.54.83/stream/51.m3u8
+#EXTINF:-1 tvg-id="CBS USA" status="timeout",CBS USA
+http://51.159.54.83/stream/52.m3u8
+#EXTINF:-1 tvg-id="NBC USA" status="timeout",NBC USA
+http://51.159.54.83/stream/53.m3u8
+#EXTINF:-1 tvg-id="FOX USA" status="timeout",FOX USA
+http://51.159.54.83/stream/54.m3u8
+#EXTINF:-1 tvg-id="CW USA" status="timeout",CW USA
+http://51.159.54.83/stream/300.m3u8
+#EXTINF:-1 tvg-id="Freeform" status="timeout",Freeform
+http://51.159.54.83/stream/301.m3u8
+#EXTINF:-1 tvg-id="A&E Tv" status="timeout",A&E Tv
+http://51.159.54.83/stream/302.m3u8
+#EXTINF:-1 tvg-id="AMC Tv" status="timeout",AMC Tv
+http://51.159.54.83/stream/303.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" status="timeout",Animal Planet
+http://51.159.54.83/stream/304.m3u8
+#EXTINF:-1 tvg-id="5USA Channel" status="timeout",5USA Channel
+http://51.159.54.83/stream/360.m3u8
+#EXTINF:-1 tvg-id="BET Network" status="timeout",BET Network
+http://51.159.54.83/stream/306.m3u8
+#EXTINF:-1 tvg-id="Bravo TV" status="timeout",Bravo TV
+http://51.159.54.83/stream/307.m3u8
+#EXTINF:-1 tvg-id="CBS Sports Network (CBSSN)" status="timeout",CBS Sports Network (CBSSN)
+http://51.159.54.83/stream/308.m3u8
+#EXTINF:-1 tvg-id="CNBC" status="timeout",CNBC
+http://51.159.54.83/stream/309.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" status="timeout",Comedy Central
+http://51.159.54.83/stream/310.m3u8
+#EXTINF:-1 tvg-id="Discovery Life" status="timeout",Discovery Life
+http://51.159.54.83/stream/311.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" status="timeout",Disney Channel
+http://51.159.54.83/stream/312.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" status="timeout",Discovery HD
+http://51.159.54.83/stream/313.m3u8
+#EXTINF:-1 tvg-id="Disney XD" status="timeout",Disney XD
+http://51.159.54.83/stream/314.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment" status="timeout",E! Entertainment
+http://51.159.54.83/stream/315.m3u8
+#EXTINF:-1 tvg-id="ESPNU USA" status="timeout",ESPNU USA
+http://51.159.54.83/stream/316.m3u8
+#EXTINF:-1 tvg-id="FX TV" status="timeout",FX TV
+http://51.159.54.83/stream/317.m3u8
+#EXTINF:-1 tvg-id="FX movie channel" status="timeout",FX movie channel
+http://51.159.54.83/stream/381.m3u8
+#EXTINF:-1 tvg-id="Game Show Network" status="timeout",Game Show Network
+http://51.159.54.83/stream/319.m3u8
+#EXTINF:-1 tvg-id="The Hallmark Channel" status="timeout",The Hallmark Channel
+http://51.159.54.83/stream/320.m3u8
+#EXTINF:-1 tvg-id="Hallmark movies & mysteries" status="timeout",Hallmark movies & mysteries
+http://51.159.54.83/stream/296.m3u8
+#EXTINF:-1 tvg-id="HBO USA" status="timeout",HBO USA
+http://51.159.54.83/stream/321.m3u8
+#EXTINF:-1 tvg-id="HBO 2 USA" status="timeout",HBO 2 USA
+http://51.159.54.83/stream/689.m3u8
+#EXTINF:-1 tvg-id="HBO comedy USA" status="timeout",HBO comedy USA
+http://51.159.54.83/stream/690.m3u8
+#EXTINF:-1 tvg-id="HBO family USA" status="timeout",HBO family USA
+http://51.159.54.83/stream/691.m3u8
+#EXTINF:-1 tvg-id="HBO signature USA" status="timeout",HBO signature USA
+http://51.159.54.83/stream/693.m3u8
+#EXTINF:-1 tvg-id="HBO ZONE USA" status="timeout",HBO ZONE USA
+http://51.159.54.83/stream/694.m3u8
+#EXTINF:-1 tvg-id="History TV" status="timeout",History TV
+http://51.159.54.83/stream/322.m3u8
+#EXTINF:-1 tvg-id="ION Television" status="timeout",ION Television
+http://51.159.54.83/stream/325.m3u8
+#EXTINF:-1 tvg-id="Lifetime Movie Network" status="timeout",Lifetime Movie Network
+http://51.159.54.83/stream/326.m3u8
+#EXTINF:-1 tvg-id="MSNBC" status="timeout",MSNBC
+http://51.159.54.83/stream/327.m3u8
+#EXTINF:-1 tvg-id="National Geographic (NGC)" status="timeout",National Geographic (NGC)
+http://51.159.54.83/stream/328.m3u8
+#EXTINF:-1 tvg-id="NICK JR" status="timeout",NICK JR
+http://51.159.54.83/stream/329.m3u8
+#EXTINF:-1 tvg-id="NICK" status="timeout",NICK
+http://51.159.54.83/stream/330.m3u8
+#EXTINF:-1 tvg-id="Oprah Winfrey Network" status="timeout",Oprah Winfrey Network
+http://51.159.54.83/stream/331.m3u8
+#EXTINF:-1 tvg-id="Oxygen Tv" status="timeout",Oxygen Tv
+http://51.159.54.83/stream/332.m3u8
+#EXTINF:-1 tvg-id="Showtime USA" status="timeout",Showtime USA
+http://51.159.54.83/stream/333.m3u8
+#EXTINF:-1 tvg-id="Syfy USA" status="timeout extreme",Syfy USA
+http://51.159.54.83/stream/373.m3u8
+#EXTINF:-1 tvg-id="Showtime shoxbet USA" status="timeout",Showtime shoxbet USA
+http://51.159.54.83/stream/685.m3u8
+#EXTINF:-1 tvg-id="Showtime show2 USA" status="timeout",Showtime show2 USA
+http://51.159.54.83/stream/792.m3u8
+#EXTINF:-1 tvg-id="Showtime showcase USA" status="timeout",Showtime showcase USA
+http://51.159.54.83/stream/793.m3u8
+#EXTINF:-1 tvg-id="Showtime extreme USA" status="timeout",Showtime extreme USA
+http://51.159.54.83/stream/794.m3u8
+#EXTINF:-1 tvg-id="Showtime Family USA" status="timeout extreme",Showtime family USA
+http://51.159.54.83/stream/795.m3u8
+#EXTINF:-1 tvg-id="Showtime next USA" status="timeout extreme",Showtime next USA
+http://51.159.54.83/stream/796.m3u8
+#EXTINF:-1 tvg-id="Showtime woman USA" status="timeout extreme",Showtime woman USA
+http://51.159.54.83/stream/797.m3u8
+#EXTINF:-1 tvg-id="Paramount Network" status="timeout",Paramount Network
+http://51.159.54.83/stream/334.m3u8
+#EXTINF:-1 tvg-id="Sundance TV" status="timeout",Sundance TV
+http://51.159.54.83/stream/658.m3u8
+#EXTINF:-1 tvg-id="Starz" status="timeout",Starz
+http://51.159.54.83/stream/335.m3u8
+#EXTINF:-1 tvg-id="Starz cinema" status="timeout",Starz cinema
+http://51.159.54.83/stream/970.m3u8
+#EXTINF:-1 tvg-id="Starz comedy" status="timeout",Starz comedy
+http://51.159.54.83/stream/971.m3u8
+#EXTINF:-1 tvg-id="Starz edge" status="timeout",Starz edge
+http://51.159.54.83/stream/972.m3u8
+#EXTINF:-1 tvg-id="Starz in black" status="timeout",Starz in black
+http://51.159.54.83/stream/973.m3u8
+#EXTINF:-1 tvg-id="Starz kids & family" status="timeout",Starz kids & family
+http://51.159.54.83/stream/974.m3u8
+#EXTINF:-1 tvg-id="Starz encore" status="timeout",Starz encore
+http://51.159.54.83/stream/975.m3u8
+#EXTINF:-1 tvg-id="Starz encore action" status="timeout",Starz encore action
+http://51.159.54.83/stream/976.m3u8
+#EXTINF:-1 tvg-id="Starz encore black" status="timeout",Starz encore black
+http://51.159.54.83/stream/977.m3u8
+#EXTINF:-1 tvg-id="Starz encore classic" status="timeout",Starz encore classic
+http://51.159.54.83/stream/978.m3u8
+#EXTINF:-1 tvg-id="Starz encore family" status="timeout",Starz encore family
+http://51.159.54.83/stream/979.m3u8
+#EXTINF:-1 tvg-id="Starz encore suspense" status="timeout",Starz encore suspense
+http://51.159.54.83/stream/980.m3u8
+#EXTINF:-1 tvg-id="Starz encore westerns" status="timeout",Starz encore westerns
+http://51.159.54.83/stream/981.m3u8
+#EXTINF:-1 tvg-id="TBS" status="timeout",TBS
+http://51.159.54.83/stream/336.m3u8
+#EXTINF:-1 tvg-id="TLC" status="timeout",TLC
+http://51.159.54.83/stream/337.m3u8
+#EXTINF:-1 tvg-id="TNT USA" status="timeout",TNT USA
+http://51.159.54.83/stream/338.m3u8
+#EXTINF:-1 tvg-id="TCM USA" status="timeout",TCM USA
+http://51.159.54.83/stream/644.m3u8
+#EXTINF:-1 tvg-id="SKY premiere" status="timeout",SKY premiere
+http://51.159.54.83/stream/671.m3u8
+#EXTINF:-1 tvg-id="SKY select" status="timeout",SKY select
+http://51.159.54.83/stream/672.m3u8
+#EXTINF:-1 tvg-id="SKY hits" status="timeout",SKY hits
+http://51.159.54.83/stream/673.m3u8
+#EXTINF:-1 tvg-id="SKY greats" status="timeout",SKY greats
+http://51.159.54.83/stream/674.m3u8
+#EXTINF:-1 tvg-id="SKY action" status="timeout",SKY action
+http://51.159.54.83/stream/677.m3u8
+#EXTINF:-1 tvg-id="SKY thriller" status="timeout",SKY thriller
+http://51.159.54.83/stream/679.m3u8
+#EXTINF:-1 tvg-id="SKY scifi" status="timeout",SKY scifi
+http://51.159.54.83/stream/681.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" status="timeout",Cartoon Network
+http://51.159.54.83/stream/339.m3u8
+#EXTINF:-1 tvg-id="Travel Channel" status="timeout",Travel Channel
+http://51.159.54.83/stream/340.m3u8
+#EXTINF:-1 tvg-id="tru TV" status="timeout",tru TV
+http://51.159.54.83/stream/341.m3u8
+#EXTINF:-1 tvg-id="TVLAND" status="timeout",TVLAND
+http://51.159.54.83/stream/342.m3u8
+#EXTINF:-1 tvg-id="USA Network" status="timeout",USA Network
+http://51.159.54.83/stream/343.m3u8
+#EXTINF:-1 tvg-id="VH1 USA" status="timeout",VH1 USA
+http://51.159.54.83/stream/344.m3u8
+#EXTINF:-1 tvg-id="CNN USA" status="timeout",CNN USA
+http://51.159.54.83/stream/345.m3u8
+#EXTINF:-1 tvg-id="Fox News" status="timeout",Fox News
+http://51.159.54.83/stream/347.m3u8
+#EXTINF:-1 tvg-id="Dave Channel" status="timeout",Dave Channel
+http://51.159.54.83/stream/348.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" status="timeout",BBC News UK
+http://51.159.54.83/stream/349.m3u8
+#EXTINF:-1 tvg-id="ITV 1 UK" status="timeout",ITV 1 UK
+http://51.159.54.83/stream/350.m3u8
+#EXTINF:-1 tvg-id="ITV 2 UK" status="timeout",ITV 2 UK
+http://51.159.54.83/stream/351.m3u8
+#EXTINF:-1 tvg-id="ITV 3 UK" status="timeout",ITV 3 UK
+http://51.159.54.83/stream/352.m3u8
+#EXTINF:-1 tvg-id="ITV 4 UK" status="timeout",ITV 4 UK
+http://51.159.54.83/stream/353.m3u8
+#EXTINF:-1 tvg-id="Channel 4 UK" status="timeout",Channel 4 UK
+http://51.159.54.83/stream/354.m3u8
+#EXTINF:-1 tvg-id="Channel 5 UK" status="timeout",Channel 5 UK
+http://51.159.54.83/stream/355.m3u8
+#EXTINF:-1 tvg-id="BBC One UK" status="timeout",BBC One UK
+http://51.159.54.83/stream/356.m3u8
+#EXTINF:-1 tvg-id="BBC Two UK" status="timeout",BBC Two UK
+http://51.159.54.83/stream/357.m3u8
+#EXTINF:-1 tvg-id="BBC Three UK" status="timeout",BBC Three UK
+http://51.159.54.83/stream/358.m3u8
+#EXTINF:-1 tvg-id="BBC Four UK" status="timeout",BBC Four UK
+http://51.159.54.83/stream/359.m3u8
+#EXTINF:-1 tvg-id="BBC America" status="timeout",BBC America
+http://51.159.54.83/stream/305.m3u8
+#EXTINF:-1 tvg-id="Sky Witness HD" status="timeout",Sky Witness HD
+http://51.159.54.83/stream/361.m3u8
+#EXTINF:-1 tvg-id="Sky Atlantic" status="timeout",Sky Atlantic
+http://51.159.54.83/stream/362.m3u8
+#EXTINF:-1 tvg-id="E4 Channel" status="timeout",E4 Channel
+http://51.159.54.83/stream/363.m3u8
+#EXTINF:-1 tvg-id="RTE 1" status="timeout",RTE 1
+http://51.159.54.83/stream/364.m3u8
+#EXTINF:-1 tvg-id="RTE 2" status="timeout",RTE 2
+http://51.159.54.83/stream/365.m3u8
+#EXTINF:-1 tvg-id="Sky Sports News UK" status="timeout",Sky Sports News UK
+http://51.159.54.83/stream/366.m3u8
+#EXTINF:-1 tvg-id="MTV UK" status="timeout",MTV UK
+http://51.159.54.83/stream/367.m3u8
+#EXTINF:-1 tvg-id="MTV USA" status="timeout",MTV USA
+http://51.159.54.83/stream/371.m3u8
+#EXTINF:-1 tvg-id="RMC Sport" status="timeout", RMC Sport
+http://51.159.54.83/stream/119.m3u8
+#EXTINF:-1 tvg-id="BEIN Sport 1" status="timeout", BEIN Sport 1
+http://51.159.54.83/stream/116.m3u8
+#EXTINF:-1 tvg-id="BEIN Sport 2" status="timeout", BEIN Sport 2
+http://51.159.54.83/stream/117.m3u8
+#EXTINF:-1 tvg-id="BEIN Sport 3" status="timeout", BEIN Sport 3
+http://51.159.54.83/stream/118.m3u8
+#EXTINF:-1 tvg-id="BEIN Sport 4" status="timeout", BEIN Sport 4
+http://51.159.54.83/stream/494.m3u8
+#EXTINF:-1 tvg-id="Sky sport UK foot" status="timeout", Sky sport UK foot
+http://51.159.54.83/stream/35.m3u8
+#EXTINF:-1 tvg-id="BT Sport 1" status="timeout", BT Sport 1
+http://51.159.54.83/stream/31.m3u8
+#EXTINF:-1 tvg-id="TF1" status="timeout", TF1
+http://51.159.54.83/stream/469.m3u8
+#EXTINF:-1 tvg-id="M6" status="timeout", M6
+http://51.159.54.83/stream/470.m3u8
+#EXTINF:-1 tvg-id="RTBF-1" status="timeout", RTBF-1
+http://51.159.54.83/stream/645.m3u8
+#EXTINF:-1 tvg-id="DAZN-1" status="timeout", DAZN-1
+http://51.159.54.83/stream/55.m3u8
+#EXTINF:-1 tvg-id="extra-1" status="timeout", extra-1
+http://51.159.54.83/nm/extra/channel/extra1.m3u8
+#EXTINF:-1 tvg-id="extra-2" status="timeout", extra-2
+http://51.159.54.83/nm/extra/channel/extra2.m3u8
+#EXTINF:-1 tvg-id="extra-3" status="timeout", extra-3
+http://51.159.54.83/nm/extra/channel/extra3.m3u8
+#EXTINF:-1 tvg-id="extra-4" status="timeout", extra-4
+http://51.159.54.83/nm/extra/channel/extra4.m3u8
+#EXTINF:-1 tvg-id="extra-5" status="timeout", extra-5
+http://51.159.54.83/nm/extra/channel/extra5.m3u8
+#EXTINF:-1 tvg-id="extra-6" status="timeout", extra-6
+http://51.159.54.83/nm/extra/channel/extra6.m3u8
+#EXTINF:-1 tvg-id="extra-1-player5" status="timeout", extra-1-player5
+http://51.159.54.83/nm/tntcdn/channel/canal.m3u8
+#EXTINF:-1 tvg-id="extra-2-player5" status="timeout", extra-2-player5
+http://51.159.54.83/nm/tnt/channel/canal-foot.m3u8
+#EXTINF:-1 tvg-id="extra-3-player5" status="timeout", extra-3-player5
+http://51.159.54.83/nm/tntcdn/channel/canal-sport.m3u8
+#EXTINF:-1 tvg-id="extra-4-player5" status="timeout", extra-4-player5
+http://51.159.54.83/nm/tntcdn/channel/bein-sports-2.m3u8
+#EXTINF:-1 tvg-id="extra-5-player5" status="timeout", extra-5-player5
+http://51.159.54.83/nm/tntcdn/channel/bein-sports-1.m3u8
+#EXTINF:-1 tvg-id="extra-6-player5" status="timeout", extra-6-player5
+http://51.159.54.83/nm/tntcdn/channel/bein-sports-3.m3u8
