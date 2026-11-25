@@ -32,8 +32,12 @@ http://51.159.54.83/stream/767.m3u8
 http://51.159.54.83/stream/464.m3u8
 #EXTINF:-1 tvg-id="TNT SPORT 1" status="timeout",TNT SPORT 1
 http://51.159.54.83/stream/31.m3u8
-#EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
+#EXTINF:-1 tvg-id="TNT SPORT 2" status="timeout",TNT SPORT 2
+http://51.159.54.83/stream/32.m3u8
+#EXTINF:-1 tvg-id="TNT SPORT 3" status="timeout",TNT SPORT 3
 http://51.159.54.83/stream/33.m3u8
+#EXTINF:-1 tvg-id="TNT SPORT 4" status="timeout",TNT SPORT 4
+http://51.159.54.83/stream/34.m3u8
 #EXTINF:-1 tvg-id="DAZN ligue1 France" status="timeout",DAZN ligue1 France
 http://51.159.54.83/stream/960.m3u8
 #EXTINF:-1 tvg-id=i"FRANCE 5" status=timeout,FRANCE 5
